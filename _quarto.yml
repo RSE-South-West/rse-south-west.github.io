@@ -1,0 +1,15 @@
+project:
+  type: website
+
+website:
+  title: RSE events in the South West
+  navbar:
+    title: RSE events in the South West
+  page-footer:
+    center: © [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+  search: false
+
+format:
+  html:
+    theme: assets/styles.scss
+    page-layout: full

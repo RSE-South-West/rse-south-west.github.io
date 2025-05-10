@@ -1,0 +1,39 @@
+/*-- scss:defaults --*/
+
+@import "https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,400;0,700;1,400;1,700&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap";
+
+$primary: #702552;
+$body-bg: #fff;
+$body-color: #333;
+$link-color: #34d;
+$navbar-bg: $primary;
+$navbar-fg: #fff;
+$font-family-sans-serif: 'Open Sans', system-ui, -apple-system, Segoe UI, Roboto, Helvetica Neue, Noto Sans, Liberation Sans, Arial, sans-serif;
+$headings-font-family: 'Titillium Web', system-ui, -apple-system, Segoe UI, Roboto, Helvetica Neue, Noto Sans, Liberation Sans, Arial, sans-serif;
+$headings-font-weight: 400 !important;
+
+/*-- scss:rules --*/
+
+#quarto-header {
+    &>nav.navbar {
+        @extend .page-columns;
+
+        &>.navbar-container {
+            @extend .column-page;
+            padding-inline: 0;
+        }
+
+        .navbar-brand-container {
+            max-width: 100%;
+        }
+    }
+}
+
+main {
+    td, th {
+        ul {
+            margin-bottom: 0;
+        }
+    }
+}

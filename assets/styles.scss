@@ -18,6 +18,7 @@ $headings-font-weight: 400 !important;
 #quarto-header {
     &>nav.navbar {
         @extend .page-columns;
+        padding-inline: 0;
 
         &>.navbar-container {
             @extend .column-page;

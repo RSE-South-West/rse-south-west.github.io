@@ -3,8 +3,11 @@ title: Meeting of South West RSE's in Bristol
 ---
 
 Monday 23 June 2025, 10am – 3:30pm (refreshments from 9:30am for a 10am start)<br>
-[Fry Building, Woodland Road, Bristol, BS8 1UG](https://maps.google.com/?q=Fry Building, Woodland Road, Bristol, BS8 1UG)
+[Fry Building, Woodland Road, Bristol, BS8 1UG](https://maps.google.com/?q=Fry Building, Woodland Road, Bristol, BS8 1UG) ([How to get here](https://www.bristol.ac.uk/maps/how-to-get-here/))
 
+[Registration is closed](){.btn .disabled}
+
+::: {.content-hidden}
 [Register and/or submit a talk](https://forms.office.com/e/1fF8uhB1Tb){.btn .btn-primary}
 
 Deadline for submission of talks
@@ -12,6 +15,7 @@ Deadline for submission of talks
 
 Deadline to register as an attendee
 : Sunday 8 June
+:::
 
 ## Purpose
 
@@ -21,52 +25,95 @@ It aims to complement the annual RSE conference and be useful to those in the So
 
 All are welcome, whether or not you are from the South West of the UK, and whether or not you [self-define as a Research Software Engineer (RSE)](https://society-rse.org/what-is-an-rse/).
 
-## Draft agenda
+## Agenda
 
 <table class="table">
   <tr>
-    <td>09:30
+    <th>09:30
     <td>Refreshments on arrival
   <tr>
-    <td><strong>10:00</strong>
-    <td><strong>Start and introductions</strong>
+    <th>10:00
+    <td><strong>Welcome</strong><br>
+      <em>James Thomas, Rachel Tunnicliffe, Rita Rasteiro, Léo Gorman</em>
+      <ul>
+        <li>Introductions from the different groups attending
+        <li>Introduction to the afternoon discussion session
+      </ul>
   <tr>
-    <td>10:20
-    <td>Keynote speaker
+    <th>10:20
+    <td><strong>Keynote</strong><br>
+      <em>Fliss Guest</em><br>
+      Vice President of the Society of Research Software Engineering<br>
+      Deputy Head of Research Software Engineering at the University of Exeter
   <tr>
-    <td>11:00
+    <th>11:00
     <td>Networking and refreshments
   <tr>
-    <td>11:15
-    <td>Talks session 1
-      <ul>
-        <li>Talks (15 minutes)
-        <li>Lightning talks (5 minutes)
-      </ul>
+    <th rowspan="3">11:15
+    <th>Session 1: Groups and facilities
   <tr>
-    <td>12:25
+    <td>How can University IT departments support RSEs to deliver and share better research software?<br>
+      <em>Polly Eccleston</em>
+  <tr>
+    <td>TBC<br>
+      <em>Invited speaker</em>
+  <tr>
+    <th rowspan="4">11:55
+    <th>Lightning talks (5 minutes)
+  <tr>
+    <td>Research IT Facility at the University of Bristol<br>
+      <em>Serena Cooper</em>
+  <tr>
+    <td>Developing & Deploying Conceptual Design Tools for Factory Planning<br>
+      <em>Lewis Gilbert</em>
+  <tr>
+    <td>The Isambard supercomputers<br>
+      <em>Matt Williams</em>
+  <tr>
+    <th>12:30
     <td>Group photo
   <tr>
-    <td><strong>12:30</strong>
-    <td><strong>Lunch</strong> and optional walk/viewing tower
+    <th>12:40
+    <td>Lunch and optional walk/viewing tower
   <tr>
-    <td>14:00
-    <td>Talks session 2
+    <th>13:50
+    <td><strong>Start of afternoon session</strong>
       <ul>
-        <li>Talks (15 minutes)
-        <li>Lightning talks (5 minutes)
+        <li>Preparation for the discussion session
       </ul>
   <tr>
-    <td>14:45
-    <td>Discussion session
+    <th rowspan="2">14:00
+    <th>Session 2: Applications
+  <tr>
+    <td>Mapping the March: an RSE's adventures in time and space<br>
+      <em>Mike Jones</em>
+  <tr>
+    <th rowspan="4">14:20
+    <th>Lightning talks (5 minutes)
+  <tr>
+    <td>How do you host translated content within a Django application?<br>
+      <em>Benjamin O'Driscoll</em>
+  <tr>
+    <td>Support for the Python array API standard in SciPy<br>
+      <em>Jake Bowhay</em>
+  <tr>
+    <td>Make `make` great again<br>
+      <em>James Frost</em>
+  <tr>
+    <th>14:50
+    <td><strong>Discussion session</strong><br>
+      <em>Rachel Tunnicliffe</em>
       <ul>
         <li>The future of RSE South West events
+        <li>RSE groups and how they're organised
+        <li>RSE best practices
       </ul>
   <tr>
-    <td>15:15
-    <td>Closing remarks
+    <th>15:20
+    <td><strong>Closing remarks</strong><br>
+      <em>James Thomas, Rachel Tunnicliffe, Rita Rasteiro, Léo Gorman</em>
   <tr>
-    <td><strong>15:30</strong>
+    <th>15:30
     <td><strong>End of day</strong> and optional pub trip
 </table>
 

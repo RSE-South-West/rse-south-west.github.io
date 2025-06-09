@@ -125,4 +125,4 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
 
 The easiest way to communicate with everyone is via the [#rse-south-west](https://ukrse.slack.com/archives/C085EGAULJ3) channel on the [UK RSE Slack instance](https://ukrse.slack.com/signup?redir=/archives/C085EGAULJ3).
 
-If you would rather send us an email, please contact: <ask-jgi@bristol.ac.uk>.
+If you would rather send us an email, please contact: <rse-south-west-2025@bristol.ac.uk>.

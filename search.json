@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Meeting of South West RSE’s in Bristol",
     "section": "",
-    "text": "Monday 23 June 2025, 10am – 3:30pm (refreshments from 9:30am for a 10am start) Fry Building, Woodland Road, Bristol, BS8 1UG\nRegister and/or submit a talk"
+    "text": "Monday 23 June 2025, 10am – 3:30pm (refreshments from 9:30am for a 10am start) Fry Building, Woodland Road, Bristol, BS8 1UG (How to get here)\nRegistration is closed"
   },
   {
     "objectID": "index.html#purpose",
@@ -18,7 +18,7 @@
     "href": "index.html#draft-agenda",
     "title": "Meeting of South West RSE’s in Bristol",
     "section": "Draft agenda",
-    "text": "Draft agenda\n\n\n\n09:30\n\nRefreshments on arrival\n\n\n10:00\n\nStart and introductions\n\n\n10:20\n\nKeynote speaker\n\n\n11:00\n\nNetworking and refreshments\n\n\n11:15\n\nTalks session 1\n\n\nTalks (15 minutes)\n\nLightning talks (5 minutes)\n\n\n\n12:25\n\nGroup photo\n\n\n12:30\n\nLunch and optional walk/viewing tower\n\n\n14:00\n\nTalks session 2\n\n\nTalks (15 minutes)\n\nLightning talks (5 minutes)\n\n\n\n14:45\n\nDiscussion session\n\n\nThe future of RSE South West events\n\n\n\n15:15\n\nClosing remarks\n\n\n15:30\n\nEnd of day and optional pub trip"
+    "text": "Draft agenda\n\n\n\n09:30\n\nRefreshments on arrival\n\n\n10:00\n\nWelcome James Thomas, Rachel Tunnicliffe, Rita Rasteiro, Léo Gorman\n\n\nIntroductions from the different groups attending\n\nIntroduction to the afternoon discussion session\n\n\n\n10:20\n\nKeynote Fliss Guest Vice President of the Society of Research Software Engineering Deputy Head of Research Software Engineering at the University of Exeter\n\n\n11:00\n\nNetworking and refreshments\n\n\n11:15\n\nSession 1: Groups and facilities\n\n\nHow can University IT departments support RSEs to deliver and share better research software? Polly Eccleston\n\n\nTBC Invited speaker\n\n\nLightning talks\n\n\nResearch IT Facility at the University of Bristol Serena Cooper\n\n\nDeveloping & Deploying Conceptual Design Tools for Factory Planning Lewis Gilbert\n\n\nThe Isambard supercomputers Matt Williams\n\n\n12:30\n\nGroup photo\n\n\n12:40\n\nLunch and optional walk/viewing tower\n\n\n13:50\n\nStart of afternoon session\n\n\nPreparation for the discussion session\n\n\n\n14:00\n\nSession 2: Applications\n\n\nMapping the March: an RSE’s adventures in time and space Mike Jones\n\n\nLightning talks\n\n\nHow do you host translated content within a Django application? Benjamin O’Driscoll\n\n\nSupport for the Python array API standard in SciPy Jake Bowhay\n\n\nMake make great again James Frost\n\n\n14:50\n\nDiscussion session Rachel Tunnicliffe\n\n\nThe future of RSE South West events\n\nRSE groups and how they’re organised\n\nRSE best practices\n\n\n\n15:20\n\nClosing remarks James Thomas, Rachel Tunnicliffe, Rita Rasteiro, Léo Gorman\n\n\n15:30\n\nEnd of day and optional pub trip"
   },
   {
     "objectID": "index.html#code-of-conduct",

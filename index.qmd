@@ -53,7 +53,7 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
     <th rowspan="3">11:15
     <th>Session 1: Groups and facilities
   <tr>
-    <td>How can University IT departments support RSEs to deliver and share better research software?<br>
+    <td>How can Universities / or Scientific centres support RSEs to deliver and share better research software?<br>
       <em>Polly Eccleston</em>
   <tr>
     <td>TBC<br>

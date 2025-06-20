@@ -38,7 +38,7 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
       <em>James Thomas, Rachel Tunnicliffe, Rita Rasteiro, Léo Gorman</em>
       <ul>
         <li>Introductions from the different groups attending
-        <li>Getting your views on RSECon25
+        <li>Getting [your views on RSECon25](https://www.menti.com/al1sj9nvpd1c)
         <li>Introduction to [Padlet for the afternoon discussion session]({{< meta padlet >}})
       </ul>
   <tr>
@@ -114,7 +114,7 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
     <td><strong>Closing remarks</strong><br>
       <em>James Thomas, Rachel Tunnicliffe, Rita Rasteiro, Léo Gorman</em>
       <ul>
-        <li>Feedback
+        <li>[Feedback](https://www.menti.com/al5imocw83d2)
   <tr>
     <th>15:30
     <td><strong>End of day</strong> and optional pub trip

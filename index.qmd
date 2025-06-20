@@ -63,10 +63,10 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
     <td>Research IT Facility at the University of Bristol<br>
       <em>Serena Cooper</em>
   <tr>
-    <td>Developing & Deploying Conceptual Design Tools for Factory Planning<br>
+    <td>[Developing & Deploying Conceptual Design Tools for Factory Planning](meetings/2025-06-23-bristol/talks/Lewis_Gilbert_Developing_Deploying_Conceptual_Design_Tools_for_Factory_Planning.pdf)<br>
       <em>Lewis Gilbert</em>
   <tr>
-    <td>The Isambard supercomputers<br>
+    <td>[The Isambard supercomputers](meetings/2025-06-23-bristol/talks/Matt_Williams_The_Isambard_supercomputers.pdf)<br>
       <em>Matt Williams</em>
   <tr>
     <th>12:25
@@ -83,16 +83,16 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
     <th rowspan="2">13:45
     <th>Session 2: Applications
   <tr>
-    <td>Mapping the March: an RSE's adventures in time and space<br>
+    <td>[Mapping the March: an RSE's adventures in time and space](meetings/2025-06-23-bristol/talks/Mike_Jones_Mapping_the_March_an_RSE's_adventures_in_time_and_space.pdf)<br>
       <em>Mike Jones</em>
   <tr>
     <th rowspan="4">14:05
     <th>Lightning talks (5 minutes)
   <tr>
-    <td>How do you host translated content within a Django application?<br>
+    <td>[How do you host translated content within a Django application?](meetings/2025-06-23-bristol/talks/Benjamin_O'Driscoll_How_do_you_host_translated_content_within_a_Django_application.pdf)<br>
       <em>Benjamin O'Driscoll</em>
   <tr>
-    <td>Support for the Python array API standard in SciPy<br>
+    <td>[Support for the Python array API standard in SciPy](meetings/2025-06-23-bristol/talks/Jake_Bowhay_Support_for_the_Python_array_API_standard_in_SciPy.pdf)<br>
       <em>Jake Bowhay</em>
   <tr>
     <td>Make `make` great again<br>

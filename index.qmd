@@ -38,28 +38,26 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
       <em>James Thomas, Rachel Tunnicliffe, Rita Rasteiro, Léo Gorman</em>
       <ul>
         <li>Introductions from the different groups attending
+        <li>Getting your views on RSECon25
         <li>Introduction to [Padlet for the afternoon discussion session]({{< meta padlet >}})
       </ul>
   <tr>
-    <th>10:20
+    <th>10:30
     <td><strong>Keynote</strong><br>
       <em>Fliss Guest</em><br>
       Vice President of the Society of Research Software Engineering<br>
       Deputy Head of Research Software Engineering at the University of Exeter
   <tr>
-    <th>11:00
+    <th>11:10
     <td>Networking and refreshments
   <tr>
-    <th rowspan="3">11:15
+    <th rowspan="2">11:30
     <th>Session 1: Groups and facilities
   <tr>
     <td>How can Universities / or Scientific centres support RSEs to deliver and share better research software?<br>
       <em>Polly Eccleston</em>
   <tr>
-    <td>TBC<br>
-      <em>Invited speaker</em>
-  <tr>
-    <th rowspan="4">11:55
+    <th rowspan="4">11:50
     <th>Lightning talks (5 minutes)
   <tr>
     <td>Research IT Facility at the University of Bristol<br>
@@ -71,24 +69,24 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
     <td>The Isambard supercomputers<br>
       <em>Matt Williams</em>
   <tr>
-    <th>12:30
+    <th>12:25
     <td>Group photo
   <tr>
-    <th>12:40
+    <th>12:30
     <td>Lunch and optional walk/viewing tower
   <tr>
-    <th>13:50
+    <th>13:40
     <td><strong>Start of afternoon session</strong>
       <ul>
         <li>Work on [Padlet for the afternoon discussion session]({{< meta padlet >}})
   <tr>
-    <th rowspan="2">14:00
+    <th rowspan="2">13:45
     <th>Session 2: Applications
   <tr>
     <td>Mapping the March: an RSE's adventures in time and space<br>
       <em>Mike Jones</em>
   <tr>
-    <th rowspan="4">14:20
+    <th rowspan="4">14:05
     <th>Lightning talks (5 minutes)
   <tr>
     <td>How do you host translated content within a Django application?<br>
@@ -99,6 +97,9 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
   <tr>
     <td>Make `make` great again<br>
       <em>James Frost</em>
+  <tr>
+    <th>14:35
+    <td>Networking and refreshments
   <tr>
     <th>14:50
     <td><strong>Discussion session</strong> ([Padlet link]({{< meta padlet >}}))<br>
@@ -112,6 +113,8 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
     <th>15:20
     <td><strong>Closing remarks</strong><br>
       <em>James Thomas, Rachel Tunnicliffe, Rita Rasteiro, Léo Gorman</em>
+      <ul>
+        <li>Feedback
   <tr>
     <th>15:30
     <td><strong>End of day</strong> and optional pub trip

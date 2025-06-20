@@ -54,7 +54,7 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
     <th rowspan="2">11:30
     <th>Session 1: Groups and facilities
   <tr>
-    <td>How can Universities / or Scientific centres support RSEs to deliver and share better research software?<br>
+    <td>[How can Universities / or Scientific centres support RSEs to deliver and share better research software?](https://padlet.com/pollyeccleston1/rse-sw-how-can-universities-or-scientific-centres-support-rs-eii7qg000a3hxz1z)<br>
       <em>Polly Eccleston</em>
   <tr>
     <th rowspan="4">11:50

@@ -107,7 +107,17 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="agenda" class="level2">
 <h2 class="anchored" data-anchor-id="agenda">Agenda</h2>
-<table class="table">
+<style>
+  .agenda {
+    th:first-child {
+      width: 4em;
+    }
+    details, blockquote {
+      margin: 0;
+    }
+  }
+</style>
+<table class="table agenda">
 <tbody><tr>
 <th>
 09:30
@@ -130,7 +140,15 @@ Introduction to <a href="https://uob.padlet.org/racheltunnicliffe1/rse-south-wes
 <th>
 10:30
 </th><td>
-<strong>Keynote</strong><br> <em>Fliss Guest</em><br> Vice President of the Society of Research Software Engineering<br> Deputy Head of Research Software Engineering at the University of Exeter
+<strong>Keynote: RSE Communities: What, How &amp; Why?</strong><br> <em>Fliss Guest</em><br> Vice President of the Society of Research Software Engineering<br> Deputy Head of Research Software Engineering at the University of Exeter
+<details>
+<summary>
+Abstract
+</summary>
+<blockquote class="blockquote">
+The RSE landscape encompasses numerous communities, such as networks, central teams at universities and organisations. I will shed some light on the communities I have been a part of since becoming an RSE four short years ago, sharing insights into how and why they came about, along with the benefits they pose for us as individuals and collectives.
+</blockquote>
+</details>
 </td></tr><tr>
 <th>
 11:10
@@ -151,13 +169,37 @@ Session 1: Groups and facilities
 Lightning talks (5 minutes)
 </th></tr><tr>
 <td>
-Research IT Facility at the University of Bristol<br> <em>Serena Cooper</em>
+<a href="meetings/2025-06-23-bristol/talks/Serena_Cooper_Research_IT_Facility_at_UoB.pdf">Research IT Facility at the University of Bristol</a><br> <em>Serena Cooper</em>
+<details>
+<summary>
+Abstract
+</summary>
+<blockquote class="blockquote">
+Research IT are a team of professional software developers and systems administrators who specialise in creating bespoke software for academic research. I will give an overview of the team, some of our projects, and talk about how we manage our pipeline of work and the pros and cons of being a formal TRAC facility.
+</blockquote>
+</details>
 </td></tr><tr>
 <td>
 <a href="meetings/2025-06-23-bristol/talks/Lewis_Gilbert_Developing_Deploying_Conceptual_Design_Tools_for_Factory_Planning.pdf">Developing &amp; Deploying Conceptual Design Tools for Factory Planning</a><br> <em>Lewis Gilbert</em>
+<details>
+<summary>
+Abstract
+</summary>
+<blockquote class="blockquote">
+CFMS (the Centre for Modelling and Simulation) is a Bristol-based independent digital engineering consultancy which collaborates with industry and academia to solve complex problems. CFMS is working with an industrial client to develop and deploy novel simulation tools to plan the movements of a network of automated overhead cranes in a factory. This is an example of a multi-agent pathfinding problem, with the objective of maximising the factory’s throughput for any given manufacturing schedule. This talk discusses the value of simulation at the conceptual design stage for a highly complex system. It also covers some of the challenges of creating tools for immediate industrial application - with a technology stack requiring a combination of rapid software development, automated deployment and high performance compute facilities to achieve the project’s aims.
+</blockquote>
+</details>
 </td></tr><tr>
 <td>
 <a href="meetings/2025-06-23-bristol/talks/Matt_Williams_The_Isambard_supercomputers.pdf">The Isambard supercomputers</a><br> <em>Matt Williams</em>
+<details>
+<summary>
+Abstract
+</summary>
+<blockquote class="blockquote">
+A short introduction to the Isambard-AI and Isambard 3 supercomputers, what they provide, how they work and how you can get access.
+</blockquote>
+</details>
 </td></tr><tr>
 <th>
 12:25
@@ -184,6 +226,14 @@ Session 2: Applications
 </th></tr><tr>
 <td>
 <a href="meetings/2025-06-23-bristol/talks/Mike_Jones_Mapping_the_March_an_RSE's_adventures_in_time_and_space.pdf">Mapping the March: an RSE’s adventures in time and space</a><br> <em>Mike Jones</em>
+<details>
+<summary>
+Abstract
+</summary>
+<blockquote class="blockquote">
+A talk introducing the UKRI-funded project, “Mapping the March: Medieval Wales and England, c.1282-1550. Mapping Literary Geography in a British Border Region.” It will outline how Research IT supports this Digital Humanities project and its researchers, the technologies employed, and discusses some of the challenges encountered with historical and geospatial data.
+</blockquote>
+</details>
 </td></tr><tr>
 <th rowspan="4">
 14:05
@@ -192,9 +242,25 @@ Lightning talks (5 minutes)
 </th></tr><tr>
 <td>
 <a href="meetings/2025-06-23-bristol/talks/Benjamin_O'Driscoll_How_do_you_host_translated_content_within_a_Django_application.pdf">How do you host translated content within a Django application?</a><br> <em>Benjamin O’Driscoll</em>
+<details>
+<summary>
+Abstract
+</summary>
+<blockquote class="blockquote">
+The ProBleu Resource Catalogue is a Django based, full stack application, which provides educators access to teaching resources on the subject of water literacy. Users are encouraged to upload educational material which is translated into 24 official EU languages. This talk gives a brief overview of how the django-modeltranslation package was implemented to enhance the reach of materials uploaded to the website.
+</blockquote>
+</details>
 </td></tr><tr>
 <td>
 <a href="meetings/2025-06-23-bristol/talks/Jake_Bowhay_Support_for_the_Python_array_API_standard_in_SciPy.pdf">Support for the Python array API standard in SciPy</a><br> <em>Jake Bowhay</em>
+<details>
+<summary>
+Abstract
+</summary>
+<blockquote class="blockquote">
+Array oriented computing in Python was once straightforward: NumPy for arrays, and SciPy for foundational scientific functions. However as of today, the array library ecosystem has expanded to include CuPy, PyTorch, JAX, and others, each addressing use cases beyond NumPy’s scope. This talk introduces how SciPy is evolving to support this diverse landscape by adopting the Python array API standard. I’ll briefly introduce what this standard is and how it is enabling SciPy to write code that is interoperable across array libraries.
+</blockquote>
+</details>
 </td></tr><tr>
 <td>
 Make <code>make</code> great again<br> <em>James Frost</em>

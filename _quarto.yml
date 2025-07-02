@@ -2,9 +2,18 @@ project:
   type: website
 
 website:
-  title: RSE events in the South West
+  title: RSE South West group
+  description: "A group of Research Software Engineers in the South West of England"
   navbar:
-    title: RSE events in the South West
+   left:
+    - text: "Meetings"
+      href: meetings/meetings.qmd
+    - text: "Resources"
+      href: resources.qmd
+    - text: "Members"
+      href: members.qmd
+    # - text: "About"
+      # href: about.qmd
   page-footer:
     center: © [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/)
   search: false
@@ -13,3 +22,4 @@ format:
   html:
     theme: assets/styles.scss
     page-layout: full
+

@@ -1,170 +1,30 @@
 ---
-title: Meeting of South West RSE's in Bristol
-padlet: https://uob.padlet.org/racheltunnicliffe1/rse-south-west-discussion-esqgnrwbo8d39r4i
+title:  Welcome to RSE South West
 ---
 
-Monday 23 June 2025, 9:30am – 3:30pm (refreshments from 9:30am for a 10am start)<br>
-Room LG.02, [Fry Building, Woodland Road, Bristol, BS8 1UG](https://maps.google.com/?q=Fry Building, Woodland Road, Bristol, BS8 1UG) ([How to get here](https://www.bristol.ac.uk/maps/how-to-get-here/))
 
-[Registration is closed](){.btn .disabled}
 
-::: {.content-hidden}
-[Register and/or submit a talk](https://forms.office.com/e/1fF8uhB1Tb){.btn .btn-primary}
+We are a community of research software engineers mainly from the South West of England and GW4 Universities who are not affiliated with a larger regional RSE group. 
 
-Deadline for submission of talks
-: Wednesday 28 May
+Our aim is to be a regional community for **buiding networks, form collaborations and share knowledge**. We are doing this through several [meetings](meetings/meetings.qmd) aimed to take place at regular intervals.
 
-Deadline to register as an attendee
-: Sunday 8 June
-:::
 
-## Purpose
 
-Following a successful event at the Met Office in February, the University of Bristol is hosting a further meeting on Monday 23 June.
-It will be another day to **showcase interesting topics, share knowledge and build networks**.
-It aims to complement the annual RSE conference and be useful to those in the South West / GW4 who are not part of a larger RSE group.
+
+
+ TODO: add group photo from Bristol meeting.
+
+# Be part of our community!
 
 All are welcome, whether or not you are from the South West of the UK, and whether or not you [self-define as a Research Software Engineer (RSE)](https://society-rse.org/what-is-an-rse/).
 
-## Agenda
+The easiest way to communicate with everyone is via the [#rse-south-west](https://ukrse.slack.com/archives/C085EGAULJ3) channel on the [UK RSE Slack instance](https://ukrse.slack.com/signup?redir=/archives/C085EGAULJ3). Or join our mailing list!
 
-<style>
-  .agenda {
-    th:first-child {
-      width: 4em;
-    }
-    details, blockquote {
-      margin: 0;
-    }
-  }
-</style>
+<!-- add a link to the mailing list (contact page or email) -->
+::: {.text-center}
+[Join our mailing list](https://){.btn .btn-primary}
+:::
 
-<table class="table agenda">
-  <tr>
-    <th>09:30
-    <td>Refreshments on arrival
-  <tr>
-    <th>10:00
-    <td><strong>Welcome</strong><br>
-      <em>James Thomas, Rachel Tunnicliffe, Rita Rasteiro, Léo Gorman</em>
-      <ul>
-        <li>Introductions from the different groups attending
-        <li>Getting [your views on RSECon25](https://www.menti.com/al1sj9nvpd1c)
-        <li>Introduction to [Padlet for the afternoon discussion session]({{< meta padlet >}})
-      </ul>
-  <tr>
-    <th>10:30
-    <td><strong>Keynote: RSE Communities: What, How & Why?</strong><br>
-      <em>Fliss Guest</em><br>
-      Vice President of the Society of Research Software Engineering<br>
-      Deputy Head of Research Software Engineering at the University of Exeter
-      <details>
-        <summary>Abstract</summary>
-        <blockquote>The RSE landscape encompasses numerous communities, such as networks, central teams at universities and organisations. I will shed some light on the communities I have been a part of since becoming an RSE four short years ago, sharing insights into how and why they came about, along with the benefits they pose for us as individuals and collectives.</blockquote>
-      </details>
-  <tr>
-    <th>11:10
-    <td>Networking and refreshments
-  <tr>
-    <th rowspan="2">11:30
-    <th>Session 1: Groups and facilities
-  <tr>
-    <td>[How can Universities / or Scientific centres support RSEs to deliver and share better research software?](https://padlet.com/pollyeccleston1/rse-sw-how-can-universities-or-scientific-centres-support-rs-eii7qg000a3hxz1z)<br>
-      <em>Polly Eccleston</em>
-  <tr>
-    <th rowspan="4">11:50
-    <th>Lightning talks (5 minutes)
-  <tr>
-    <td>[Research IT Facility at the University of Bristol](meetings/2025-06-23-bristol/talks/Serena_Cooper_Research_IT_Facility_at_UoB.pdf)<br>
-      <em>Serena Cooper</em>
-      <details>
-        <summary>Abstract</summary>
-        <blockquote>Research IT are a team of professional software developers and systems administrators who specialise in creating bespoke software for academic research. I will give an overview of the team, some of our projects, and talk about how we manage our pipeline of work and the pros and cons of being a formal TRAC facility.</blockquote>
-      </details>
-  <tr>
-    <td>[Developing & Deploying Conceptual Design Tools for Factory Planning](meetings/2025-06-23-bristol/talks/Lewis_Gilbert_Developing_Deploying_Conceptual_Design_Tools_for_Factory_Planning.pdf)<br>
-      <em>Lewis Gilbert</em>
-      <details>
-        <summary>Abstract</summary>
-        <blockquote>CFMS (the Centre for Modelling and Simulation) is a Bristol-based independent digital engineering consultancy which collaborates with industry and academia to solve complex problems. CFMS is working with an industrial client to develop and deploy novel simulation tools to plan the movements of a network of automated overhead cranes in a factory. This is an example of a multi-agent pathfinding problem, with the objective of maximising the factory’s throughput for any given manufacturing schedule. This talk discusses the value of simulation at the conceptual design stage for a highly complex system. It also covers some of the challenges of creating tools for immediate industrial application - with a technology stack requiring a combination of rapid software development, automated deployment and high performance compute facilities to achieve the project’s aims.</blockquote>
-      </details>
-  <tr>
-    <td>[The Isambard supercomputers](meetings/2025-06-23-bristol/talks/Matt_Williams_The_Isambard_supercomputers.pdf)<br>
-      <em>Matt Williams</em>
-      <details>
-        <summary>Abstract</summary>
-        <blockquote>A short introduction to the Isambard-AI and Isambard 3 supercomputers, what they provide, how they work and how you can get access.</blockquote>
-      </details>
-  <tr>
-    <th>12:25
-    <td>Group photo
-  <tr>
-    <th>12:30
-    <td>Lunch and optional walk/viewing tower
-  <tr>
-    <th>13:40
-    <td><strong>Start of afternoon session</strong>
-      <ul>
-        <li>Work on [Padlet for the afternoon discussion session]({{< meta padlet >}})
-  <tr>
-    <th rowspan="2">13:45
-    <th>Session 2: Applications
-  <tr>
-    <td>[Mapping the March: an RSE's adventures in time and space](meetings/2025-06-23-bristol/talks/Mike_Jones_Mapping_the_March_an_RSE's_adventures_in_time_and_space.pdf)<br>
-      <em>Mike Jones</em>
-      <details>
-        <summary>Abstract</summary>
-        <blockquote>A talk introducing the UKRI-funded project, "Mapping the March: Medieval Wales and England, c.1282-1550. Mapping Literary Geography in a British Border Region." It will outline how Research IT supports this Digital Humanities project and its researchers, the technologies employed, and discusses some of the challenges encountered with historical and geospatial data.</blockquote>
-      </details>
-  <tr>
-    <th rowspan="4">14:05
-    <th>Lightning talks (5 minutes)
-  <tr>
-    <td>[How do you host translated content within a Django application?](meetings/2025-06-23-bristol/talks/Benjamin_O'Driscoll_How_do_you_host_translated_content_within_a_Django_application.pdf)<br>
-      <em>Benjamin O'Driscoll</em>
-      <details>
-        <summary>Abstract</summary>
-        <blockquote>The ProBleu Resource Catalogue is a Django based, full stack application, which provides educators access to teaching resources on the subject of water literacy. Users are encouraged to upload educational material which is translated into 24 official EU languages. This talk gives a brief overview of how the django-modeltranslation package was implemented to enhance the reach of materials uploaded to the website.</blockquote>
-      </details>
-  <tr>
-    <td>[Support for the Python array API standard in SciPy](meetings/2025-06-23-bristol/talks/Jake_Bowhay_Support_for_the_Python_array_API_standard_in_SciPy.pdf)<br>
-      <em>Jake Bowhay</em>
-      <details>
-        <summary>Abstract</summary>
-        <blockquote>Array oriented computing in Python was once straightforward: NumPy for arrays, and SciPy for foundational scientific functions. However as of today, the array library ecosystem has expanded to include CuPy, PyTorch, JAX, and others, each addressing use cases beyond NumPy's scope. This talk introduces how SciPy is evolving to support this diverse landscape by adopting the Python array API standard. I'll briefly introduce what this standard is and how it is enabling SciPy to write code that is interoperable across array libraries.</blockquote>
-      </details>
-  <tr>
-    <td>Make `make` great again<br>
-      <em>James Frost</em>
-  <tr>
-    <th>14:35
-    <td>Networking and refreshments
-  <tr>
-    <th>14:50
-    <td><strong>Discussion session</strong> ([Padlet link]({{< meta padlet >}}))<br>
-      <em>Rachel Tunnicliffe</em>
-      <ul>
-        <li>The future of RSE South West events
-        <li>RSE groups and how they're organised
-        <li>RSE best practices
-      </ul>
-  <tr>
-    <th>15:20
-    <td><strong>Closing remarks</strong><br>
-      <em>James Thomas, Rachel Tunnicliffe, Rita Rasteiro, Léo Gorman</em>
-      <ul>
-        <li>[Feedback](https://www.menti.com/al5imocw83d2)
-  <tr>
-    <th>15:30
-    <td><strong>End of day</strong> and optional pub trip
-</table>
 
-## Code of conduct
 
-All participants are expected to adhere to the [Society of RSE code of conduct for events](https://society-rse.org/about/policies/code-of-conduct/).
 
-## Contact the organisers and other attendees
-
-The easiest way to communicate with everyone is via the [#rse-south-west](https://ukrse.slack.com/archives/C085EGAULJ3) channel on the [UK RSE Slack instance](https://ukrse.slack.com/signup?redir=/archives/C085EGAULJ3).
-
-If you would rather send us an email, please contact: <rse-south-west-2025@bristol.ac.uk>.

@@ -1,0 +1,23 @@
+---
+title: Meetings
+---
+
+
+Our goal is to meet in-person a few times each year, rotating locations across the South West region. It is a day to **showcase interesting topics, share knowledge and build networks**.
+
+These meeting aim to complement the annual RSE conference and be useful to those in the South West / GW4 who are not part of a larger RSE group.
+
+
+
+
+# Previous meetings
+
+* Met Office, February 2025
+
+* [Bristol, 23 June 2025](2025-06-23-bristol/index.qmd)
+
+
+
+## Code of conduct
+
+All participants are expected to adhere to the [Society of RSE code of conduct for events](https://society-rse.org/about/policies/code-of-conduct/).

@@ -2,10 +2,12 @@ project:
   type: website
 
 website:
-  title: RSE South West group
+  title: RSE South West
   description: "A group of Research Software Engineers in the South West of England"
   navbar:
    left:
+    - text: "Home"
+      href: index.qmd
     - text: "Meetings"
       href: meetings/meetings.qmd
     - text: "Resources"

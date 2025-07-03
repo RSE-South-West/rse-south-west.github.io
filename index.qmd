@@ -6,13 +6,14 @@ title:  Welcome to RSE South West
 
 We are a community of research software engineers mainly from the South West of England and GW4 Universities who are not affiliated with a larger regional RSE group. 
 
-Our aim is to be a regional community for **buiding networks, form collaborations and share knowledge**. We are doing this through several [meetings](meetings/meetings.qmd) aimed to take place at regular intervals.
+Our aim is to be a regional community for **building networks, form collaborations and share knowledge**. We are doing this through several [meetings](meetings/meetings.qmd) aimed to take place at regular intervals.
 
 
 
 
 
- TODO: add group photo from Bristol meeting.
+ TODO: add group photo from Bristol meeting, add mailing list 
+
 
 # Be part of our community!
 

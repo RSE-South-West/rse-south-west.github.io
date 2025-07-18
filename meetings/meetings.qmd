@@ -14,7 +14,7 @@ These meetings aim to complement the annual RSE conference and be useful to thos
 
 * [Met Office,  10 February 2025](https://docs.google.com/document/d/17vVrGwbXwxgk-UFQ8SdsrAZEgZACCAHjmFEmH21HsXI/edit?tab=t.0#heading=h.m9o5l3wy6epk){target=_blank}
 
-* [Bristol, 23 June 2025](2025-06-23-bristol/index.qmd)
+* [Bristol, 23 June 2025](2025-06-23-bristol/index.qmd). A summary of the final discussion can be found [here](2025-06-23-bristol/Discussion_summary.qmd).
 
 
 

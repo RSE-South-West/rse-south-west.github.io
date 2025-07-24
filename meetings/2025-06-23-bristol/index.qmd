@@ -16,7 +16,7 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
 ## Key outputs from the meeting
 
 * [Video of all talks](https://www.youtube.com/watch?v=BOqwyZHb1Q4)
-* [Summary of discussion session](Discussion_session.qmd)
+* [Summary of discussion session](discussion.qmd)
 * [Views on RSECon25](rsecon25_views.qmd)
 * [Feedback on the day](feedback.qmd)
 
@@ -157,7 +157,7 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
         <li>RSE groups and how they're organised
         <li>RSE best practices
       </ul><br>
-      Resources: [Summary of discussion](Discussion_summary.qmd), [Padlet](https://uob.padlet.org/racheltunnicliffe1/rse-south-west-discussion-esqgnrwbo8d39r4i)<br>
+      Resources: [Summary of discussion](discussion.qmd), [Padlet](https://uob.padlet.org/racheltunnicliffe1/rse-south-west-discussion-esqgnrwbo8d39r4i)<br>
       Video: [Discussion](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=10816s)
       
   <tr>

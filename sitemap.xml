@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://RSE-South-West.github.io/rse-south-west.github.io/resources.html</loc>
+    <lastmod>2025-07-24T15:52:53.177Z</lastmod>
+  </url>
+  <url>
     <loc>https://RSE-South-West.github.io/rse-south-west.github.io/index.html</loc>
-    <lastmod>2025-06-23T06:25:39.190Z</lastmod>
+    <lastmod>2025-07-24T15:52:53.153Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RSE-South-West.github.io/rse-south-west.github.io/meetings/2025-06-23-bristol/discussion.html</loc>
+    <lastmod>2025-07-24T15:52:53.153Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RSE-South-West.github.io/rse-south-west.github.io/meetings/index.html</loc>
+    <lastmod>2025-07-24T15:52:53.177Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RSE-South-West.github.io/rse-south-west.github.io/meetings/2025-06-23-bristol/index.html</loc>
+    <lastmod>2025-07-24T15:52:53.160Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RSE-South-West.github.io/rse-south-west.github.io/resources/index.html</loc>
+    <lastmod>2025-07-24T15:52:53.177Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RSE-South-West.github.io/rse-south-west.github.io/members/index.html</loc>
+    <lastmod>2025-07-24T15:52:53.177Z</lastmod>
   </url>
 </urlset>

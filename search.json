@@ -1,37 +1,142 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Meeting of South West RSE’s in Bristol",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "Monday 23 June 2025, 9:30am – 3:30pm (refreshments from 9:30am for a 10am start) Room LG.02, Fry Building, Woodland Road, Bristol, BS8 1UG (How to get here)\nRegistration is closed"
+    "text": "TODO"
   },
   {
-    "objectID": "index.html#purpose",
-    "href": "index.html#purpose",
+    "objectID": "resources.html#videos",
+    "href": "resources.html#videos",
+    "title": "Resources",
+    "section": "Videos",
+    "text": "Videos\n\nBristol meeting, 23 June 2025"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to RSE South West",
+    "section": "",
+    "text": "We are a community of research software engineers mainly from the South West of the UK and GW4 Universities who are not affiliated with a larger regional RSE group.\nOur aim is to be a regional community for building networks, form collaborations and share knowledge. We are doing this through several meetings aimed to take place at regular intervals.\n\nBe part of our community!\nAll are welcome, whether or not you are from the South West of the UK, and whether or not you self-define as a Research Software Engineer (RSE).\nThe easiest way to communicate with everyone is via the #rse-south-west channel on the UK RSE Slack instance. Or join our mailing list to stay in touch with events!\n\nJoin our Slack channel"
+  },
+  {
+    "objectID": "meetings/2025-06-23-bristol/discussion.html",
+    "href": "meetings/2025-06-23-bristol/discussion.html",
+    "title": "Summary of discussion from the 23 June RSE South West meeting",
+    "section": "",
+    "text": "Discussion board from the meeting (read-only)"
+  },
+  {
+    "objectID": "meetings/2025-06-23-bristol/discussion.html#would-you-like-rse-south-west-to-be-a-distinct-group-and-what-would-you-like-to-see-from-this-group",
+    "href": "meetings/2025-06-23-bristol/discussion.html#would-you-like-rse-south-west-to-be-a-distinct-group-and-what-would-you-like-to-see-from-this-group",
+    "title": "Summary of discussion from the 23 June RSE South West meeting",
+    "section": "Would you like RSE South West to be a distinct group, and what would you like to see from this group?",
+    "text": "Would you like RSE South West to be a distinct group, and what would you like to see from this group?\n\nIn-person events are preferred over online for a regional group​\n\nYes, there was strong support for RSE South West to be a distinct group and focus on organising in person meetings.\nThe aim was to have four meetups a year. Three of these would be based in the South West, with the fourth being the annual RSE conference in September. The local meetups will rotate amongst member institutions, with the expectation that the larger groups in the University of Exeter, University of Bristol and the Met Office might do the majority of the hosting. Members from the Plymouth Marine Laboratory (PML) would also like to host future events (depending on funding).\nThe next meeting would aim to be in November/December 2025 and could potentially be hosted by the University of Exeter (to be confirmed).\nThe main costs for these events are catering and invited speaker travel. For catering, there was a suggestion that either:\n\na small contribution could be asked for (about £5) to cover this, or\ncatering could be limited to tea/coffee rather than also including lunch (though lunch was highlighted as an important networking opportunity as well).\n\n\n\n\nLocal identity\n\nWe would like to continue to extend invites to institutions in the South West of the UK, including the University of Bath, UK Hydrographic Office in Taunton and members of the GW4 Alliance.\nFor the longevity of the group​, there was a suggestion to set up a cross-institute commitee which could advise on events. This would require further discussion."
+  },
+  {
+    "objectID": "meetings/2025-06-23-bristol/discussion.html#what-works-well-about-how-you-are-organised-as-rses-is-there-anything-that-could-be-improved",
+    "href": "meetings/2025-06-23-bristol/discussion.html#what-works-well-about-how-you-are-organised-as-rses-is-there-anything-that-could-be-improved",
+    "title": "Summary of discussion from the 23 June RSE South West meeting",
+    "section": "What works well about how you are organised as RSEs? Is there anything that could be improved?",
+    "text": "What works well about how you are organised as RSEs? Is there anything that could be improved?\n\nMixture of the models that work (central / embedded)​\nGrowing pains​\nRemoving isolation & duplication / ensuring consistency​\nFunding models​\nContext switching​\nTech stack to support work​"
+  },
+  {
+    "objectID": "meetings/2025-06-23-bristol/discussion.html#what-software-best-practices-do-you-find-most-useful-what-would-you-put-in-an-rse-handbook",
+    "href": "meetings/2025-06-23-bristol/discussion.html#what-software-best-practices-do-you-find-most-useful-what-would-you-put-in-an-rse-handbook",
+    "title": "Summary of discussion from the 23 June RSE South West meeting",
+    "section": "What software best practices do you find most useful? What would you put in an RSE handbook?",
+    "text": "What software best practices do you find most useful? What would you put in an RSE handbook?\n\nHandbook – how to make it RSE-specific?​\n\nSee also: The Turing Way, Duck Book\n\nPotential topics\n\nAgreeing requirements – of researcher and of users​\nHow to write effective documentation​\nAdvice on Time & project management​\nWorking with different types of PIs\n\nHow to easily create material?\n\nCould use speed blogging to create a handbook - set up workshops to split into groups and write up as blogs after the meeting.\nCould focus on future talks being about best practices and save these recordings to start to build up a record of this"
+  },
+  {
+    "objectID": "meetings/2025-06-23-bristol/discussion.html#any-other-topics-to-discuss",
+    "href": "meetings/2025-06-23-bristol/discussion.html#any-other-topics-to-discuss",
+    "title": "Summary of discussion from the 23 June RSE South West meeting",
+    "section": "Any other topics to discuss?",
+    "text": "Any other topics to discuss?\n\nMeet at RSECon?​\n\nThere is a meeting event (possibly a regional RSE groups Birds of a Feather session) at RSECon25 which we should get involved in.\n\nUse of AI in coding​\n\nNo time to discuss but could be a good topic for the next meeting"
+  },
+  {
+    "objectID": "meetings/index.html",
+    "href": "meetings/index.html",
+    "title": "Meetings",
+    "section": "",
+    "text": "Our goal is to meet in-person a few times each year, rotating locations across the South West region. It is a day to showcase interesting topics, share knowledge and build networks.\nThese meetings aim to complement the annual RSE conference and be useful to those in the South West / GW4 who are not part of a larger RSE group."
+  },
+  {
+    "objectID": "meetings/index.html#code-of-conduct",
+    "href": "meetings/index.html#code-of-conduct",
+    "title": "Meetings",
+    "section": "Code of conduct",
+    "text": "Code of conduct\nAll participants are expected to adhere to the Society of RSE code of conduct for events."
+  },
+  {
+    "objectID": "meetings/2025-06-23-bristol/index.html",
+    "href": "meetings/2025-06-23-bristol/index.html",
+    "title": "Meeting of South West RSE’s in Bristol",
+    "section": "",
+    "text": "Monday 23 June 2025, 9:30am – 3:30pm (refreshments from 9:30am for a 10am start) Room LG.02, Fry Building, Woodland Road, Bristol, BS8 1UG (How to get here)"
+  },
+  {
+    "objectID": "meetings/2025-06-23-bristol/index.html#organisers",
+    "href": "meetings/2025-06-23-bristol/index.html#organisers",
+    "title": "Meeting of South West RSE’s in Bristol",
+    "section": "Organisers",
+    "text": "Organisers\n\nJames Thomas\nLéo Gorman\nRachel Tunnicliffe\nRita Rasteiro"
+  },
+  {
+    "objectID": "meetings/2025-06-23-bristol/index.html#purpose",
+    "href": "meetings/2025-06-23-bristol/index.html#purpose",
     "title": "Meeting of South West RSE’s in Bristol",
     "section": "Purpose",
     "text": "Purpose\nFollowing a successful event at the Met Office in February, the University of Bristol is hosting a further meeting on Monday 23 June. It will be another day to showcase interesting topics, share knowledge and build networks. It aims to complement the annual RSE conference and be useful to those in the South West / GW4 who are not part of a larger RSE group.\nAll are welcome, whether or not you are from the South West of the UK, and whether or not you self-define as a Research Software Engineer (RSE)."
   },
   {
-    "objectID": "index.html#agenda",
-    "href": "index.html#agenda",
+    "objectID": "meetings/2025-06-23-bristol/index.html#key-outputs-from-the-meeting",
+    "href": "meetings/2025-06-23-bristol/index.html#key-outputs-from-the-meeting",
     "title": "Meeting of South West RSE’s in Bristol",
-    "section": "Agenda",
-    "text": "Agenda\n\n\n\n\n09:30\n\nRefreshments on arrival\n\n\n10:00\n\nWelcome James Thomas, Rachel Tunnicliffe, Rita Rasteiro, Léo Gorman\n\n\nIntroductions from the different groups attending\n\nGetting your views on RSECon25\n\nIntroduction to Padlet for the afternoon discussion session\n\n\n\n10:30\n\nKeynote: RSE Communities: What, How & Why? Fliss Guest Vice President of the Society of Research Software Engineering Deputy Head of Research Software Engineering at the University of Exeter\n\n\nAbstract\n\n\nThe RSE landscape encompasses numerous communities, such as networks, central teams at universities and organisations. I will shed some light on the communities I have been a part of since becoming an RSE four short years ago, sharing insights into how and why they came about, along with the benefits they pose for us as individuals and collectives.\n\n\n\n\n11:10\n\nNetworking and refreshments\n\n\n11:30\n\nSession 1: Groups and facilities\n\n\nHow can Universities / or Scientific centres support RSEs to deliver and share better research software? Polly Eccleston\n\n\n11:50\n\nLightning talks (5 minutes)\n\n\nResearch IT Facility at the University of Bristol Serena Cooper\n\n\nAbstract\n\n\nResearch IT are a team of professional software developers and systems administrators who specialise in creating bespoke software for academic research. I will give an overview of the team, some of our projects, and talk about how we manage our pipeline of work and the pros and cons of being a formal TRAC facility.\n\n\n\n\nDeveloping & Deploying Conceptual Design Tools for Factory Planning Lewis Gilbert\n\n\nAbstract\n\n\nCFMS (the Centre for Modelling and Simulation) is a Bristol-based independent digital engineering consultancy which collaborates with industry and academia to solve complex problems. CFMS is working with an industrial client to develop and deploy novel simulation tools to plan the movements of a network of automated overhead cranes in a factory. This is an example of a multi-agent pathfinding problem, with the objective of maximising the factory’s throughput for any given manufacturing schedule. This talk discusses the value of simulation at the conceptual design stage for a highly complex system. It also covers some of the challenges of creating tools for immediate industrial application - with a technology stack requiring a combination of rapid software development, automated deployment and high performance compute facilities to achieve the project’s aims.\n\n\n\n\nThe Isambard supercomputers Matt Williams\n\n\nAbstract\n\n\nA short introduction to the Isambard-AI and Isambard 3 supercomputers, what they provide, how they work and how you can get access.\n\n\n\n\n12:25\n\nGroup photo\n\n\n12:30\n\nLunch and optional walk/viewing tower\n\n\n13:40\n\nStart of afternoon session\n\n\nWork on Padlet for the afternoon discussion session\n\n\n13:45\n\nSession 2: Applications\n\n\nMapping the March: an RSE’s adventures in time and space Mike Jones\n\n\nAbstract\n\n\nA talk introducing the UKRI-funded project, “Mapping the March: Medieval Wales and England, c.1282-1550. Mapping Literary Geography in a British Border Region.” It will outline how Research IT supports this Digital Humanities project and its researchers, the technologies employed, and discusses some of the challenges encountered with historical and geospatial data.\n\n\n\n\n14:05\n\nLightning talks (5 minutes)\n\n\nHow do you host translated content within a Django application? Benjamin O’Driscoll\n\n\nAbstract\n\n\nThe ProBleu Resource Catalogue is a Django based, full stack application, which provides educators access to teaching resources on the subject of water literacy. Users are encouraged to upload educational material which is translated into 24 official EU languages. This talk gives a brief overview of how the django-modeltranslation package was implemented to enhance the reach of materials uploaded to the website.\n\n\n\n\nSupport for the Python array API standard in SciPy Jake Bowhay\n\n\nAbstract\n\n\nArray oriented computing in Python was once straightforward: NumPy for arrays, and SciPy for foundational scientific functions. However as of today, the array library ecosystem has expanded to include CuPy, PyTorch, JAX, and others, each addressing use cases beyond NumPy’s scope. This talk introduces how SciPy is evolving to support this diverse landscape by adopting the Python array API standard. I’ll briefly introduce what this standard is and how it is enabling SciPy to write code that is interoperable across array libraries.\n\n\n\n\nMake make great again James Frost\n\n\n14:35\n\nNetworking and refreshments\n\n\n14:50\n\nDiscussion session (Padlet link) Rachel Tunnicliffe\n\n\nThe future of RSE South West events\n\nRSE groups and how they’re organised\n\nRSE best practices\n\n\n\n15:20\n\nClosing remarks James Thomas, Rachel Tunnicliffe, Rita Rasteiro, Léo Gorman\n\n\nFeedback\n\n\n15:30\n\nEnd of day and optional pub trip"
+    "section": "Key outputs from the meeting",
+    "text": "Key outputs from the meeting\n\nVideo of all talks\nSummary of discussion session\nViews on RSECon25\nFeedback on the day"
   },
   {
-    "objectID": "index.html#code-of-conduct",
-    "href": "index.html#code-of-conduct",
+    "objectID": "meetings/2025-06-23-bristol/index.html#agenda",
+    "href": "meetings/2025-06-23-bristol/index.html#agenda",
+    "title": "Meeting of South West RSE’s in Bristol",
+    "section": "Agenda",
+    "text": "Agenda\n\n\n\n\n09:30\n\nRefreshments on arrival\n\n\n10:00\n\nWelcome\n\nJames Thomas, Rachel Tunnicliffe, Rita Rasteiro, Léo Gorman\n\n\nIntroductions from the different groups attending\n\nGetting your views on RSECon25\n\nIntroduction to Padlet for the afternoon discussion session\n\n Resources: Views on RSECon25 Videos: Intro, RSECon25 discussion\n\n\n10:30\n\nKeynote: RSE Communities: What, How & Why? Fliss Guest Vice President of the Society of Research Software Engineering Deputy Head of Research Software Engineering at the University of Exeter\n\n\nAbstract\n\n\nThe RSE landscape encompasses numerous communities, such as networks, central teams at universities and organisations. I will shed some light on the communities I have been a part of since becoming an RSE four short years ago, sharing insights into how and why they came about, along with the benefits they pose for us as individuals and collectives.\n\n\n Videos: talk Q&A\n\n\n11:10\n\nNetworking and refreshments\n\n\n11:30\n\nSession 1: Groups and facilities  Video: Intro\n\n\nHow can Universities / or Scientific centres support RSEs to deliver and share better research software? Polly Eccleston   Resources: Padlet Video: Discussion\n\n\n11:50\n\nLightning talks (5 minutes)\n\n\nResearch IT Facility at the University of Bristol Serena Cooper\n\n\nAbstract\n\n\nResearch IT are a team of professional software developers and systems administrators who specialise in creating bespoke software for academic research. I will give an overview of the team, some of our projects, and talk about how we manage our pipeline of work and the pros and cons of being a formal TRAC facility.\n\n\n\n\nDeveloping & Deploying Conceptual Design Tools for Factory Planning Lewis Gilbert\n\n\nAbstract\n\n\nCFMS (the Centre for Modelling and Simulation) is a Bristol-based independent digital engineering consultancy which collaborates with industry and academia to solve complex problems. CFMS is working with an industrial client to develop and deploy novel simulation tools to plan the movements of a network of automated overhead cranes in a factory. This is an example of a multi-agent pathfinding problem, with the objective of maximising the factory’s throughput for any given manufacturing schedule. This talk discusses the value of simulation at the conceptual design stage for a highly complex system. It also covers some of the challenges of creating tools for immediate industrial application - with a technology stack requiring a combination of rapid software development, automated deployment and high performance compute facilities to achieve the project’s aims.\n\n\n\n\nThe Isambard supercomputers Matt Williams\n\n\nAbstract\n\n\nA short introduction to the Isambard-AI and Isambard 3 supercomputers, what they provide, how they work and how you can get access.\n\n\n Videos: Serena Lewis Matt Q&A\n\n\n12:25\n\nGroup photo\n\n\n12:30\n\nLunch and optional walk/viewing tower\n\n\n13:40\n\nStart of afternoon session\n\n\nWork on Padlet for the afternoon discussion session\n\n\n13:45\n\nSession 2: Applications Video: Intro\n\n\nMapping the March: an RSE’s adventures in time and space Mike Jones\n\n\nAbstract\n\n\nA talk introducing the UKRI-funded project, “Mapping the March: Medieval Wales and England, c.1282-1550. Mapping Literary Geography in a British Border Region.” It will outline how Research IT supports this Digital Humanities project and its researchers, the technologies employed, and discusses some of the challenges encountered with historical and geospatial data.\n\n\n Videos: talk Q&A\n\n\n14:05\n\nLightning talks (5 minutes)\n\n\nHow do you host translated content within a Django application? Benjamin O’Driscoll\n\n\nAbstract\n\n\nThe ProBleu Resource Catalogue is a Django based, full stack application, which provides educators access to teaching resources on the subject of water literacy. Users are encouraged to upload educational material which is translated into 24 official EU languages. This talk gives a brief overview of how the django-modeltranslation package was implemented to enhance the reach of materials uploaded to the website.\n\n\n\n\nSupport for the Python array API standard in SciPy Jake Bowhay\n\n\nAbstract\n\n\nArray oriented computing in Python was once straightforward: NumPy for arrays, and SciPy for foundational scientific functions. However as of today, the array library ecosystem has expanded to include CuPy, PyTorch, JAX, and others, each addressing use cases beyond NumPy’s scope. This talk introduces how SciPy is evolving to support this diverse landscape by adopting the Python array API standard. I’ll briefly introduce what this standard is and how it is enabling SciPy to write code that is interoperable across array libraries.\n\n\n\n\nMake make great again James Frost  Videos: Ben Jake James Q&A\n\n\n14:35\n\nNetworking and refreshments\n\n\n14:50\n\nDiscussion session Rachel Tunnicliffe\n\n\nThe future of RSE South West events\n\nRSE groups and how they’re organised\n\nRSE best practices\n\n Resources: Summary of discussion, Padlet Video: Discussion\n\n\n15:20\n\nClosing remarks James Thomas, Rachel Tunnicliffe, Rita Rasteiro, Léo Gorman\n\nResources: Feedback received Video: Closing\n\n\n15:30\n\nEnd of day and optional pub trip"
+  },
+  {
+    "objectID": "meetings/2025-06-23-bristol/index.html#code-of-conduct",
+    "href": "meetings/2025-06-23-bristol/index.html#code-of-conduct",
     "title": "Meeting of South West RSE’s in Bristol",
     "section": "Code of conduct",
     "text": "Code of conduct\nAll participants are expected to adhere to the Society of RSE code of conduct for events."
   },
   {
-    "objectID": "index.html#contact-the-organisers-and-other-attendees",
-    "href": "index.html#contact-the-organisers-and-other-attendees",
+    "objectID": "meetings/2025-06-23-bristol/index.html#contact-the-organisers-and-other-attendees",
+    "href": "meetings/2025-06-23-bristol/index.html#contact-the-organisers-and-other-attendees",
     "title": "Meeting of South West RSE’s in Bristol",
     "section": "Contact the organisers and other attendees",
     "text": "Contact the organisers and other attendees\nThe easiest way to communicate with everyone is via the #rse-south-west channel on the UK RSE Slack instance.\nIf you would rather send us an email, please contact: rse-south-west-2025@bristol.ac.uk."
+  },
+  {
+    "objectID": "resources/index.html",
+    "href": "resources/index.html",
+    "title": "Resources",
+    "section": "",
+    "text": "TODO"
+  },
+  {
+    "objectID": "resources/index.html#videos",
+    "href": "resources/index.html#videos",
+    "title": "Resources",
+    "section": "Videos",
+    "text": "Videos\n\nBristol meeting, 23 June 2025"
+  },
+  {
+    "objectID": "members/index.html",
+    "href": "members/index.html",
+    "title": "Members",
+    "section": "",
+    "text": "University of Bristol\nUniversity of Exeter\nMet Office\nPlymouth Marine Laboratory"
   }
 ]

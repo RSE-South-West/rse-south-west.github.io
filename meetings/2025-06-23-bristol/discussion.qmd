@@ -1,0 +1,73 @@
+---
+title: Summary of discussion from the 23 June RSE South West meeting
+---
+
+[Discussion board from the meeting (read-only)](discussion_board.pdf)
+
+## Would you like RSE South West to be a distinct group, and what would you like to see from this group?
+
+### In-person events are preferred over online for a regional group​
+
+* Yes, there was strong support for **RSE South West to be a distinct group** and focus on organising in person meetings.
+    
+* The aim was to have **four meetups a year**. Three of these would be based in the South West, with the fourth being the annual RSE conference in September. The local meetups will rotate amongst member institutions, with the expectation that the larger groups in the University of Exeter, University of Bristol and the Met Office might do the majority of the hosting. Members from the Plymouth Marine Laboratory (PML) would also like to host future events (depending on funding).
+
+* The next meeting would aim to be in **November/December 2025** and could potentially be hosted by the **University of Exeter** (to be confirmed).
+    
+* The main costs for these events are **catering and invited speaker travel**. For catering, there was a suggestion that either:
+
+    * a small contribution could be asked for (about £5) to cover this, or
+    
+    * catering could be limited to tea/coffee rather than also including lunch (though lunch was highlighted as an important networking opportunity as well).
+
+### Local identity
+
+* We would like to continue to **extend invites to institutions in the South West of the UK**, including the [University of Bath](https://www.bath.ac.uk), [UK Hydrographic Office](https://www.ukho.gov.uk) in Taunton and members of the [GW4 Alliance](https://gw4.ac.uk).
+
+* For the **longevity of the group​**, there was a suggestion to set up a cross-institute commitee which could advise on events. This would require further discussion.
+
+## What works well about how you are organised as RSEs? Is there anything that could be improved?
+
+* Mixture of the models that work (central / embedded)​
+
+* Growing pains​
+
+* Removing isolation & duplication / ensuring consistency​
+
+* Funding models​
+
+* Context switching​
+
+* Tech stack to support work​
+
+## What software best practices do you find most useful? What would you put in an RSE handbook?
+
+* Handbook – how to make it RSE-specific?​
+
+    * See also: [The Turing Way](https://book.the-turing-way.org/), [Duck Book](https://best-practice-and-impact.github.io/qa-of-code-guidance/)
+
+* Potential topics
+
+    * Agreeing requirements – of researcher and of users​
+
+    * How to write effective documentation​
+
+    * Advice on Time & project management​
+
+    * Working with different types of PIs
+
+* How to easily create material?
+
+    * Could use **speed blogging to create a handbook** - set up workshops to split into groups and write up as blogs after the meeting.
+
+    * Could focus on **future talks being about best practices and save these recordings** to start to build up a record of this
+
+## Any other topics to discuss?
+
+* **Meet at RSECon?​**
+
+    * There is a meeting event (possibly a regional RSE groups _Birds of a Feather_ session) at RSECon25 which we should get involved in.
+
+* **Use of AI in coding​**
+
+    * No time to discuss but could be a good topic for the next meeting

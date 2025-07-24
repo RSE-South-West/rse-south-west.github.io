@@ -80,7 +80,7 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
     <td>[How can Universities / or Scientific centres support RSEs to deliver and share better research software?](https://padlet.com/pollyeccleston1/rse-sw-how-can-universities-or-scientific-centres-support-rs-eii7qg000a3hxz1z)<br>
       <em>Polly Eccleston</em> <br>
       <br>
-      Resources: [Padlet](Polly_Eccleston_Universities_support_RSEs.pdf){target=_blank}<br>
+      Resources: [Padlet](talks/Polly_Eccleston_Universities_support_RSEs.pdf){target=_blank}<br>
       Video: [Discussion](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=4326s)
   <tr>
     <th rowspan="4">11:50

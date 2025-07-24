@@ -5,6 +5,14 @@ title: Meeting of South West RSE's in Bristol
 Monday 23 June 2025, 9:30am – 3:30pm (refreshments from 9:30am for a 10am start)<br>
 Room LG.02, [Fry Building, Woodland Road, Bristol, BS8 1UG](https://maps.google.com/?q=Fry Building, Woodland Road, Bristol, BS8 1UG) ([How to get here](https://www.bristol.ac.uk/maps/how-to-get-here/))
 
+## Organisers
+
+* James Thomas
+* Léo Gorman
+* Rachel Tunnicliffe
+* Rita Rasteiro
+
+
 ## Purpose
 
 Following a successful event at the Met Office in February, the University of Bristol is hosting a further meeting on Monday 23 June.
@@ -17,8 +25,8 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
 
 * [Video of all talks](https://www.youtube.com/watch?v=BOqwyZHb1Q4)
 * [Summary of discussion session](discussion.qmd)
-* [Views on RSECon25](rsecon25_views.qmd)
-* [Feedback on the day](feedback.qmd)
+* [Views on RSECon25](rsecon25_views.pdf){target=_blank}
+* [Feedback on the day](feedback.pdf){target=_blank}
 
 ## Agenda
 
@@ -46,7 +54,7 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
         <li>Getting your views on RSECon25
         <li>Introduction to Padlet for the afternoon discussion session
       </ul><br>
-      Resources: [Views on RSECon25](rsecon25_views.qmd)<br>
+      Resources: [Views on RSECon25](rsecon25_views.pdf){target=_blank}<br>
       Videos: [Intro](https://www.youtube.com/watch?v=BOqwyZHb1Q4), [RSECon25 discussion](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=455s)
   <tr>
     <th>10:30
@@ -72,26 +80,27 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
     <td>[How can Universities / or Scientific centres support RSEs to deliver and share better research software?](https://padlet.com/pollyeccleston1/rse-sw-how-can-universities-or-scientific-centres-support-rs-eii7qg000a3hxz1z)<br>
       <em>Polly Eccleston</em> <br>
       <br>
+      Resources: [Padlet](Polly_Eccleston_Universities_support_RSEs.pdf){target=_blank}<br>
       Video: [Discussion](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=4326s)
   <tr>
     <th rowspan="4">11:50
     <th>Lightning talks (5 minutes)
   <tr>
-    <td>[Research IT Facility at the University of Bristol](meetings/2025-06-23-bristol/talks/Serena_Cooper_Research_IT_Facility_at_UoB.pdf)<br>
+    <td>[Research IT Facility at the University of Bristol](meetings/2025-06-23-bristol/talks/Serena_Cooper_Research_IT_Facility_at_UoB.pdf){target=_blank}<br>
       <em>Serena Cooper</em>
       <details>
         <summary>Abstract</summary>
         <blockquote>Research IT are a team of professional software developers and systems administrators who specialise in creating bespoke software for academic research. I will give an overview of the team, some of our projects, and talk about how we manage our pipeline of work and the pros and cons of being a formal TRAC facility.</blockquote>
       </details> 
   <tr>
-    <td>[Developing & Deploying Conceptual Design Tools for Factory Planning](meetings/2025-06-23-bristol/talks/Lewis_Gilbert_Developing_Deploying_Conceptual_Design_Tools_for_Factory_Planning.pdf)<br>
+    <td>[Developing & Deploying Conceptual Design Tools for Factory Planning](meetings/2025-06-23-bristol/talks/Lewis_Gilbert_Developing_Deploying_Conceptual_Design_Tools_for_Factory_Planning.pdf){target=_blank}<br>
       <em>Lewis Gilbert</em>
       <details>
         <summary>Abstract</summary>
         <blockquote>CFMS (the Centre for Modelling and Simulation) is a Bristol-based independent digital engineering consultancy which collaborates with industry and academia to solve complex problems. CFMS is working with an industrial client to develop and deploy novel simulation tools to plan the movements of a network of automated overhead cranes in a factory. This is an example of a multi-agent pathfinding problem, with the objective of maximising the factory’s throughput for any given manufacturing schedule. This talk discusses the value of simulation at the conceptual design stage for a highly complex system. It also covers some of the challenges of creating tools for immediate industrial application - with a technology stack requiring a combination of rapid software development, automated deployment and high performance compute facilities to achieve the project’s aims.</blockquote>
       </details>
   <tr>
-    <td>[The Isambard supercomputers](meetings/2025-06-23-bristol/talks/Matt_Williams_The_Isambard_supercomputers.pdf)<br>
+    <td>[The Isambard supercomputers](meetings/2025-06-23-bristol/talks/Matt_Williams_The_Isambard_supercomputers.pdf{target=_blank})<br>
       <em>Matt Williams</em>
       <details>
         <summary>Abstract</summary>
@@ -115,7 +124,7 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
     <th>Session 2: Applications<br>
       Video: [Intro](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=7650s&pp=0gcJCdkCDuyUWbzu)
   <tr>
-    <td>[Mapping the March: an RSE's adventures in time and space](meetings/2025-06-23-bristol/talks/Mike_Jones_Mapping_the_March_an_RSE's_adventures_in_time_and_space.pdf)<br>
+    <td>[Mapping the March: an RSE's adventures in time and space](meetings/2025-06-23-bristol/talks/Mike_Jones_Mapping_the_March_an_RSE's_adventures_in_time_and_space.pdf){target=_blank}<br>
       <em>Mike Jones</em>
       <details>
         <summary>Abstract</summary>
@@ -127,14 +136,14 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
     <th rowspan="4">14:05
     <th>Lightning talks (5 minutes)
   <tr>
-    <td>[How do you host translated content within a Django application?](meetings/2025-06-23-bristol/talks/Benjamin_O'Driscoll_How_do_you_host_translated_content_within_a_Django_application.pdf)<br>
+    <td>[How do you host translated content within a Django application?](meetings/2025-06-23-bristol/talks/Benjamin_O'Driscoll_How_do_you_host_translated_content_within_a_Django_application.pdf){target=_blank}<br>
       <em>Benjamin O'Driscoll</em>
       <details>
         <summary>Abstract</summary>
         <blockquote>The ProBleu Resource Catalogue is a Django based, full stack application, which provides educators access to teaching resources on the subject of water literacy. Users are encouraged to upload educational material which is translated into 24 official EU languages. This talk gives a brief overview of how the django-modeltranslation package was implemented to enhance the reach of materials uploaded to the website.</blockquote>
       </details>
   <tr>
-    <td>[Support for the Python array API standard in SciPy](meetings/2025-06-23-bristol/talks/Jake_Bowhay_Support_for_the_Python_array_API_standard_in_SciPy.pdf)<br>
+    <td>[Support for the Python array API standard in SciPy](meetings/2025-06-23-bristol/talks/Jake_Bowhay_Support_for_the_Python_array_API_standard_in_SciPy.pdf){target=_blank}<br>
       <em>Jake Bowhay</em>
       <details>
         <summary>Abstract</summary>
@@ -157,7 +166,7 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
         <li>RSE groups and how they're organised
         <li>RSE best practices
       </ul><br>
-      Resources: [Summary of discussion](discussion.qmd), [Padlet](https://uob.padlet.org/racheltunnicliffe1/rse-south-west-discussion-esqgnrwbo8d39r4i)<br>
+      Resources: [Summary of discussion](discussion.qmd), [Padlet](discussion_board.pdf)<br>
       Video: [Discussion](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=10816s)
       
   <tr>
@@ -165,7 +174,7 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
     <td><strong>Closing remarks</strong><br>
       <em>James Thomas, Rachel Tunnicliffe, Rita Rasteiro, Léo Gorman</em>
       <p>
-        Resources: [Feedback received](feedback.qmd)<br>
+        Resources: [Feedback received](feedback.pdf){target=_blank}<br>
         Video: [Closing](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=12773s)  
   
   <tr>

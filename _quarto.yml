@@ -9,13 +9,11 @@ website:
     - text: "Home"
       href: index.qmd
     - text: "Meetings"
-      href: meetings/meetings.qmd
+      href: meetings/index.qmd
     - text: "Resources"
-      href: resources.qmd
+      href: resources/index.qmd
     - text: "Members"
-      href: members.qmd
-    # - text: "About"
-      # href: about.qmd
+      href: members/index.qmd
   page-footer:
     center: © [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/)
   search: false
@@ -24,4 +22,3 @@ format:
   html:
     theme: assets/styles.scss
     page-layout: full
-

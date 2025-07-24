@@ -3,7 +3,7 @@ project:
 
 website:
   title: RSE South West
-  description: "A group of Research Software Engineers in the South West of England"
+  description: "A group of Research Software Engineers in the South West of UK"
   navbar:
    left:
     - text: "Home"

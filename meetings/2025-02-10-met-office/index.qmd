@@ -1,0 +1,128 @@
+---
+title: Meeting of South West RSE's at the Met Office
+---
+
+Monday 10 February 2025, 9:30am – 4:00pm (refreshments from 9:30am for a 10am start)<br>
+Met Office Exeter HQ, Conference Room 1
+
+## Organisers
+
+* Emma Hogan
+
+## Purpose
+
+RSEs in the South West are meeting in-person at Met Office Exeter HQ on Monday, February 10, 2025 to showcase interesting topics​, share knowledge and build networks. All are welcome if you are happy to travel! :)
+
+There is value in holding in-person, one-day events for RSEs in the South West / GW4 (i.e. travel on the day / without staying overnight), as it enables all RSEs in the area, but especially those who are not part of a larger RSE group and / or are unable to attend the yearly national conference, to get together to share knowledge and build networks.
+
+## Agenda
+
+<style>
+  .agenda {
+    th:first-child {
+      width: 4em;
+    }
+    details, blockquote {
+      margin: 0;
+    }
+  }
+</style>
+
+<table class="table agenda">
+  <tr>
+    <th>09:30
+    <td>Arrive and refreshments
+  <tr>
+    <th>10:00
+    <td><strong>Welcome</strong><br>
+      <em>Emma Hogan, Met Office</em>
+  <tr>
+    <th>10:10
+    <td><strong>Managing dependencies in a python data science project using uv</strong><br>
+      <em>James Thomas, University of Bristol</em>
+      <details>
+        <summary>Abstract</summary>
+        <blockquote>A demonstration of new python tooling (uv) and how as an RSE or data scientist you might incorporate this into your project. Including the motivation for doing so, pros and cons, etc.</blockquote>
+      </details><br>
+      Resources: [Slides and video](https://jatonline.github.io/managing-dependencies-using-uv-and-pixi/)
+  <tr>
+    <th>10:40
+    <td><strong>Research Software Engineering at Plymouth Marine Laboratory (PML)</strong><br>
+      <em>Jane Netting, Plymouth Marine Laboratory</em>
+      <details>
+        <summary>Abstract</summary>
+        <blockquote>Development of software for research has always been important at PML, particularly within the Earth Observation and Modelling groups. In recent years, with shifts to automated sensing, more advanced data processing and web-based tools we have seen an increased need for software development skills across all science areas in the organisation. The Digital Innovation and Marine Autonomy (DIMA) group at PML was established to work across science areas and the Research Software Engineering (RSE) team at PML sits within this. This talk will provide an introduction to Research Software Engineering at PML, how the group is structured and discuss some of the current projects we are working on.</blockquote>
+      </details>
+  <tr>
+    <th>11:00
+    <td>Refreshments
+  <tr>
+    <th>11:15
+    <td><strong>LCAT - the Local Climate Adaptation Tool</strong><br>
+      <em>Simon Kirby, University of Exeter</em>
+      <details>
+        <summary>Abstract</summary>
+        <blockquote>LCAT is a web tool that brings together climate, health and vulnerability research, supporting local policy makers as they address climate adaptation challenges. Developed by Simon in the Exeter RSE group, LCAT is the result of a co-design process with Cornwall County Council, and academic colleagues in Penryn. The tool is currently live, under continual development, and can be accessed at: https://lcat.uk. In this talk, I will give a demo of the tool, discuss its architecture and some technical details, and highlight some technical and non-technical challenges faced during its development and release. Questions on any aspects of the tool will be very welcome. Keywords: 3 tier web-app, React, Node, AWS, NetCDF, PostgreSQL, Python</blockquote>
+      </details>
+  <tr>
+    <th rowspan=3>11:55
+    <td><strong>Lightning talks</strong>
+  <tr>
+    <td><strong>Git and GitHub Training for the Science Git Migration Project</strong><br>
+      <em>Dimitrios Theodorakis, Met Office</em>
+      <details>
+        <summary>Abstract</summary>
+        <blockquote>The Met Office is migrating its codebases to Git and GitHub and such a large move requires training our staff in how to effectively work with Git and GitHub. Using Carpentries style lessons we have been trialling new Git and GitHub training for use by the Met Office and other organisations.</blockquote>
+      </details>
+  <tr>
+    <td><strong>The Transatlantic Data Science Academy</strong><br>
+      <em>Damian Wilson, Met Office</em>
+      <details>
+        <summary>Abstract</summary>
+        <blockquote>The Transatlantic Data Science Academy is a collaboration between the Met Office and its US counterparts, the National Oceanic and Atmospheric Association (NOAA), looking at extending  career development advice and opportunities in the fields of research software engineering, data science, data engineering and data assimilation science. Over the last two years It has supported scientist visits, training and events (including this one!). In this presentation I will talk about its aims, some of its activities, and how we might take it into the future to support your careers.</blockquote>
+      </details>
+  <tr>
+    <th>12:15
+    <td>Lunch & networking
+  <tr>
+    <th>13:15
+    <td><strong>The X-Cited programme for GW4 RTP career development</strong><br>
+      <em>Nicole Whippey, University of Exeter</em>
+      <details>
+        <summary>Abstract</summary>
+        <blockquote>The X-Cited programme aims to improve RTP (research technical professional) career development through creating communities of practice, training opportunities, industry challenge projects, and introducing junior RTP roles into the career pathway. Creating GW4 communities of practice will facilitate knowledge sharing, expertise and networking; gaining visibility of skills and opportunities within GW4 and externally. The Digital Community of Practice will facilitate both understanding training needs and providing or sharing training opportunities for RSEs as well as all Digital RTPs. Industry challenge projects (ICPs) comprise a 3 day sandpit that result in project proposals for solving real world problems set by industry, and subsequent 2-month projects between GW4 RTPs and industry. ICPs will facilitate RTPs gaining experience of working with industry, and will showcase the capabilities, knowledge and skills, as well as facilities of GW4 institutions and their technicians to industry. This is hoped to build more industry and HE collaborations directly with RTPs instead of the traditional academic routes. Finally, 4 junior research technical professionals (1 RSE) will be recruited for two years to create new routes into becoming an RTP, and provide resources for projects whilst other RTPs are engaging on industry challenge projects.</blockquote>
+      </details>
+  <tr>
+    <th>13:45
+    <td>Group photo
+  <tr>
+    <th>13:50
+    <td><strong>Tour of the Met Office</strong><br>
+      <em>Andy Malcolm, Met Office</em>
+  <tr>
+    <th>14:40
+    <td>Refreshments
+  <tr>
+    <th>14:55
+    <td><strong>Machine Learning (ML) Weather Forecasting and Experiment Tracking</strong><br>
+      <em>Ben Fitzpatrick, Met Office</em>
+      <details>
+        <summary>Abstract</summary>
+        <blockquote>ML weather forecasting - current Met Office and Alan Turing Institute efforts to predict the weather with graph neural networks. Experiment tracking - current problems with tracking and discovering all our science work under Git/GitHub.</blockquote>
+      </details>
+  <tr>
+    <th>15:35
+    <td><strong>Going fast: Isambard-AI</strong><br>
+      <em>Richard Gilham, University of Bristol</em>
+  <tr>
+    <th>15:55
+    <td><strong>Closing remarks</strong><br>
+      <em>Emma Hogan, Met Office</em>
+  <tr>
+    <th>16:00
+    <td><strong>End of day</strong>
+</table>
+
+## Code of conduct
+
+All participants are expected to adhere to the [Society of RSE code of conduct for events](https://society-rse.org/about/policies/code-of-conduct/).

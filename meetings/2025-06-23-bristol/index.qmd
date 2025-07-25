@@ -23,7 +23,7 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
 
 ## Key outputs from the meeting
 
-* [Video of all talks](https://www.youtube.com/watch?v=BOqwyZHb1Q4)
+* [Video of all talks](https://www.youtube.com/watch?v=BOqwyZHb1Q4){target=_blank}
 * [Summary of discussion session](discussion.qmd)
 * [Views on RSECon25](rsecon25_views.pdf){target=_blank}
 * [Feedback on the day](feedback.pdf){target=_blank}
@@ -77,7 +77,7 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
       Video: [Intro](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=4306s)
 
   <tr>
-    <td>[How can Universities / or Scientific centres support RSEs to deliver and share better research software?](https://padlet.com/pollyeccleston1/rse-sw-how-can-universities-or-scientific-centres-support-rs-eii7qg000a3hxz1z)<br>
+    <td>How can Universities / or Scientific centres support RSEs to deliver and share better research software?<br>
       <em>Polly Eccleston</em> <br>
       <br>
       Resources: [Padlet](talks/Polly_Eccleston_Universities_support_RSEs.pdf){target=_blank}<br>
@@ -86,27 +86,27 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
     <th rowspan="4">11:50
     <th>Lightning talks (5 minutes)
   <tr>
-    <td>[Research IT Facility at the University of Bristol](meetings/2025-06-23-bristol/talks/Serena_Cooper_Research_IT_Facility_at_UoB.pdf){target=_blank}<br>
+    <td>[Research IT Facility at the University of Bristol](talks/Serena_Cooper_Research_IT_Facility_at_UoB.pdf){target=_blank}<br>
       <em>Serena Cooper</em>
       <details>
         <summary>Abstract</summary>
         <blockquote>Research IT are a team of professional software developers and systems administrators who specialise in creating bespoke software for academic research. I will give an overview of the team, some of our projects, and talk about how we manage our pipeline of work and the pros and cons of being a formal TRAC facility.</blockquote>
       </details> 
   <tr>
-    <td>[Developing & Deploying Conceptual Design Tools for Factory Planning](meetings/2025-06-23-bristol/talks/Lewis_Gilbert_Developing_Deploying_Conceptual_Design_Tools_for_Factory_Planning.pdf){target=_blank}<br>
+    <td>[Developing & Deploying Conceptual Design Tools for Factory Planning](talks/Lewis_Gilbert_Developing_Deploying_Conceptual_Design_Tools_for_Factory_Planning.pdf){target=_blank}<br>
       <em>Lewis Gilbert</em>
       <details>
         <summary>Abstract</summary>
         <blockquote>CFMS (the Centre for Modelling and Simulation) is a Bristol-based independent digital engineering consultancy which collaborates with industry and academia to solve complex problems. CFMS is working with an industrial client to develop and deploy novel simulation tools to plan the movements of a network of automated overhead cranes in a factory. This is an example of a multi-agent pathfinding problem, with the objective of maximising the factory’s throughput for any given manufacturing schedule. This talk discusses the value of simulation at the conceptual design stage for a highly complex system. It also covers some of the challenges of creating tools for immediate industrial application - with a technology stack requiring a combination of rapid software development, automated deployment and high performance compute facilities to achieve the project’s aims.</blockquote>
       </details>
   <tr>
-    <td>[The Isambard supercomputers](meetings/2025-06-23-bristol/talks/Matt_Williams_The_Isambard_supercomputers.pdf{target=_blank})<br>
+    <td>[The Isambard supercomputers](talks/Matt_Williams_The_Isambard_supercomputers.pdf){target=_blank}<br>
       <em>Matt Williams</em>
       <details>
         <summary>Abstract</summary>
         <blockquote>A short introduction to the Isambard-AI and Isambard 3 supercomputers, what they provide, how they work and how you can get access.</blockquote>
       </details> <br>
-      Videos: [Serena](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=5508s) [Lewis](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=6027s) [Matt](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=6350s)  [Q&A](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=6746s)
+      Videos: [Serena](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=5508s) [Lewis](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=6027s) [Matt](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=6350s) [Q&A](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=6746s)
       
   <tr>
     <th>12:25
@@ -124,7 +124,7 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
     <th>Session 2: Applications<br>
       Video: [Intro](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=7650s&pp=0gcJCdkCDuyUWbzu)
   <tr>
-    <td>[Mapping the March: an RSE's adventures in time and space](meetings/2025-06-23-bristol/talks/Mike_Jones_Mapping_the_March_an_RSE's_adventures_in_time_and_space.pdf){target=_blank}<br>
+    <td>[Mapping the March: an RSE's adventures in time and space](talks/Mike_Jones_Mapping_the_March_an_RSE's_adventures_in_time_and_space.pdf){target=_blank}<br>
       <em>Mike Jones</em>
       <details>
         <summary>Abstract</summary>
@@ -136,14 +136,14 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
     <th rowspan="4">14:05
     <th>Lightning talks (5 minutes)
   <tr>
-    <td>[How do you host translated content within a Django application?](meetings/2025-06-23-bristol/talks/Benjamin_O'Driscoll_How_do_you_host_translated_content_within_a_Django_application.pdf){target=_blank}<br>
+    <td>[How do you host translated content within a Django application?](talks/Benjamin_O'Driscoll_How_do_you_host_translated_content_within_a_Django_application.pdf){target=_blank}<br>
       <em>Benjamin O'Driscoll</em>
       <details>
         <summary>Abstract</summary>
         <blockquote>The ProBleu Resource Catalogue is a Django based, full stack application, which provides educators access to teaching resources on the subject of water literacy. Users are encouraged to upload educational material which is translated into 24 official EU languages. This talk gives a brief overview of how the django-modeltranslation package was implemented to enhance the reach of materials uploaded to the website.</blockquote>
       </details>
   <tr>
-    <td>[Support for the Python array API standard in SciPy](meetings/2025-06-23-bristol/talks/Jake_Bowhay_Support_for_the_Python_array_API_standard_in_SciPy.pdf){target=_blank}<br>
+    <td>[Support for the Python array API standard in SciPy](talks/Jake_Bowhay_Support_for_the_Python_array_API_standard_in_SciPy.pdf){target=_blank}<br>
       <em>Jake Bowhay</em>
       <details>
         <summary>Abstract</summary>

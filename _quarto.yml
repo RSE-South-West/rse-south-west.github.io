@@ -22,3 +22,4 @@ format:
   html:
     theme: assets/styles.scss
     page-layout: full
+    

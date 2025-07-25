@@ -12,7 +12,6 @@ Room LG.02, [Fry Building, Woodland Road, Bristol, BS8 1UG](https://maps.google.
 * Rachel Tunnicliffe
 * Rita Rasteiro
 
-
 ## Purpose
 
 Following a successful event at the Met Office in February, the University of Bristol is hosting a further meeting on Monday 23 June.
@@ -23,164 +22,218 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
 
 ## Key outputs from the meeting
 
-* [Video of all talks](https://www.youtube.com/watch?v=BOqwyZHb1Q4){target=_blank}
+* [Video of all talks](https://www.youtube.com/watch?v=BOqwyZHb1Q4)
 * [Summary of discussion session](discussion.qmd)
-* [Views on RSECon25](rsecon25_views.pdf){target=_blank}
-* [Feedback on the day](feedback.pdf){target=_blank}
+* [Views on RSECon25](rsecon25_views.pdf)
+* [How can Universities or Research centres support RSEs to deliver and share better research software?](talks/Polly_Eccleston_Universities_support_RSEs.pdf)
+* [Feedback on the day](feedback.pdf)
 
 ## Agenda
 
-<style>
-  .agenda {
-    th:first-child {
-      width: 4em;
-    }
-    details, blockquote {
-      margin: 0;
-    }
-  }
-</style>
-
+```{=html}
 <table class="table agenda">
   <tr>
-    <th>09:30
+    <th><time>09:30</time>
     <td>Refreshments on arrival
   <tr>
-    <th>10:00
-    <td><strong>Welcome</strong><br>
-      <p><em>James Thomas, Rachel Tunnicliffe, Rita Rasteiro, Léo Gorman</em>
-      <ul>
-        <li>Introductions from the different groups attending
-        <li>Getting your views on RSECon25
-        <li>Introduction to Padlet for the afternoon discussion session
-      </ul><br>
-      Resources: [Views on RSECon25](rsecon25_views.pdf){target=_blank}<br>
-      Videos: [Intro](https://www.youtube.com/watch?v=BOqwyZHb1Q4), [RSECon25 discussion](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=455s)
+    <th><time>10:00</time>
+    <td>
+      <article>
+        <h3>Welcome</h3>
+        <address>James Thomas, Rachel Tunnicliffe, Rita Rasteiro, Léo Gorman</address>
+        <ul>
+          <li>Introductions from the different groups attending
+          <li>Getting your views on RSECon25
+          <li>Introduction to Padlet for the afternoon discussion session
+        </ul>
+        <ul class=resources>
+          <li><a href="https://www.youtube.com/watch?v=BOqwyZHb1Q4">Intro video</a>
+          <li><a href="rsecon25_views.pdf">Views on RSECon25</a>
+          <li><a href="https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=455s">RSECon25 discussion video</a>
+        </ul>
+      </article>
   <tr>
-    <th>10:30
-    <td><strong>Keynote: RSE Communities: What, How & Why?</strong><br>
-      <em>Fliss Guest</em><br>
-      Vice President of the Society of Research Software Engineering<br>
-      Deputy Head of Research Software Engineering at the University of Exeter
-      <details>
-        <summary>Abstract</summary>
-        <blockquote>The RSE landscape encompasses numerous communities, such as networks, central teams at universities and organisations. I will shed some light on the communities I have been a part of since becoming an RSE four short years ago, sharing insights into how and why they came about, along with the benefits they pose for us as individuals and collectives.</blockquote>
-      </details><br>
-      Videos: [talk](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=1001s) [Q&A](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=3008s)
-     
+    <th><time>10:30</time>
+    <td>
+      <article>
+        <h3>Keynote: RSE Communities: What, How & Why?</h3>
+        <address>Fliss Guest<br>Vice President of the Society of Research Software Engineering<br>Deputy Head of Research Software Engineering at the University of Exeter</address>
+        <ul class=resources>
+          <li><a href="https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=1001s">Video</a>
+          <li><a href="https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=3008s">Q&amp;A</a>
+        </ul>
+        <details>
+          <summary>Abstract</summary>
+          <blockquote>The RSE landscape encompasses numerous communities, such as networks, central teams at universities and organisations. I will shed some light on the communities I have been a part of since becoming an RSE four short years ago, sharing insights into how and why they came about, along with the benefits they pose for us as individuals and collectives.</blockquote>
+        </details>
+      </article>
   <tr>
-    <th>11:10
+    <th><time>11:10</time>
     <td>Networking and refreshments
   <tr>
-    <th rowspan="2">11:30
-    <th>Session 1: Groups and facilities <br>
-      Video: [Intro](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=4306s)
-
+    <th rowspan=2><time>11:30</time>
+    <td>Session 1: Groups and facilities
   <tr>
-    <td>How can Universities / or Scientific centres support RSEs to deliver and share better research software?<br>
-      <em>Polly Eccleston</em> <br>
-      <br>
-      Resources: [Padlet](talks/Polly_Eccleston_Universities_support_RSEs.pdf){target=_blank}<br>
-      Video: [Discussion](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=4326s)
+    <td>
+      <article>
+        <h3>How can Universities or Research centres support RSEs to deliver and share better research software?</h3>
+        <address>Polly Eccleston</address>
+        <ul class=resources>
+          <li><a href="talks/Polly_Eccleston_Universities_support_RSEs.pdf">Padlet</a>
+          <li><a href="https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=4326s">Video</a>
+        </ul>
+      </article>
   <tr>
-    <th rowspan="4">11:50
-    <th>Lightning talks (5 minutes)
+    <th rowspan=4><time>11:50</time>
+    <td>Lightning talks (5 minutes)
   <tr>
-    <td>[Research IT Facility at the University of Bristol](talks/Serena_Cooper_Research_IT_Facility_at_UoB.pdf){target=_blank}<br>
-      <em>Serena Cooper</em>
-      <details>
-        <summary>Abstract</summary>
-        <blockquote>Research IT are a team of professional software developers and systems administrators who specialise in creating bespoke software for academic research. I will give an overview of the team, some of our projects, and talk about how we manage our pipeline of work and the pros and cons of being a formal TRAC facility.</blockquote>
-      </details> 
+    <td>
+      <article>
+        <h3>Research IT Facility at the University of Bristol</h3>
+        <address>Serena Cooper</address>
+        <ul class=resources>
+          <li><a href="talks/Serena_Cooper_Research_IT_Facility_at_UoB.pdf">Slides</a>
+          <li><a href="https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=5508s">Video</a>
+        </ul>
+        <details>
+          <summary>Abstract</summary>
+          <blockquote>Research IT are a team of professional software developers and systems administrators who specialise in creating bespoke software for academic research. I will give an overview of the team, some of our projects, and talk about how we manage our pipeline of work and the pros and cons of being a formal TRAC facility.</blockquote>
+        </details>
+      </article>
   <tr>
-    <td>[Developing & Deploying Conceptual Design Tools for Factory Planning](talks/Lewis_Gilbert_Developing_Deploying_Conceptual_Design_Tools_for_Factory_Planning.pdf){target=_blank}<br>
-      <em>Lewis Gilbert</em>
-      <details>
-        <summary>Abstract</summary>
-        <blockquote>CFMS (the Centre for Modelling and Simulation) is a Bristol-based independent digital engineering consultancy which collaborates with industry and academia to solve complex problems. CFMS is working with an industrial client to develop and deploy novel simulation tools to plan the movements of a network of automated overhead cranes in a factory. This is an example of a multi-agent pathfinding problem, with the objective of maximising the factory’s throughput for any given manufacturing schedule. This talk discusses the value of simulation at the conceptual design stage for a highly complex system. It also covers some of the challenges of creating tools for immediate industrial application - with a technology stack requiring a combination of rapid software development, automated deployment and high performance compute facilities to achieve the project’s aims.</blockquote>
-      </details>
+    <td>
+      <article>
+        <h3>Developing &amp; Deploying Conceptual Design Tools for Factory Planning</h3>
+        <address>Lewis Gilbert</address>
+        <ul class=resources>
+          <li><a href="talks/Lewis_Gilbert_Developing_Deploying_Conceptual_Design_Tools_for_Factory_Planning.pdf">Slides</a>
+          <li><a href="https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=6027s">Video</a>
+        </ul>
+        <details>
+          <summary>Abstract</summary>
+          <blockquote>CFMS (the Centre for Modelling and Simulation) is a Bristol-based independent digital engineering consultancy which collaborates with industry and academia to solve complex problems. CFMS is working with an industrial client to develop and deploy novel simulation tools to plan the movements of a network of automated overhead cranes in a factory. This is an example of a multi-agent pathfinding problem, with the objective of maximising the factory’s throughput for any given manufacturing schedule. This talk discusses the value of simulation at the conceptual design stage for a highly complex system. It also covers some of the challenges of creating tools for immediate industrial application - with a technology stack requiring a combination of rapid software development, automated deployment and high performance compute facilities to achieve the project’s aims.</blockquote>
+        </details>
+      </article>
   <tr>
-    <td>[The Isambard supercomputers](talks/Matt_Williams_The_Isambard_supercomputers.pdf){target=_blank}<br>
-      <em>Matt Williams</em>
-      <details>
-        <summary>Abstract</summary>
-        <blockquote>A short introduction to the Isambard-AI and Isambard 3 supercomputers, what they provide, how they work and how you can get access.</blockquote>
-      </details> <br>
-      Videos: [Serena](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=5508s) [Lewis](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=6027s) [Matt](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=6350s) [Q&A](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=6746s)
-      
+    <td>
+      <article>
+        <h3>The Isambard supercomputers</h3>
+        <address>Matt Williams</address>
+        <ul class=resources>
+          <li><a href="talks/Matt_Williams_The_Isambard_supercomputers.pdf">Slides</a>
+          <li><a href="https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=6350s">Video</a>
+        </ul>
+        <details>
+          <summary>Abstract</summary>
+          <blockquote>A short introduction to the Isambard-AI and Isambard 3 supercomputers, what they provide, how they work and how you can get access.</blockquote>
+        </details>
+      </article>
   <tr>
-    <th>12:25
+    <th><time>12:25</time>
     <td>Group photo
   <tr>
-    <th>12:30
+    <th><time>12:30</time>
     <td>Lunch and optional walk/viewing tower
   <tr>
-    <th>13:40
-    <td><strong>Start of afternoon session</strong>
+    <th><time>13:40</time>
+    <td>Start of afternoon session
       <ul>
         <li>Work on Padlet for the afternoon discussion session
+      </ul>
   <tr>
-    <th rowspan="2">13:45
-    <th>Session 2: Applications<br>
-      Video: [Intro](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=7650s&pp=0gcJCdkCDuyUWbzu)
+    <th rowspan=2><time>13:45</time>
+    <td>Session 2: Applications
   <tr>
-    <td>[Mapping the March: an RSE's adventures in time and space](talks/Mike_Jones_Mapping_the_March_an_RSE's_adventures_in_time_and_space.pdf){target=_blank}<br>
-      <em>Mike Jones</em>
-      <details>
-        <summary>Abstract</summary>
-        <blockquote>A talk introducing the UKRI-funded project, "Mapping the March: Medieval Wales and England, c.1282-1550. Mapping Literary Geography in a British Border Region." It will outline how Research IT supports this Digital Humanities project and its researchers, the technologies employed, and discusses some of the challenges encountered with historical and geospatial data.</blockquote>
-      </details><br>
-      Videos: [talk](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=7763s&pp=0gcJCdkCDuyUWbzu) [Q&A](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=8780s)
-  
+    <td>
+      <article>
+        <h3>Mapping the March: an RSE's adventures in time and space</h3>
+        <address>Mike Jones</address>
+        <ul class=resources>
+          <li><a href="talks/Mike_Jones_Mapping_the_March_an_RSE's_adventures_in_time_and_space.pdf">Slides</a>
+          <li><a href="https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=7763s">Video</a>
+        </ul>
+        <details>
+          <summary>Abstract</summary>
+          <blockquote>A talk introducing the UKRI-funded project, "Mapping the March: Medieval Wales and England, c.1282-1550. Mapping Literary Geography in a British Border Region." It will outline how Research IT supports this Digital Humanities project and its researchers, the technologies employed, and discusses some of the challenges encountered with historical and geospatial data.</blockquote>
+        </details>
+      </article>
   <tr>
-    <th rowspan="4">14:05
-    <th>Lightning talks (5 minutes)
+    <th rowspan=4><time>14:05</time>
+    <td>Lightning talks (5 minutes)
   <tr>
-    <td>[How do you host translated content within a Django application?](talks/Benjamin_O'Driscoll_How_do_you_host_translated_content_within_a_Django_application.pdf){target=_blank}<br>
-      <em>Benjamin O'Driscoll</em>
-      <details>
-        <summary>Abstract</summary>
-        <blockquote>The ProBleu Resource Catalogue is a Django based, full stack application, which provides educators access to teaching resources on the subject of water literacy. Users are encouraged to upload educational material which is translated into 24 official EU languages. This talk gives a brief overview of how the django-modeltranslation package was implemented to enhance the reach of materials uploaded to the website.</blockquote>
-      </details>
+    <td>
+      <article>
+        <h3>How do you host translated content within a Django application?</h3>
+        <address>Benjamin O'Driscoll</address>
+        <ul class=resources>
+          <li><a href="talks/Benjamin_O'Driscoll_How_do_you_host_translated_content_within_a_Django_application.pdf">Slides</a>
+          <li><a href="https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=9109s">Video</a>
+        </ul>
+        <details>
+          <summary>Abstract</summary>
+          <blockquote>The ProBleu Resource Catalogue is a Django based, full stack application, which provides educators access to teaching resources on the subject of water literacy. Users are encouraged to upload educational material which is translated into 24 official EU languages. This talk gives a brief overview of how the django-modeltranslation package was implemented to enhance the reach of materials uploaded to the website.</blockquote>
+        </details>
+      </article>
   <tr>
-    <td>[Support for the Python array API standard in SciPy](talks/Jake_Bowhay_Support_for_the_Python_array_API_standard_in_SciPy.pdf){target=_blank}<br>
-      <em>Jake Bowhay</em>
-      <details>
-        <summary>Abstract</summary>
-        <blockquote>Array oriented computing in Python was once straightforward: NumPy for arrays, and SciPy for foundational scientific functions. However as of today, the array library ecosystem has expanded to include CuPy, PyTorch, JAX, and others, each addressing use cases beyond NumPy's scope. This talk introduces how SciPy is evolving to support this diverse landscape by adopting the Python array API standard. I'll briefly introduce what this standard is and how it is enabling SciPy to write code that is interoperable across array libraries.</blockquote>
-      </details>
+    <td>
+      <article>
+        <h3>Support for the Python array API standard in SciPy</h3>
+        <address>Jake Bowhay</address>
+        <ul class=resources>
+          <li><a href="talks/Jake_Bowhay_Support_for_the_Python_array_API_standard_in_SciPy.pdf">Slides</a>
+          <li><a href="https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=9456s">Video</a>
+        </ul>
+        <details>
+          <summary>Abstract</summary>
+          <blockquote>Array oriented computing in Python was once straightforward: NumPy for arrays, and SciPy for foundational scientific functions. However as of today, the array library ecosystem has expanded to include CuPy, PyTorch, JAX, and others, each addressing use cases beyond NumPy's scope. This talk introduces how SciPy is evolving to support this diverse landscape by adopting the Python array API standard. I'll briefly introduce what this standard is and how it is enabling SciPy to write code that is interoperable across array libraries.</blockquote>
+        </details>
+      </article>
   <tr>
-    <td>[Make `make` great again](https://github.com/jfrost-mo/make-make-great-again)<br>
-      <em>James Frost</em><br>
-      <br>
-      Videos: [Ben](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=9109s) [Jake](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=9456s) [James](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=9837s) [Q&A](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=10225s)
+    <td>
+      <article>
+        <h3>Make <code>make</code> great again</a></h3>
+        <address>James Frost</address>
+        <ul class=resources>
+          <li><a href="https://github.com/jfrost-mo/make-make-great-again">GitHub repo</a>
+          <li><a href="https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=9837s">Video</a>
+        </ul>
+      </article>
   <tr>
-    <th>14:35
+    <th><time>14:35</time>
     <td>Networking and refreshments
   <tr>
-    <th>14:50
-    <td><strong>Discussion session</strong><br>
-      <em>Rachel Tunnicliffe</em>
-      <ul>
-        <li>The future of RSE South West events
-        <li>RSE groups and how they're organised
-        <li>RSE best practices
-      </ul><br>
-      Resources: [Summary of discussion](discussion.qmd), [Padlet](discussion_board.pdf)<br>
-      Video: [Discussion](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=10816s)
-      
+    <th><time>14:50</time>
+    <td>
+      <article>
+        <h3>Discussion session</h3>
+        <address>Rachel Tunnicliffe</address>
+        <ul>
+          <li>The future of RSE South West events
+          <li>RSE groups and how they're organised
+          <li>RSE best practices
+        </ul>
+        <ul class=resources>
+          <li><a href="discussion.qmd">Summary of discussion</a>
+          <li><a href="discussion_board.pdf">Padlet</a>
+          <li><a href="https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=10816s">Video</a>
+        </ul>
+      </article>
   <tr>
-    <th>15:20
-    <td><strong>Closing remarks</strong><br>
-      <em>James Thomas, Rachel Tunnicliffe, Rita Rasteiro, Léo Gorman</em>
-      <p>
-        Resources: [Feedback received](feedback.pdf){target=_blank}<br>
-        Video: [Closing](https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=12773s)  
-  
+    <th><time>15:20</time>
+    <td>
+      <article>
+        <h3>Closing remarks</h3>
+        <address>James Thomas, Rachel Tunnicliffe, Rita Rasteiro, Léo Gorman</address>
+        <ul class=resources>
+          <li><a href="https://www.youtube.com/watch?v=BOqwyZHb1Q4&t=12773s">Video</a>
+          <li><a href="feedback.pdf">Feedback received</a>
+        </ul>
+      </article>
   <tr>
-    <th>15:30 
+    <th><time>15:30</time>
     <td><strong>End of day</strong> and optional pub trip
 </table>
+```
 
 ## Code of conduct
 

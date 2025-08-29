@@ -38,3 +38,28 @@ main {
         }
     }
 }
+
+table.table.agenda {
+    th:first-child {
+        width: 4em;
+    }
+    h3 {
+        font: bold 1em var(--bs-body-font-family) !important;
+        line-height: var(--bs-body-line-height) !important;
+        margin: 0;
+    }
+    address {
+        font-style: italic;
+        margin: 0;
+    }
+    ul, details, blockquote, dl {
+        margin: 0.25rem 0 0.5rem;
+    }
+    ul.resources {
+        padding: 0;
+        list-style: none;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5em 1em;
+    }
+}

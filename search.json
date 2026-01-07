@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "resources/index.html",
-    "href": "resources/index.html",
-    "title": "Resources",
-    "section": "",
-    "text": "TODO"
-  },
-  {
-    "objectID": "resources/index.html#videos",
-    "href": "resources/index.html#videos",
-    "title": "Resources",
-    "section": "Videos",
-    "text": "Videos\n\nBristol meeting, 23 June 2025"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to RSE South West",
-    "section": "",
-    "text": "We are a community of research software engineers mainly from the South West of the UK and GW4 Universities who are not affiliated with a larger regional RSE group.\nOur aim is to be a regional community for building networks, form collaborations and share knowledge. We are doing this through several meetings aimed to take place at regular intervals.\n\nBe part of our community!\nAll are welcome, whether or not you are from the South West of the UK, and whether or not you self-define as a Research Software Engineer (RSE).\nThe easiest way to communicate with everyone is via the #rse-south-west channel on the UK RSE Slack instance. Or join our mailing list to stay in touch with events!\n\nJoin our Slack channel"
-  },
-  {
     "objectID": "meetings/2025-06-23-bristol/discussion.html",
     "href": "meetings/2025-06-23-bristol/discussion.html",
     "title": "Summary of discussion from the 23 June RSE South West meeting",
@@ -56,6 +35,97 @@
     "text": "Any other topics to discuss?\n\nMeet at RSECon?​\n\nThere is a meeting event (possibly a regional RSE groups Birds of a Feather session) at RSECon25 which we should get involved in.\n\nUse of AI in coding​\n\nNo time to discuss but could be a good topic for the next meeting"
   },
   {
+    "objectID": "meetings/next_meeting.html",
+    "href": "meetings/next_meeting.html",
+    "title": "RSE South West",
+    "section": "",
+    "text": "NoteNews\n\n\n\nNext meeting: University of Exeter — 20 Feb 2026 (Submit your abstract by Friday 30 January 2026) · Learn more"
+  },
+  {
+    "objectID": "meetings/2026-02-20-exeter/index.html",
+    "href": "meetings/2026-02-20-exeter/index.html",
+    "title": "Meeting of South West RSE’s at the University of Exeter",
+    "section": "",
+    "text": "When: Friday 20 February 2026, 10am – 3pm (refreshments from 9:30am for a 10am start) Where: Peter Chalk Centre, Newman Red Lecture Theatre, Exeter, EX4 4QQ (How to get here) Deadline for contributions: Friday 30 January 2026 Registration closes: Friday 13 February 2026"
+  },
+  {
+    "objectID": "meetings/2026-02-20-exeter/index.html#organisers",
+    "href": "meetings/2026-02-20-exeter/index.html#organisers",
+    "title": "Meeting of South West RSE’s at the University of Exeter",
+    "section": "Organisers",
+    "text": "Organisers\n\nJeremy Pike (Lead)\nTom Hawes\nRuxandra Neatu\nPaul Wright"
+  },
+  {
+    "objectID": "meetings/2026-02-20-exeter/index.html#purpose",
+    "href": "meetings/2026-02-20-exeter/index.html#purpose",
+    "title": "Meeting of South West RSE’s at the University of Exeter",
+    "section": "Purpose",
+    "text": "Purpose\nFollowing a successful event at the University of Bristol in June 2025, the University of Exeter is hosting a third meeting on Friday 20 February 2026.\nIt will be another day to showcase interesting topics, share knowledge and build networks. All are welcome, whether or not you are from the South West of the UK, and whether or not you self-define as a Research Software Engineer (RSE) - What is an RSE?"
+  },
+  {
+    "objectID": "meetings/2026-02-20-exeter/index.html#contribution-submissionregistration",
+    "href": "meetings/2026-02-20-exeter/index.html#contribution-submissionregistration",
+    "title": "Meeting of South West RSE’s at the University of Exeter",
+    "section": "Contribution Submission/Registration",
+    "text": "Contribution Submission/Registration\nContribution submission is open, with a deadline of 30th January 2026.\nPlease submit your abstracts and/or register here."
+  },
+  {
+    "objectID": "meetings/2026-02-20-exeter/index.html#code-of-conduct",
+    "href": "meetings/2026-02-20-exeter/index.html#code-of-conduct",
+    "title": "Meeting of South West RSE’s at the University of Exeter",
+    "section": "Code of conduct",
+    "text": "Code of conduct\nAll participants are expected to adhere to the Society of RSE code of conduct for events."
+  },
+  {
+    "objectID": "meetings/2026-02-20-exeter/index.html#contact-the-organisers-and-other-attendees",
+    "href": "meetings/2026-02-20-exeter/index.html#contact-the-organisers-and-other-attendees",
+    "title": "Meeting of South West RSE’s at the University of Exeter",
+    "section": "Contact the organisers and other attendees",
+    "text": "Contact the organisers and other attendees\nThe easiest way to communicate with everyone is via the #rse-south-west channel on the UK RSE Slack instance.\nIf you would rather send us an email, please contact: rse-south-west-2026@exeter.ac.uk."
+  },
+  {
+    "objectID": "members/index.html",
+    "href": "members/index.html",
+    "title": "Members",
+    "section": "",
+    "text": "University of Bristol\nUniversity of Exeter\nMet Office\nPlymouth Marine Laboratory"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to RSE South West",
+    "section": "",
+    "text": "NoteNews\n\n\n\nNext meeting: University of Exeter — 20 Feb 2026 (Submit your abstract by Friday 30 January 2026) · Learn more\n\n\nWe are a community of research software engineers mainly from the South West of the UK and GW4 Universities who are not affiliated with a larger regional RSE group.\nOur aim is to be a regional community for building networks, form collaborations and share knowledge. We are doing this through several meetings aimed to take place at regular intervals.\n\nBe part of our community!\nAll are welcome, whether or not you are from the South West of the UK, and whether or not you self-define as a Research Software Engineer (RSE).\nThe easiest way to communicate with everyone is via the #rse-south-west channel on the UK RSE Slack instance. Or join our mailing list to stay in touch with events!\n\nJoin our Slack channel"
+  },
+  {
+    "objectID": "resources/index.html",
+    "href": "resources/index.html",
+    "title": "Resources",
+    "section": "",
+    "text": "TODO"
+  },
+  {
+    "objectID": "resources/index.html#videos",
+    "href": "resources/index.html#videos",
+    "title": "Resources",
+    "section": "Videos",
+    "text": "Videos\n\nBristol meeting, 23 June 2025"
+  },
+  {
+    "objectID": "meetings/index.html",
+    "href": "meetings/index.html",
+    "title": "Meetings",
+    "section": "",
+    "text": "Our goal is to meet in-person a few times each year, rotating locations across the South West region. It is a day to showcase interesting topics, share knowledge and build networks.\nThese meetings aim to complement the annual RSE conference and be useful to those in the South West / GW4 who are not part of a larger RSE group."
+  },
+  {
+    "objectID": "meetings/index.html#code-of-conduct",
+    "href": "meetings/index.html#code-of-conduct",
+    "title": "Meetings",
+    "section": "Code of conduct",
+    "text": "Code of conduct\nAll participants are expected to adhere to the Society of RSE code of conduct for events."
+  },
+  {
     "objectID": "meetings/2025-02-10-met-office/index.html",
     "href": "meetings/2025-02-10-met-office/index.html",
     "title": "Meeting of South West RSE’s at the Met Office",
@@ -87,20 +157,6 @@
     "objectID": "meetings/2025-02-10-met-office/index.html#code-of-conduct",
     "href": "meetings/2025-02-10-met-office/index.html#code-of-conduct",
     "title": "Meeting of South West RSE’s at the Met Office",
-    "section": "Code of conduct",
-    "text": "Code of conduct\nAll participants are expected to adhere to the Society of RSE code of conduct for events."
-  },
-  {
-    "objectID": "meetings/index.html",
-    "href": "meetings/index.html",
-    "title": "Meetings",
-    "section": "",
-    "text": "Our goal is to meet in-person a few times each year, rotating locations across the South West region. It is a day to showcase interesting topics, share knowledge and build networks.\nThese meetings aim to complement the annual RSE conference and be useful to those in the South West / GW4 who are not part of a larger RSE group."
-  },
-  {
-    "objectID": "meetings/index.html#code-of-conduct",
-    "href": "meetings/index.html#code-of-conduct",
-    "title": "Meetings",
     "section": "Code of conduct",
     "text": "Code of conduct\nAll participants are expected to adhere to the Society of RSE code of conduct for events."
   },
@@ -152,12 +208,5 @@
     "title": "Meeting of South West RSE’s in Bristol",
     "section": "Contact the organisers and other attendees",
     "text": "Contact the organisers and other attendees\nThe easiest way to communicate with everyone is via the #rse-south-west channel on the UK RSE Slack instance.\nIf you would rather send us an email, please contact: rse-south-west-2025@bristol.ac.uk."
-  },
-  {
-    "objectID": "members/index.html",
-    "href": "members/index.html",
-    "title": "Members",
-    "section": "",
-    "text": "University of Bristol\nUniversity of Exeter\nMet Office\nPlymouth Marine Laboratory"
   }
 ]

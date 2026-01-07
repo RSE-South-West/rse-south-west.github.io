@@ -9,7 +9,7 @@ title: Meeting of South West RSE's at the University of Exeter
 
 ## Organisers
 
-* [Jeremy Pike](https://experts.exeter.ac.uk/44753-Jeremy-Pike){target="_blank"} (Lead)
+* Jeremy Pike (Lead)
 * Tom Hawes
 * Ruxandra Neatu
 * Paul Wright
@@ -37,3 +37,5 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
 ## Contact the organisers and other attendees
 
 The easiest way to communicate with everyone is via the [#rse-south-west](https://ukrse.slack.com/archives/C085EGAULJ3) channel on the [UK RSE Slack instance](https://ukrse.slack.com/signup?redir=/archives/C085EGAULJ3).
+
+If you would rather send us an email, please contact: <rse-south-west-2026@exeter.ac.uk>.

@@ -1,0 +1,3 @@
+::: {.callout-note title="News"}
+Next meeting: **University of Exeter** — 20 Feb 2026 ([Submit your abstract by Friday 30 January 2026](https://forms.office.com/e/N8mB93jUbg)) · [Learn more](meetings/2026-02-20-exeter/index.qmd)
+:::

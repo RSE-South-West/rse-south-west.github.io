@@ -1,0 +1,41 @@
+---
+title: Meeting of South West RSE's at the University of Exeter
+---
+
+**When**: Friday 20 February 2026, 10am – 3pm (refreshments from 9:30am for a 10am start)<br>
+**Where**: Peter Chalk Centre, Newman Red Lecture Theatre, Exeter, EX4 4QQ ([How to get here](https://maps.app.goo.gl/v7gFBEb4BCQSv3qz7){target="_blank"})<br>
+**Deadline for contributions**: Friday 30 January 2026<br>
+**Registration closes**: Friday 13 February 2026
+
+## Organisers
+
+* Jeremy Pike (Lead)
+* Tom Hawes
+* Ruxandra Neatu
+* Paul Wright
+
+## Purpose
+
+Following a successful event at the University of Bristol in June 2025, the University of Exeter is hosting a third meeting on **Friday 20 February 2026**.
+
+It will be another day to showcase interesting topics, share knowledge and build networks.
+All are welcome, whether or not you are from the South West of the UK, and whether or not you self-define as a Research Software Engineer (RSE) - [What is an RSE?](https://society-rse.org/what-is-an-rse/)
+
+
+## Contribution Submission/Registration
+
+Contribution submission is open, with a deadline of **30th January 2026**. 
+
+Please submit your abstracts and/or register [here](https://forms.office.com/e/N8mB93jUbg).
+
+
+## Code of conduct
+
+All participants are expected to adhere to the [Society of RSE code of conduct for events](https://society-rse.org/about/policies/code-of-conduct/).
+
+
+## Contact the organisers and other attendees
+
+The easiest way to communicate with everyone is via the [#rse-south-west](https://ukrse.slack.com/archives/C085EGAULJ3) channel on the [UK RSE Slack instance](https://ukrse.slack.com/signup?redir=/archives/C085EGAULJ3).
+
+If you would rather send us an email, please contact: <rse-south-west-2026@exeter.ac.uk>.

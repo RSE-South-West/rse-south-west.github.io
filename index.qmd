@@ -1,6 +1,7 @@
 ---
 title:  Welcome to RSE South West
 ---
+{{< include meetings/next_meeting.qmd >}}
 
 
 

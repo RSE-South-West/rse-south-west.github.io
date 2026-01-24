@@ -26,7 +26,7 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
 
 Contribution submission is open, with a deadline of **30th January 2026**. 
 
-Please submit your abstracts and/or register [here](https://forms.office.com/e/N8mB93jUbg).
+Please submit your abstracts and/or register using our [registration form](https://forms.office.com/e/N8mB93jUbg).
 
 
 ## Code of conduct
@@ -39,3 +39,10 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
 The easiest way to communicate with everyone is via the [#rse-south-west](https://ukrse.slack.com/archives/C085EGAULJ3) channel on the [UK RSE Slack instance](https://ukrse.slack.com/signup?redir=/archives/C085EGAULJ3).
 
 If you would rather send us an email, please contact: <rse-south-west-2026@exeter.ac.uk>.
+
+
+## Acknowledgement
+
+We're grateful to the [Society of Research Software Engineering](https://society-rse.org/) for providing financial support for this meeting.
+
+![Society of RSE logo (resized), used with permission. See [https://society-rse.org/trademark-and-logo-policy/](https://society-rse.org/trademark-and-logo-policy/) for terms of use.](https://society-rse.org/wp-content/uploads/2022/05/Soc_RSE_master_logo4-766x1024.png){width=10% fig-align="left" fig-alt="The Society for Research Software Engineering logo in colour."}

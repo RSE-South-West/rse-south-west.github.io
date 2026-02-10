@@ -1,5 +1,3 @@
 ::: {.callout-note title="News"}
 Next meeting: **University of Exeter** — 20 Feb 2026 · [Learn more](meetings/2026-02-20-exeter/index.qmd)
-
-**Note:** Deadline for talk submissions extended to Friday 6 February 2026, [submit your abstract here](https://forms.office.com/e/N8mB93jUbg).
 :::

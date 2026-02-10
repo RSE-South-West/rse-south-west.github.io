@@ -4,7 +4,7 @@ title: Meeting of South West RSE's at the University of Exeter
 
 **When**: Friday 20 February 2026, 10am – 3pm (refreshments from 9:30am for a 10am start)<br>
 **Where**: Peter Chalk Centre, Newman Red Lecture Theatre, Exeter, EX4 4QQ ([How to get here](https://maps.app.goo.gl/v7gFBEb4BCQSv3qz7){target="_blank"})<br>
-**Deadline for contributions (extended)**: Friday 6 February 2026<br>
+~~**Deadline for contributions (extended)**: Friday 6 February 2026<br>~~
 **Registration closes**: Friday 13 February 2026
 
 ## Organisers
@@ -24,9 +24,7 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
 
 ## Contribution Submission/Registration
 
-Contribution submission is open. We have **extended the deadline by a week**, so please submit your contribution by the end of the day on **6th February 2026**. 
-
-Please submit your abstracts and/or register using our [registration form](https://forms.office.com/e/N8mB93jUbg).
+Please register using our [registration form](https://forms.office.com/e/N8mB93jUbg) before the 13th Feb 2026.
 
 ## Code of conduct
 
@@ -34,7 +32,7 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
 
 ## Agenda
 
-<table class="agenda-detailed">
+<table class="agenda-exeter">
   <tr>
     <th><time>09:30</time></th>
     <td>
@@ -124,7 +122,7 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
             The NERC Earth Observation Data Analysis and AI Service (NEODAAS)
             <span class="duration">10 min</span>
           </h3>
-          <address>Dan Clewley (University of Plymouth)</address>
+          <address>Dan Clewley (Plymouth Marine Laboratory)</address>
         </article>
 
         <article>
@@ -154,11 +152,8 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
   <tr>
     <th><time>12:00</time></th>
     <td>
-      <p class="block">
-        <strong>Lunch</strong><br>
-        Lunch, optional walk, and group photo
-        <span class="duration">60 min</span>
-      </p>
+      <h3>Lunch<span class="duration">60 min</span></h3>
+      Lunch, optional walk, and group photo
     </td>
   </tr>
 
@@ -262,7 +257,7 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
   <tr>
     <th><time>14:25</time></th>
     <td>
-      <h3><strong>Panel Discussion</strong></h3>
+      <h3><strong>Panel Discussion</strong><span class="duration">35 min</span></h3>
       <address>Moderated panel with audience questions</address>
     </td>
   </tr>
@@ -270,7 +265,7 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
   <tr>
     <th><time>14:55</time></th>
     <td>
-      <h3><strong>Closing</strong></h3>
+      <h3><strong>Closing</strong><span class="duration">5 min</span></h3>
       <address>Jeremy Pike, Tom Hawes, Ruxandra Neatu, Paul Wright</address>
     </td>
   </tr>
@@ -278,7 +273,7 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
   <tr>
     <th><time>15:00</time></th>
     <td>
-      <h3><strong>Close + Informal Pub trip</strong></h3>
+      <h3>Informal Pub trip</h3>
       <address>Pub trip to Exeter's famous orangery (The Imperial, EX4 4AH)</address>
     </td>
   </tr>

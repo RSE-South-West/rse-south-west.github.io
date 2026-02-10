@@ -4,7 +4,7 @@ title: Meeting of South West RSE's at the University of Exeter
 
 **When**: Friday 20 February 2026, 10am – 3pm (refreshments from 9:30am for a 10am start)<br>
 **Where**: Peter Chalk Centre, Newman Red Lecture Theatre, Exeter, EX4 4QQ ([How to get here](https://maps.app.goo.gl/v7gFBEb4BCQSv3qz7){target="_blank"})<br>
-**Deadline for contributions (extended)**: Friday 6 February 2026<br>
+No longer accepting contributions.<br>
 **Registration closes**: Friday 13 February 2026
 
 ## Organisers
@@ -24,15 +24,261 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
 
 ## Contribution Submission/Registration
 
-Contribution submission is open. We have **extended the deadline by a week**, so please submit your contribution by the end of the day on **6th February 2026**. 
-
-Please submit your abstracts and/or register using our [registration form](https://forms.office.com/e/N8mB93jUbg).
-
+Please register using our [registration form](https://forms.office.com/e/N8mB93jUbg) before the 13th Feb 2026.
 
 ## Code of conduct
 
 All participants are expected to adhere to the [Society of RSE code of conduct for events](https://society-rse.org/about/policies/code-of-conduct/).
 
+## Agenda
+
+<table class="agenda-exeter">
+  <tr>
+    <th><time>09:30</time></th>
+    <td>
+      <h3>Registration &amp; refreshments</h3>
+    </td>
+  </tr>
+
+  <tr>
+    <th><time>10:00</time></th>
+    <td>
+      <h3><strong>Welcome</strong></h3>
+      <address>Jeremy Pike, Tom Hawes, Ruxandra Neatu, Paul Wright</address>
+    </td>
+  </tr>
+
+  <tr>
+    <th><time>10:05</time></th>
+    <td>
+        <h3>
+          <strong>Delivering high-quality research software that lasts</strong>
+          <span class="keynote">keynote</span>
+          <span class="duration">20 min</span>
+        </h3>
+        <address>Emma Hogan (Met Office)</address>
+    </td>
+  </tr>
+
+  <tr>
+    <th><time>10:25</time></th>
+    <td>
+        <h3>
+         <strong>Building for the Future with The Bristol Centre for Supercomputing</strong>
+          <span class="keynote">keynote</span>
+          <span class="duration">20 min</span>
+        </h3>
+        <address>Anna Price &amp; Tom Green (University of Bristol)</address>
+    </td>
+  </tr>
+
+  <tr>
+    <th><time>10:45</time></th>
+    <td>
+        <h3>Networking break<span class="duration">20 min</span></h3>
+        Refreshments and informal discussion
+    </td>
+  </tr>
+
+  <!-- SESSION 1 -->
+  <tr>
+    <th><time>11:05</time></th>
+    <td>
+      <details class="session" open>
+        <summary>
+          <span class="session-title">
+            Session 1: <em>Community and Recognition in RSE</em>
+          </span>
+          <span class="duration">55 min</span>
+        </summary>
+
+        <article>
+          <h3>
+            (Almost) 10 Years of Recognizing Research Software through the Journal of Open Source Software
+            <span class="duration">remote</span>
+            <span class="duration">10 min</span>
+          </h3>
+          <address>Warwick Ball (University of Birmingham)</address>
+        </article>
+
+        <article>
+          <h3>
+            Introduction to the Bath Research Software Engineering Group
+            <span class="duration">5 min</span>
+          </h3>
+          <address>Stephen Cook (University of Bath)</address>
+        </article>
+
+        <article>
+          <h3>
+            Scaling Climate Services at the Met Office
+            <span class="duration">10 min</span>
+          </h3>
+          <address>Alex Stanhope &amp; Daniel Cubbon (Met Office)</address>
+        </article>
+
+        <article>
+          <h3>
+            The NERC Earth Observation Data Analysis and AI Service (NEODAAS)
+            <span class="duration">10 min</span>
+          </h3>
+          <address>Dan Clewley (Plymouth Marine Laboratory)</address>
+        </article>
+
+        <article>
+          <h3>
+            X-CITED: Building RSE Careers Through Community &amp; Development
+            <span class="duration">5 min</span>
+          </h3>
+          <address>Nicole Whippey (University of Exeter)</address>
+        </article>
+
+        <article>
+          <h3>
+            RSE Adventures in Server Management
+            <span class="duration">5 min</span>
+          </h3>
+          <address>Michael Pei (University of Bristol)</address>
+        </article>
+
+        <p class="discussion">
+          <strong>Discussion &amp; Q&amp;A</strong>
+          <span class="duration">10 min</span>
+        </p>
+      </details>
+    </td>
+  </tr>
+
+  <tr>
+    <th><time>12:00</time></th>
+    <td>
+      <h3>Lunch<span class="duration">60 min</span></h3>
+      Lunch, optional walk, and group photo
+    </td>
+  </tr>
+
+  <!-- SESSION 2 -->
+  <tr>
+    <th><time>13:00</time></th>
+    <td>
+      <details class="session" open>
+        <summary>
+          <span class="session-title">
+            Session 2: <em>Methods, Practices, and Tools in Research Software</em>
+          </span>
+          <span class="duration">35 min</span>
+        </summary>
+
+        <article>
+          <h3>
+            Tool showcase: Automatically testing web interfaces
+            <span class="duration">TBD</span>
+          </h3>
+          <address>James Frost (Met Office)</address>
+        </article>
+
+        <article>
+          <h3>
+            Developing a Telegram bot to deliver seasonal climate forecasts
+            <span class="duration">5 min</span>
+          </h3>
+          <address>Kieren Pitts (University of Bristol)</address>
+        </article>
+
+        <article>
+          <h3>
+            Accelerating Astrophysical Smoothed Particle Hydrodynamics with GPUs
+            <span class="duration">5 min</span>
+          </h3>
+          <address>Tom Bending (University of Exeter)</address>
+        </article>
+
+        <article>
+          <h3>
+            Is an MCP server a viable alternative to a command-line client?
+            <span class="duration">5 min</span>
+          </h3>
+          <address>Fred Wobus (University of Exeter)</address>
+        </article>
+
+        <p class="discussion">
+          <strong>Discussion &amp; Q&amp;A</strong>
+          <span class="duration">10 min</span>
+        </p>
+      </details>
+    </td>
+  </tr>
+
+<!-- SESSION 2 -->
+  <tr>
+    <th><time>13:35</time></th>
+    <td>
+      <details class="session" open>
+        <summary>
+          <span class="session-title">
+            Session 3: <em>Beyond Academia</em>
+          </span>
+          <span class="duration">30 min</span>
+        </summary>
+
+        <article>
+          <h3>
+            RAPIDS/CUDA-X Data Science and how GPU Acceleration fits in the PyData ecosystem 
+            <span class="duration">10 min</span>
+          </h3>
+          <address>Jacob Tomlinson (NVIDIA)</address>
+        </article>
+
+        <article>
+          <h3>
+            Working as a bioinformatician in the Life Sciences industry
+            <span class="duration">10 min</span>
+          </h3>
+          <address>Jack Feltham (Syngenta)</address>
+        </article>
+
+        <p class="discussion">
+          <strong>Discussion &amp; Q&amp;A</strong>
+          <span class="duration">10 min</span>
+        </p>
+      </details>
+    </td>
+  </tr>
+
+
+  <tr>
+    <th><time>14:05</time></th>
+    <td>
+        <h3>Networking break<span class="duration">20 min</span></h3>
+        Refreshments and informal discussion
+    </td>
+  </tr>
+
+  <tr>
+    <th><time>14:25</time></th>
+    <td>
+      <h3><strong>Panel Discussion</strong><span class="duration">35 min</span></h3>
+      <address>Moderated panel with audience questions</address>
+    </td>
+  </tr>
+
+  <tr>
+    <th><time>14:55</time></th>
+    <td>
+      <h3><strong>Closing</strong><span class="duration">5 min</span></h3>
+      <address>Jeremy Pike, Tom Hawes, Ruxandra Neatu, Paul Wright</address>
+    </td>
+  </tr>
+
+  <tr>
+    <th><time>15:00</time></th>
+    <td>
+      <h3>Informal Pub trip</h3>
+      <address>Pub trip to Exeter's famous orangery (The Imperial, EX4 4AH)</address>
+    </td>
+  </tr>
+
+</table>
 
 ## Contact the organisers and other attendees
 

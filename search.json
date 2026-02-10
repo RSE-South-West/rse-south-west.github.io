@@ -39,14 +39,14 @@
     "href": "meetings/next_meeting.html",
     "title": "RSE South West",
     "section": "",
-    "text": "NoteNews\n\n\n\nNext meeting: University of Exeter — 20 Feb 2026 · Learn more\nNote: Deadline for talk submissions extended to Friday 6 February 2026, submit your abstract here."
+    "text": "NoteNews\n\n\n\nNext meeting: University of Exeter — 20 Feb 2026 · Learn more"
   },
   {
     "objectID": "meetings/2026-02-20-exeter/index.html",
     "href": "meetings/2026-02-20-exeter/index.html",
     "title": "Meeting of South West RSE’s at the University of Exeter",
     "section": "",
-    "text": "When: Friday 20 February 2026, 10am – 3pm (refreshments from 9:30am for a 10am start) Where: Peter Chalk Centre, Newman Red Lecture Theatre, Exeter, EX4 4QQ (How to get here) Deadline for contributions (extended): Friday 6 February 2026 Registration closes: Friday 13 February 2026"
+    "text": "When: Friday 20 February 2026, 10am – 3pm (refreshments from 9:30am for a 10am start) Where: Peter Chalk Centre, Newman Red Lecture Theatre, Exeter, EX4 4QQ (How to get here) No longer accepting contributions. Registration closes: Friday 13 February 2026"
   },
   {
     "objectID": "meetings/2026-02-20-exeter/index.html#organisers",
@@ -67,7 +67,7 @@
     "href": "meetings/2026-02-20-exeter/index.html#contribution-submissionregistration",
     "title": "Meeting of South West RSE’s at the University of Exeter",
     "section": "Contribution Submission/Registration",
-    "text": "Contribution Submission/Registration\nContribution submission is open. We have extended the deadline by a week, so please submit your contribution by the end of the day on 6th February 2026.\nPlease submit your abstracts and/or register using our registration form."
+    "text": "Contribution Submission/Registration\nPlease register using our registration form before the 13th Feb 2026."
   },
   {
     "objectID": "meetings/2026-02-20-exeter/index.html#code-of-conduct",
@@ -75,6 +75,13 @@
     "title": "Meeting of South West RSE’s at the University of Exeter",
     "section": "Code of conduct",
     "text": "Code of conduct\nAll participants are expected to adhere to the Society of RSE code of conduct for events."
+  },
+  {
+    "objectID": "meetings/2026-02-20-exeter/index.html#agenda",
+    "href": "meetings/2026-02-20-exeter/index.html#agenda",
+    "title": "Meeting of South West RSE’s at the University of Exeter",
+    "section": "Agenda",
+    "text": "Agenda\n\n\n\n09:30\n\n\n\nRegistration & refreshments\n\n\n\n\n\n10:00\n\n\n\nWelcome\n\n\nJeremy Pike, Tom Hawes, Ruxandra Neatu, Paul Wright\n\n\n\n\n\n10:05\n\n\n\nDelivering high-quality research software that lasts keynote 20 min\n\n\nEmma Hogan (Met Office)\n\n\n\n\n\n10:25\n\n\n\nBuilding for the Future with The Bristol Centre for Supercomputing keynote 20 min\n\n\nAnna Price & Tom Green (University of Bristol)\n\n\n\n\n\n10:45\n\n\n\nNetworking break20 min\n\nRefreshments and informal discussion\n\n\n\n\n\n11:05\n\n\n\n\n Session 1: Community and Recognition in RSE  55 min\n\n\n\n(Almost) 10 Years of Recognizing Research Software through the Journal of Open Source Software remote 10 min\n\n\nWarwick Ball (University of Birmingham)\n\n\n\n\nIntroduction to the Bath Research Software Engineering Group 5 min\n\n\nStephen Cook (University of Bath)\n\n\n\n\nScaling Climate Services at the Met Office 10 min\n\n\nAlex Stanhope & Daniel Cubbon (Met Office)\n\n\n\n\nThe NERC Earth Observation Data Analysis and AI Service (NEODAAS) 10 min\n\n\nDan Clewley (Plymouth Marine Laboratory)\n\n\n\n\nX-CITED: Building RSE Careers Through Community & Development 5 min\n\n\nNicole Whippey (University of Exeter)\n\n\n\n\nRSE Adventures in Server Management 5 min\n\n\nMichael Pei (University of Bristol)\n\n\n\nDiscussion & Q&A 10 min\n\n\n\n\n\n\n12:00\n\n\n\nLunch60 min\n\nLunch, optional walk, and group photo\n\n\n\n\n\n13:00\n\n\n\n\n Session 2: Methods, Practices, and Tools in Research Software  35 min\n\n\n\nTool showcase: Automatically testing web interfaces TBD\n\n\nJames Frost (Met Office)\n\n\n\n\nDeveloping a Telegram bot to deliver seasonal climate forecasts 5 min\n\n\nKieren Pitts (University of Bristol)\n\n\n\n\nAccelerating Astrophysical Smoothed Particle Hydrodynamics with GPUs 5 min\n\n\nTom Bending (University of Exeter)\n\n\n\n\nIs an MCP server a viable alternative to a command-line client? 5 min\n\n\nFred Wobus (University of Exeter)\n\n\n\nDiscussion & Q&A 10 min\n\n\n\n\n\n\n\n13:35\n\n\n\n\n Session 3: Beyond Academia  30 min\n\n\n\nRAPIDS/CUDA-X Data Science and how GPU Acceleration fits in the PyData ecosystem 10 min\n\n\nJacob Tomlinson (NVIDIA)\n\n\n\n\nWorking as a bioinformatician in the Life Sciences industry 10 min\n\n\nJack Feltham (Syngenta)\n\n\n\nDiscussion & Q&A 10 min\n\n\n\n\n\n\n14:05\n\n\n\nNetworking break20 min\n\nRefreshments and informal discussion\n\n\n\n\n14:25\n\n\n\nPanel Discussion35 min\n\n\nModerated panel with audience questions\n\n\n\n\n\n14:55\n\n\n\nClosing5 min\n\n\nJeremy Pike, Tom Hawes, Ruxandra Neatu, Paul Wright\n\n\n\n\n\n15:00\n\n\n\nInformal Pub trip\n\n\nPub trip to Exeter’s famous orangery (The Imperial, EX4 4AH)"
   },
   {
     "objectID": "meetings/2026-02-20-exeter/index.html#contact-the-organisers-and-other-attendees",
@@ -102,7 +109,7 @@
     "href": "index.html",
     "title": "Welcome to RSE South West",
     "section": "",
-    "text": "NoteNews\n\n\n\nNext meeting: University of Exeter — 20 Feb 2026 · Learn more\nNote: Deadline for talk submissions extended to Friday 6 February 2026, submit your abstract here.\n\n\nWe are a community of research software engineers mainly from the South West of the UK and GW4 Universities who are not affiliated with a larger regional RSE group.\nOur aim is to be a regional community for building networks, form collaborations and share knowledge. We are doing this through several meetings aimed to take place at regular intervals.\n\nBe part of our community!\nAll are welcome, whether or not you are from the South West of the UK, and whether or not you self-define as a Research Software Engineer (RSE).\nThe easiest way to communicate with everyone is via the #rse-south-west channel on the UK RSE Slack instance. Or join our mailing list to stay in touch with events!\n\nJoin our Slack channel"
+    "text": "NoteNews\n\n\n\nNext meeting: University of Exeter — 20 Feb 2026 · Learn more\n\n\nWe are a community of research software engineers mainly from the South West of the UK and GW4 Universities who are not affiliated with a larger regional RSE group.\nOur aim is to be a regional community for building networks, form collaborations and share knowledge. We are doing this through several meetings aimed to take place at regular intervals.\n\nBe part of our community!\nAll are welcome, whether or not you are from the South West of the UK, and whether or not you self-define as a Research Software Engineer (RSE).\nThe easiest way to communicate with everyone is via the #rse-south-west channel on the UK RSE Slack instance. Or join our mailing list to stay in touch with events!\n\nJoin our Slack channel"
   },
   {
     "objectID": "resources/index.html",

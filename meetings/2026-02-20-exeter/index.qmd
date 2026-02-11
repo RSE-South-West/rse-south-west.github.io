@@ -98,7 +98,7 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
             <span class="duration">remote</span>
             <span class="duration">10 min</span>
           </h3>
-          <address>Warwick Ball (University of Birmingham)</address>
+          <address>Warrick Ball (University of Birmingham)</address>
         </article>
 
         <article>
@@ -257,7 +257,7 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
   <tr>
     <th><time>14:25</time></th>
     <td>
-      <h3><strong>Panel Discussion</strong><span class="duration">35 min</span></h3>
+      <h3><strong>Panel Discussion</strong><span class="duration">30 min</span></h3>
       <address>Moderated panel with audience questions</address>
     </td>
   </tr>
@@ -266,7 +266,7 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
     <th><time>14:55</time></th>
     <td>
       <h3><strong>Closing</strong><span class="duration">5 min</span></h3>
-      <address>Jeremy Pike, Tom Hawes, Ruxandra Neatu, Paul Wright</address>
+      <address>Fliss Guest, Jeremy Pike, Tom Hawes, Ruxandra Neatu, Paul Wright</address>
     </td>
   </tr>
 

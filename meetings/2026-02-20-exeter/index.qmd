@@ -4,8 +4,7 @@ title: Meeting of South West RSE's at the University of Exeter
 
 **When**: Friday 20 February 2026, 10am – 3pm (refreshments from 9:30am for a 10am start)<br>
 **Where**: Peter Chalk Centre, Newman Red Lecture Theatre, Exeter, EX4 4QQ ([How to get here](https://maps.app.goo.gl/v7gFBEb4BCQSv3qz7){target="_blank"})<br>
-No longer accepting contributions.<br>
-**Registration closes**: Friday 13 February 2026
+**Registration has now closed due to reaching maximum capacity**
 
 ## Organisers
 
@@ -21,10 +20,9 @@ Following a successful event at the University of Bristol in June 2025, the Univ
 It will be another day to showcase interesting topics, share knowledge and build networks.
 All are welcome, whether or not you are from the South West of the UK, and whether or not you self-define as a Research Software Engineer (RSE) - [What is an RSE?](https://society-rse.org/what-is-an-rse/)
 
-
 ## Contribution Submission/Registration
 
-Please register using our [registration form](https://forms.office.com/e/N8mB93jUbg) before the 13th Feb 2026.
+Registration has now closed due to reaching maximum capacity.
 
 ## Code of conduct
 

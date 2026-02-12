@@ -52,7 +52,7 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
     <th><time>10:05</time></th>
     <td>
         <h3>
-          <strong>Delivering high-quality research software that lasts</strong>
+          <strong>Delivering high-quality research software that lasts: Is there a need for learning resources to enable iterative, customer‑focused development practices?</strong>
           <span class="keynote">keynote</span>
           <span class="duration">20 min</span>
         </h3>
@@ -96,49 +96,49 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
           <h3>
             (Almost) 10 Years of Recognizing Research Software through the Journal of Open Source Software
             <span class="duration">remote</span>
-            <span class="duration">10 min</span>
           </h3>
           <address>Warrick Ball (University of Birmingham)</address>
+          <span class="duration">10 min</span>
         </article>
 
         <article>
           <h3>
             Introduction to the Bath Research Software Engineering Group
-            <span class="duration">5 min</span>
           </h3>
           <address>Stephen Cook (University of Bath)</address>
+          <span class="duration">5 min</span>
         </article>
 
         <article>
           <h3>
-            Scaling Climate Services at the Met Office
-            <span class="duration">10 min</span>
+            Scaling Climate Services at the Met Office: An Introduction to the Work and the Team 
           </h3>
           <address>Alex Stanhope &amp; Daniel Cubbon (Met Office)</address>
+          <span class="duration">10 min</span>
         </article>
 
         <article>
           <h3>
-            The NERC Earth Observation Data Analysis and AI Service (NEODAAS)
-            <span class="duration">10 min</span>
+            The NERC Earth Observation Data Analysis and AI Service (NEODAAS) and other projects the RSE team at Plymouth Marine Laboratory work on
           </h3>
           <address>Dan Clewley (Plymouth Marine Laboratory)</address>
+          <span class="duration">10 min</span>
         </article>
 
         <article>
           <h3>
             X-CITED: Building RSE Careers Through Community &amp; Development
-            <span class="duration">5 min</span>
           </h3>
           <address>Nicole Whippey (University of Exeter)</address>
+          <span class="duration">5 min</span>
         </article>
 
         <article>
           <h3>
             RSE Adventures in Server Management
-            <span class="duration">5 min</span>
           </h3>
           <address>Michael Pei (University of Bristol)</address>
+          <span class="duration">5 min</span>
         </article>
 
         <p class="discussion">
@@ -166,39 +166,39 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
           <span class="session-title">
             Session 2: <em>Methods, Practices, and Tools in Research Software</em>
           </span>
-          <span class="duration">35 min</span>
+          <span class="duration">30 min</span>
         </summary>
 
         <article>
           <h3>
             Tool showcase: Automatically testing web interfaces
-            <span class="duration">TBD</span>
           </h3>
           <address>James Frost (Met Office)</address>
+          <span class="duration">5 min</span>
         </article>
 
         <article>
           <h3>
             Developing a Telegram bot to deliver seasonal climate forecasts
-            <span class="duration">5 min</span>
           </h3>
           <address>Kieren Pitts (University of Bristol)</address>
+          <span class="duration">5 min</span>
         </article>
 
         <article>
           <h3>
             Accelerating Astrophysical Smoothed Particle Hydrodynamics with GPUs
-            <span class="duration">5 min</span>
           </h3>
           <address>Tom Bending (University of Exeter)</address>
+          <span class="duration">5 min</span>
         </article>
 
         <article>
           <h3>
             Is an MCP server a viable alternative to a command-line client?
-            <span class="duration">5 min</span>
           </h3>
           <address>Fred Wobus (University of Exeter)</address>
+          <span class="duration">5 min</span>
         </article>
 
         <p class="discussion">
@@ -211,7 +211,7 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
 
 <!-- SESSION 2 -->
   <tr>
-    <th><time>13:35</time></th>
+    <th><time>13:30</time></th>
     <td>
       <details class="session" open>
         <summary>
@@ -224,17 +224,17 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
         <article>
           <h3>
             RAPIDS/CUDA-X Data Science and how GPU Acceleration fits in the PyData ecosystem 
-            <span class="duration">10 min</span>
           </h3>
           <address>Jacob Tomlinson (NVIDIA)</address>
+          <span class="duration">10 min</span>
         </article>
 
         <article>
           <h3>
             Working as a bioinformatician in the Life Sciences industry
-            <span class="duration">10 min</span>
           </h3>
           <address>Jack Feltham (Syngenta)</address>
+          <span class="duration">10 min</span>
         </article>
 
         <p class="discussion">
@@ -247,7 +247,7 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
 
 
   <tr>
-    <th><time>14:05</time></th>
+    <th><time>14:00</time></th>
     <td>
         <h3>Networking break<span class="duration">20 min</span></h3>
         Refreshments and informal discussion
@@ -255,9 +255,9 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
   </tr>
 
   <tr>
-    <th><time>14:25</time></th>
+    <th><time>14:20</time></th>
     <td>
-      <h3><strong>Panel Discussion</strong><span class="duration">30 min</span></h3>
+      <h3><strong>Panel Discussion: Quality and Reproducibility in Academia and Industry</strong><span class="duration">35 min</span></h3>
       <address>Moderated panel with audience questions</address>
     </td>
   </tr>
@@ -274,7 +274,9 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
     <th><time>15:00</time></th>
     <td>
       <h3>Informal Pub trip</h3>
-      <address>Pub trip to Exeter's famous orangery (The Imperial, EX4 4AH)</address>
+      <address>Pub trip to Exeter's famous orangery (
+      [The Imperial, EX4 4AH](https://maps.app.goo.gl/9nQfnnGSAHCHJYqTA){target="_blank"}
+      ), conveniently located next to Exeter St. Davids station</address>
     </td>
   </tr>
 

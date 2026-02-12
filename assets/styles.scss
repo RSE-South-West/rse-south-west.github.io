@@ -129,7 +129,7 @@ table.table.agenda {
       display: flex;
       gap: 0.5rem;
       align-items: baseline;
-      flex-wrap: wrap;
+      flex-wrap: nowrap;
     }
   
     address {

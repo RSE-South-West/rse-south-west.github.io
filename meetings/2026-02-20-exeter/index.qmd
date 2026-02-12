@@ -53,10 +53,11 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
     <td>
         <h3>
           <strong>Delivering high-quality research software that lasts: Is there a need for learning resources to enable iterative, customer‑focused development practices?</strong>
-          <span class="keynote">keynote</span>
-          <span class="duration">20 min</span>
         </h3>
-        <address>Emma Hogan (Met Office)</address>
+        <address>Emma Hogan (Met Office) 
+        <span class="keynote">keynote</span>
+        <span class="duration">20 min</span>    
+        </address>
     </td>
   </tr>
 
@@ -65,10 +66,11 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
     <td>
         <h3>
          <strong>Building for the Future with The Bristol Centre for Supercomputing</strong>
-          <span class="keynote">keynote</span>
-          <span class="duration">20 min</span>
         </h3>
-        <address>Anna Price &amp; Tom Green (University of Bristol)</address>
+        <address>Anna Price &amp; Tom Green (University of Bristol)
+        <span class="keynote">keynote</span>
+        <span class="duration">20 min</span>
+        </address>
     </td>
   </tr>
 
@@ -97,48 +99,42 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
             (Almost) 10 Years of Recognizing Research Software through the Journal of Open Source Software
             <span class="duration">remote</span>
           </h3>
-          <address>Warrick Ball (University of Birmingham)</address>
-          <span class="duration">10 min</span>
+          <address>Warrick Ball (University of Birmingham) <span class="duration">10 min</span></address>
         </article>
 
         <article>
           <h3>
             Introduction to the Bath Research Software Engineering Group
           </h3>
-          <address>Stephen Cook (University of Bath)</address>
-          <span class="duration">5 min</span>
+          <address>Stephen Cook (University of Bath) <span class="duration">5 min</span></address>
         </article>
 
         <article>
           <h3>
             Scaling Climate Services at the Met Office: An Introduction to the Work and the Team 
           </h3>
-          <address>Alex Stanhope &amp; Daniel Cubbon (Met Office)</address>
-          <span class="duration">10 min</span>
+          <address>Alex Stanhope &amp; Daniel Cubbon (Met Office) <span class="duration">10 min</span></address>
         </article>
 
         <article>
           <h3>
             The NERC Earth Observation Data Analysis and AI Service (NEODAAS) and other projects the RSE team at Plymouth Marine Laboratory work on
           </h3>
-          <address>Dan Clewley (Plymouth Marine Laboratory)</address>
-          <span class="duration">10 min</span>
+          <address>Dan Clewley (Plymouth Marine Laboratory) <span class="duration">10 min</span></address>
         </article>
 
         <article>
           <h3>
             X-CITED: Building RSE Careers Through Community &amp; Development
           </h3>
-          <address>Nicole Whippey (University of Exeter)</address>
-          <span class="duration">5 min</span>
+          <address>Nicole Whippey (University of Exeter) <span class="duration">5 min</span></address>
         </article>
 
         <article>
           <h3>
             RSE Adventures in Server Management
           </h3>
-          <address>Michael Pei (University of Bristol)</address>
-          <span class="duration">5 min</span>
+          <address>Michael Pei (University of Bristol) <span class="duration">5 min</span></address>
         </article>
 
         <p class="discussion">
@@ -173,32 +169,28 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
           <h3>
             Tool showcase: Automatically testing web interfaces
           </h3>
-          <address>James Frost (Met Office)</address>
-          <span class="duration">5 min</span>
+          <address>James Frost (Met Office) <span class="duration">5 min</span></address>
         </article>
 
         <article>
           <h3>
             Developing a Telegram bot to deliver seasonal climate forecasts
           </h3>
-          <address>Kieren Pitts (University of Bristol)</address>
-          <span class="duration">5 min</span>
+          <address>Kieren Pitts (University of Bristol) <span class="duration">5 min</span></address>
         </article>
 
         <article>
           <h3>
             Accelerating Astrophysical Smoothed Particle Hydrodynamics with GPUs
           </h3>
-          <address>Tom Bending (University of Exeter)</address>
-          <span class="duration">5 min</span>
+          <address>Tom Bending (University of Exeter) <span class="duration">5 min</span></address>
         </article>
 
         <article>
           <h3>
             Is an MCP server a viable alternative to a command-line client?
           </h3>
-          <address>Fred Wobus (University of Exeter)</address>
-          <span class="duration">5 min</span>
+          <address>Fred Wobus (University of Exeter) <span class="duration">5 min</span></address>
         </article>
 
         <p class="discussion">
@@ -225,16 +217,14 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
           <h3>
             RAPIDS/CUDA-X Data Science and how GPU Acceleration fits in the PyData ecosystem 
           </h3>
-          <address>Jacob Tomlinson (NVIDIA)</address>
-          <span class="duration">10 min</span>
+          <address>Jacob Tomlinson (NVIDIA) <span class="duration">10 min</span></address>
         </article>
 
         <article>
           <h3>
             Working as a bioinformatician in the Life Sciences industry
           </h3>
-          <address>Jack Feltham (Syngenta)</address>
-          <span class="duration">10 min</span>
+          <address>Jack Feltham (Syngenta) <span class="duration">10 min</span></address>
         </article>
 
         <p class="discussion">

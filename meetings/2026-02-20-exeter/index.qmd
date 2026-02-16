@@ -62,7 +62,7 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
     <th><time>10:00</time></th>
     <td>
       <h3><strong>Welcome</strong></h3>
-      <address>Jeremy Pike, Tom Hawes, Ruxandra Neatu, Paul Wright</address>
+      <address>Ruxandra Neatu</address>
     </td>
   </tr>
 
@@ -266,7 +266,13 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
     <th><time>14:20</time></th>
     <td>
       <h3><strong>Panel Discussion: Quality and Reproducibility in Academia and Industry</strong><span class="duration">35 min</span></h3>
-      <address>Moderated panel with audience questions</address>
+      <address>Chair: Kolen Cheung (University of Exeter)</address>
+      <article>
+        <address>Emma Hogan (Met Office)</address>
+        <address>Nicole Whippey (Universty of Exeter)</address>
+        <address>Jack Feltham (Syngenta)</address>
+        <address>Dan Clewley (Plymouth Marine Laboratory)</address>
+      </article>
     </td>
   </tr>
 
@@ -274,14 +280,14 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
     <th><time>14:55</time></th>
     <td>
       <h3><strong>Closing</strong><span class="duration">5 min</span></h3>
-      <address>Fliss Guest, Jeremy Pike, Tom Hawes, Ruxandra Neatu, Paul Wright</address>
+      <address>Tom Hawes, Fliss Guest</address>
     </td>
   </tr>
 
   <tr>
     <th><time>15:00</time></th>
     <td>
-      <h3>Informal Pub trip</h3>
+      <h3>Informal pub trip</h3>
       <address>Pub trip to Exeter's famous orangery (
       [The Imperial, EX4 4AH](https://maps.app.goo.gl/9nQfnnGSAHCHJYqTA){target="_blank"}
       ), conveniently located next to Exeter St. Davids station</address>

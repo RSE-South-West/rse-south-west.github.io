@@ -269,7 +269,7 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
       <address>Chair: Kolen Cheung (University of Exeter)</address>
       <article>
         <address>Emma Hogan (Met Office)</address>
-        <address>Nicole Whippey (Universty of Exeter)</address>
+        <address>Nicole Whippey (University of Exeter)</address>
         <address>Jack Feltham (Syngenta)</address>
         <address>Dan Clewley (Plymouth Marine Laboratory)</address>
       </article>

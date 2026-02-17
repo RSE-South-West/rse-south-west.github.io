@@ -114,7 +114,7 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
 
         <article>
           <h3>
-            (Almost) 10 Years of Recognizing Research Software through the Journal of Open Source Software
+            JOSS×RSECon26: A brief introduction to Research Software Papers at RSECon26
             <span class="duration">remote</span>
           </h3>
           <address>Warrick Ball (University of Birmingham) <span class="duration">10 min</span></address>

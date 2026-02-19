@@ -50,6 +50,8 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
 
 ## Agenda
 
+Questions on the day may be submitted via [Slido](https://www.slido.com/) (the participant code will be provided at the event).
+
 <table class="agenda-exeter">
   <tr>
     <th><time>09:30</time></th>

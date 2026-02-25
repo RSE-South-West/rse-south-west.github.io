@@ -1,7 +1,9 @@
 ---
 title:  Welcome to RSE South West
 ---
-{{< include meetings/next_meeting.qmd >}}
+
+<!-- Add details of next meeting to meetings/next_meeting.qmd and uncomment next line -->
+<!-- {{< include meetings/next_meeting.qmd >}} -->
 
 
 

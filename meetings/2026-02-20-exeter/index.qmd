@@ -4,7 +4,6 @@ title: Meeting of South West RSE's at the University of Exeter
 
 **When**: Friday 20 February 2026, 10am – 3pm (refreshments from 9:30am for a 10am start)<br>
 **Where**: Peter Chalk Centre, Newman Red Lecture Theatre, Exeter, EX4 4QQ ([How to get here](https://maps.app.goo.gl/v7gFBEb4BCQSv3qz7){target="_blank"})<br>
-**Registration has now closed due to reaching maximum capacity**
 
 ## Organisers
 
@@ -15,42 +14,13 @@ title: Meeting of South West RSE's at the University of Exeter
 
 ## Purpose
 
-Following a successful event at the University of Bristol in June 2025, the University of Exeter is hosting a third meeting on **Friday 20 February 2026**.
-
-It will be another day to showcase interesting topics, share knowledge and build networks.
-All are welcome, whether or not you are from the South West of the UK, and whether or not you self-define as a Research Software Engineer (RSE) - [What is an RSE?](https://society-rse.org/what-is-an-rse/)
-
-## Contribution submission/registration
-
-Registration has now closed due to reaching maximum capacity.
-
-## Information for the day
-
-### Venue Information
-
-The meeting will take place at the [Peter Chalk Centre](https://maps.app.goo.gl/MzBheq2z6JYUG8ReA), with all sessions held in the Newman Red Lecture Theatre.
-
-The day begins with refreshments from 09:30, with the meeting starting promptly at 10:00. Lunch and tea/coffee breaks will be provided in the Peter Chalk Centre foyer/hub space. For environmental/budgetary reasons, we will not be providing bottled water. There is a water station at the venue so we encourage you to bring a reusable water container. There is also a cafe onsite and various food/drink outlets around campus.
-
-### Arriving by Train
-
-If you are arriving at Exeter St Davids station it is approximately a 20‑minute (uphill) walk to the Peter Chalk Centre. Alternatively, you can take the Number 4 bus which goes up to the University from [this bus stop at St Davids](https://maps.app.goo.gl/9nifeVNDNJGc8QMc7).
-
-### Parking
-
-Visitor parking (paid) is available near the venue, but please note that parking on campus is limited, so public transport is recommended when possible. The [Campus Map](https://www.exeter.ac.uk/our-campuses/streatham-campus/#map) shows visitor parking locations and [accessible parking is marked in this document](https://www.exeter.ac.uk/v8media/aboutus/visitus/streatham-map-area-a.pdf).
-
-### Post-event social
-
-After the meeting, we will head to [The Imperial](https://maps.app.goo.gl/TKrWzCkuciTFCyXD9) for an informal social. The Imperial is conveniently located between Exeter St Davids train station and the University’s Streatham Campus, making it a convenient stop off on the way to the station.
+Following a successful event at the University of Bristol in June 2025, the University of Exeter hosted a third meeting on Friday 20 February 2026.
 
 ## Code of conduct
 
 All participants are expected to adhere to the [Society of RSE code of conduct for events](https://society-rse.org/about/policies/code-of-conduct/).
 
 ## Agenda
-
-Questions on the day may be submitted via [Slido](https://www.slido.com/) (the participant code will be provided at the event).
 
 <table class="agenda-exeter">
   <tr>
@@ -97,7 +67,7 @@ Questions on the day may be submitted via [Slido](https://www.slido.com/) (the p
   <tr>
     <th><time>10:45</time></th>
     <td>
-        <h3>Networking break<span class="duration">20 min</span></h3>
+        <h3>Networking break and group photo<span class="duration">20 min</span></h3>
         Refreshments and informal discussion
     </td>
   </tr>
@@ -169,7 +139,7 @@ Questions on the day may be submitted via [Slido](https://www.slido.com/) (the p
     <th><time>12:00</time></th>
     <td>
       <h3>Lunch<span class="duration">60 min</span></h3>
-      Lunch, optional walk, and group photo
+      Lunch and optional walk
     </td>
   </tr>
 

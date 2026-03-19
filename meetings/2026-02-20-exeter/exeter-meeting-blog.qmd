@@ -47,9 +47,9 @@ Cubbon.
 
 Michael Pei highlighted the RSE-supported server infrastructure
 at the Bristol Composites Institute. Nicole Whippey gave an update
-on the X-Cited and GW4 initiatives from the University of Exeter,
+on the [X-Cited](https://gw4.ac.uk/x-cited/) and GW4 initiatives from the University of Exeter,
 both of which aim to foster collaboration and connections across
-institutions: https://gw4.ac.uk/x-cited/.  
+institutions.  
 
  
 ## Lunch and Walk 

@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "resources/index.html",
+    "href": "resources/index.html",
+    "title": "Resources",
+    "section": "",
+    "text": "TODO"
+  },
+  {
+    "objectID": "resources/index.html#videos",
+    "href": "resources/index.html#videos",
+    "title": "Resources",
+    "section": "Videos",
+    "text": "Videos\n\nBristol meeting, 23 June 2025"
+  },
+  {
     "objectID": "meetings/2025-06-23-bristol/discussion.html",
     "href": "meetings/2025-06-23-bristol/discussion.html",
     "title": "Summary of discussion from the 23 June RSE South West meeting",
@@ -35,6 +49,62 @@
     "text": "Any other topics to discuss?\n\nMeet at RSECon?​\n\nThere is a meeting event (possibly a regional RSE groups Birds of a Feather session) at RSECon25 which we should get involved in.\n\nUse of AI in coding​\n\nNo time to discuss but could be a good topic for the next meeting"
   },
   {
+    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html",
+    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html",
+    "title": "Meeting report — University of Exeter (20 Feb 2026)",
+    "section": "",
+    "text": "The third RSE South West meeting took place at the University of Exeter, bringing together 52 participants from across the region. The programme featured two keynote talks and 12 short talks (5–10 minutes) organised around three themes: “Community and Recognition in RSE”, “Methods, Practices, and Tools” in Research Software, and “Beyond Academia”. The event was funded by the Research Software Engineers Society through their Events & Initiatives Grant, and we would like to extend a big thank you for their support."
+  },
+  {
+    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#keynote-talks",
+    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#keynote-talks",
+    "title": "Meeting report — University of Exeter (20 Feb 2026)",
+    "section": "Keynote Talks",
+    "text": "Keynote Talks\nWe kicked off promptly at 10am with our first keynote speaker, Emma Hogan from the Met Office. Her interactive talk kept the audience engaged while also gathering live insights into people’s views on Scrum and collaboration with research teams.\nThe second keynote was delivered by Tom Green and Ana Price from Bristol Centre for Supercomputing (BriCS), home to the Isambard-AI and Isambard 3 systems. Their talk explored how modern HPC centres are reshaping roles to bridge systems administration and research software engineering, enabling researchers to work more effectively with increasingly complex software environments."
+  },
+  {
+    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#community-and-recognition-in-rse",
+    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#community-and-recognition-in-rse",
+    "title": "Meeting report — University of Exeter (20 Feb 2026)",
+    "section": "Community and Recognition in RSE",
+    "text": "Community and Recognition in RSE\nWe then moved into our first session of short talks, themed “Community and Recognition in RSE”. The session highlighted the many ways RSEs build and sustain communities across institutions and disciplines. A presentation on JOSS from Warrick Ball emphasised opportunities for RSEs to take the lead on research software publications and gain recognition for their contributions.\nSpeakers also introduced several teams and initiatives that support researchers and strengthen the RSE community. We heard about the RSE group at the University of Bath from Stephen Cook, the NERC Earth Observation Data Analysis and AI Service at Plymouth Marine Laboratory from Dan Clewley, and climate services work at the Met Office from Daniel Cubbon.\nMichael Pei highlighted the RSE-supported server infrastructure at the Bristol Composites Institute. Nicole Whippey gave an update on the X-Cited and GW4 initiatives from the University of Exeter, both of which aim to foster collaboration and connections across institutions: https://gw4.ac.uk/x-cited/."
+  },
+  {
+    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#lunch-and-walk",
+    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#lunch-and-walk",
+    "title": "Meeting report — University of Exeter (20 Feb 2026)",
+    "section": "Lunch and Walk",
+    "text": "Lunch and Walk\nWe had a buffet lunch in the foyer and common area, which made for great socialising and networking with both new and familiar colleagues. Fortunately, the weather held out, and we were able to get some fresh air with a short walk around the Reed Hall gardens, which were showing the first signs of spring with banks of early spring flowers."
+  },
+  {
+    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#methods-practices-and-tools-in-research-software",
+    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#methods-practices-and-tools-in-research-software",
+    "title": "Meeting report — University of Exeter (20 Feb 2026)",
+    "section": "Methods, Practices, and Tools in Research Software",
+    "text": "Methods, Practices, and Tools in Research Software\nSession 2 featured four fantastic lighting talks focused on “Methods, Practices, and Tools” in Research Software in an action packed 30 minutes!\nJames Frost (Met Office) opened with a showcase on automatically testing web interfaces with Playwright, highlighting the growing need for reliable, automated UI validation in RSE projects.\nKieren Pitts (University of Bristol) then demonstrated a Telegram bot that delivers seasonal climate forecasts directly to users, illustrating how messaging platforms can simplify the process.\nTom Bending (University of Exeter) discussed efforts to accelerate astrophysical simulations on GPUs, focussing on the challenges of adapting decades‑old CPU‑optimised code and showing some fascinating videos of star cluster formation.\nFinally, Fred Wobus (University of Exeter) explored whether an MCP server could serve as a flexible alternative to traditional command‑line clients, which was motivated by a project with Defra."
+  },
+  {
+    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#beyond-academia",
+    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#beyond-academia",
+    "title": "Meeting report — University of Exeter (20 Feb 2026)",
+    "section": "Beyond Academia",
+    "text": "Beyond Academia\nThe afternoon saw a session focussing on research software engineering outside of academia.\nJack Feltham from Syngenta spoke about working as a bioinformatician in the life sciences industry. He compared industry and academia, noting that academia often focuses on deep, exploratory work in small groups, while industry work typically involves multiple projects with a stronger emphasis on collaboration.\nJacob Tomlinson from NVIDIA then introduced GPU-accelerated data science with the RAPIDS libraries from the CUDA-X ecosystem. He highlighted how RAPIDS allows Python developers to use GPUs alongside familiar tools such as Pandas and Scikit-Learn without writing CUDA kernels.\nThroughout the event, both speakers emphasised that industry is not one monolithic entity and that there is a lot of variety in the work being done, encouraging us to bear this in mind when talking about how things are done in industry vs academia."
+  },
+  {
+    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#the-panel-discussion-quality-and-reproducibility-in-academia-and-industry",
+    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#the-panel-discussion-quality-and-reproducibility-in-academia-and-industry",
+    "title": "Meeting report — University of Exeter (20 Feb 2026)",
+    "section": "The Panel Discussion: Quality and Reproducibility in Academia and Industry",
+    "text": "The Panel Discussion: Quality and Reproducibility in Academia and Industry\nThe day concluded with a panel discussion on “Quality and Reproducibility in Academia and Industry”, featuring Emma Hogan (Met Office), Jacob Tomlinson (NVIDIA), Jack Feltham (Syngenta), and Dan Clewley (Plymouth Marine Laboratory), chaired by Kolen Cheung (University of Exeter).\nA clear consensus emerged: both academia and industry value quality and reproducibility, but the real challenge lies in balancing practices such as testing, documentation, and reproducibility with delivering results under time pressure. As Emma noted, drawing on Agile principles, the level of investment should ultimately be guided by stakeholder value. Ultimately reproducibility is a matter of degree, and that choosing the appropriate level for a given project is a skill every RSE must develop.\nThe discussion ended on a thought-provoking note when Jacob observed that much of industry’s open-source work, including GPU-accelerated software at NVIDIA, is developed in the open and subject to public scrutiny, whereas much academic work still happens behind closed doors."
+  },
+  {
+    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#pub-trip",
+    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#pub-trip",
+    "title": "Meeting report — University of Exeter (20 Feb 2026)",
+    "section": "Pub Trip!",
+    "text": "Pub Trip!\nOverall, it was a vibrant day, with the talks giving participants plenty to discuss as conversations continued into the pub at The Imperial, conveniently located on the way to Exeter St Davids station."
+  },
+  {
     "objectID": "meetings/next_meeting.html",
     "href": "meetings/next_meeting.html",
     "title": "RSE South West",
@@ -42,11 +112,46 @@
     "text": "NoteNews\n\n\n\nNext meeting: University of Exeter — 20 Feb 2026 · Learn more"
   },
   {
+    "objectID": "members/index.html",
+    "href": "members/index.html",
+    "title": "Members",
+    "section": "",
+    "text": "University of Bristol\nUniversity of Exeter\nMet Office\nPlymouth Marine Laboratory"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to RSE South West",
+    "section": "",
+    "text": "We are a community of research software engineers mainly from the South West of the UK and GW4 Universities who are not affiliated with a larger regional RSE group.\nOur aim is to be a regional community for building networks, form collaborations and share knowledge. We are doing this through several meetings aimed to take place at regular intervals.\n\nBe part of our community!\nAll are welcome, whether or not you are from the South West of the UK, and whether or not you self-define as a Research Software Engineer (RSE).\nThe easiest way to communicate with everyone is via the #rse-south-west channel on the UK RSE Slack instance. Or join our mailing list to stay in touch with events!\n\nJoin our Slack channel"
+  },
+  {
+    "objectID": "meetings/index.html",
+    "href": "meetings/index.html",
+    "title": "Meetings",
+    "section": "",
+    "text": "Our goal is to meet in-person a few times each year, rotating locations across the South West region. It is a day to showcase interesting topics, share knowledge and build networks.\nThese meetings aim to complement the annual RSE conference and be useful to those in the South West / GW4 who are not part of a larger RSE group."
+  },
+  {
+    "objectID": "meetings/index.html#code-of-conduct",
+    "href": "meetings/index.html#code-of-conduct",
+    "title": "Meetings",
+    "section": "Code of conduct",
+    "text": "Code of conduct\nAll participants are expected to adhere to the Society of RSE code of conduct for events."
+  },
+  {
     "objectID": "meetings/2026-02-20-exeter/index.html",
     "href": "meetings/2026-02-20-exeter/index.html",
     "title": "Meeting of South West RSE’s at the University of Exeter",
     "section": "",
     "text": "When: Friday 20 February 2026, 10am – 3pm (refreshments from 9:30am for a 10am start) Where: Peter Chalk Centre, Newman Red Lecture Theatre, Exeter, EX4 4QQ (How to get here)"
+  },
+  {
+    "objectID": "meetings/2026-02-20-exeter/index.html#meeting-blog",
+    "href": "meetings/2026-02-20-exeter/index.html#meeting-blog",
+    "title": "Meeting of South West RSE’s at the University of Exeter",
+    "section": "Meeting Blog",
+    "text": "Meeting Blog\nRead our meeting blog for a full write-up of the day, including summaries of all the talks and the panel discussion."
   },
   {
     "objectID": "meetings/2026-02-20-exeter/index.html#organisers",
@@ -89,83 +194,6 @@
     "title": "Meeting of South West RSE’s at the University of Exeter",
     "section": "Acknowledgement",
     "text": "Acknowledgement\nWe’re grateful to the Society of Research Software Engineering for providing financial support for this meeting.\n\n\n\nSociety of RSE logo (resized), used with permission. See https://society-rse.org/trademark-and-logo-policy/ for terms of use."
-  },
-  {
-    "objectID": "members/index.html",
-    "href": "members/index.html",
-    "title": "Members",
-    "section": "",
-    "text": "University of Bristol\nUniversity of Exeter\nMet Office\nPlymouth Marine Laboratory"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to RSE South West",
-    "section": "",
-    "text": "We are a community of research software engineers mainly from the South West of the UK and GW4 Universities who are not affiliated with a larger regional RSE group.\nOur aim is to be a regional community for building networks, form collaborations and share knowledge. We are doing this through several meetings aimed to take place at regular intervals.\n\nBe part of our community!\nAll are welcome, whether or not you are from the South West of the UK, and whether or not you self-define as a Research Software Engineer (RSE).\nThe easiest way to communicate with everyone is via the #rse-south-west channel on the UK RSE Slack instance. Or join our mailing list to stay in touch with events!\n\nJoin our Slack channel"
-  },
-  {
-    "objectID": "resources/index.html",
-    "href": "resources/index.html",
-    "title": "Resources",
-    "section": "",
-    "text": "TODO"
-  },
-  {
-    "objectID": "resources/index.html#videos",
-    "href": "resources/index.html#videos",
-    "title": "Resources",
-    "section": "Videos",
-    "text": "Videos\n\nBristol meeting, 23 June 2025"
-  },
-  {
-    "objectID": "meetings/index.html",
-    "href": "meetings/index.html",
-    "title": "Meetings",
-    "section": "",
-    "text": "Our goal is to meet in-person a few times each year, rotating locations across the South West region. It is a day to showcase interesting topics, share knowledge and build networks.\nThese meetings aim to complement the annual RSE conference and be useful to those in the South West / GW4 who are not part of a larger RSE group."
-  },
-  {
-    "objectID": "meetings/index.html#code-of-conduct",
-    "href": "meetings/index.html#code-of-conduct",
-    "title": "Meetings",
-    "section": "Code of conduct",
-    "text": "Code of conduct\nAll participants are expected to adhere to the Society of RSE code of conduct for events."
-  },
-  {
-    "objectID": "meetings/2025-02-10-met-office/index.html",
-    "href": "meetings/2025-02-10-met-office/index.html",
-    "title": "Meeting of South West RSE’s at the Met Office",
-    "section": "",
-    "text": "Monday 10 February 2025, 9:30am – 4:00pm (refreshments from 9:30am for a 10am start) Met Office Exeter HQ, Conference Room 1"
-  },
-  {
-    "objectID": "meetings/2025-02-10-met-office/index.html#organisers",
-    "href": "meetings/2025-02-10-met-office/index.html#organisers",
-    "title": "Meeting of South West RSE’s at the Met Office",
-    "section": "Organisers",
-    "text": "Organisers\n\nEmma Hogan"
-  },
-  {
-    "objectID": "meetings/2025-02-10-met-office/index.html#purpose",
-    "href": "meetings/2025-02-10-met-office/index.html#purpose",
-    "title": "Meeting of South West RSE’s at the Met Office",
-    "section": "Purpose",
-    "text": "Purpose\nRSEs in the South West are meeting in-person at Met Office Exeter HQ on Monday, February 10, 2025 to showcase interesting topics​, share knowledge and build networks. All are welcome if you are happy to travel! :)\nThere is value in holding in-person, one-day events for RSEs in the South West / GW4 (i.e. travel on the day / without staying overnight), as it enables all RSEs in the area, but especially those who are not part of a larger RSE group and / or are unable to attend the yearly national conference, to get together to share knowledge and build networks."
-  },
-  {
-    "objectID": "meetings/2025-02-10-met-office/index.html#agenda",
-    "href": "meetings/2025-02-10-met-office/index.html#agenda",
-    "title": "Meeting of South West RSE’s at the Met Office",
-    "section": "Agenda",
-    "text": "Agenda\n\n  \n    09:30\n    Arrive and refreshments\n  \n    10:00\n    \n      \n        Welcome\n        Emma Hogan, Met Office\n      \n  \n    10:10\n    \n      \n        Managing dependencies in a python data science project using uv\n        James Thomas, University of Bristol\n        \n          Slides and video\n        \n        \n          Abstract\n          A demonstration of new python tooling (uv) and how as an RSE or data scientist you might incorporate this into your project. Including the motivation for doing so, pros and cons, etc.\n        \n      \n  \n    10:40\n    \n      \n        Research Software Engineering at Plymouth Marine Laboratory (PML)\n        Jane Netting, Plymouth Marine Laboratory\n        \n          Abstract\n          Development of software for research has always been important at PML, particularly within the Earth Observation and Modelling groups. In recent years, with shifts to automated sensing, more advanced data processing and web-based tools we have seen an increased need for software development skills across all science areas in the organisation. The Digital Innovation and Marine Autonomy (DIMA) group at PML was established to work across science areas and the Research Software Engineering (RSE) team at PML sits within this. This talk will provide an introduction to Research Software Engineering at PML, how the group is structured and discuss some of the current projects we are working on.\n        \n      \n  \n    11:00\n    Refreshments\n  \n    11:15\n    \n      \n        LCAT - the Local Climate Adaptation Tool\n        Simon Kirby, University of Exeter\n        \n          Abstract\n          LCAT is a web tool that brings together climate, health and vulnerability research, supporting local policy makers as they address climate adaptation challenges. Developed by Simon in the Exeter RSE group, LCAT is the result of a co-design process with Cornwall County Council, and academic colleagues in Penryn. The tool is currently live, under continual development, and can be accessed at: https://lcat.uk. In this talk, I will give a demo of the tool, discuss its architecture and some technical details, and highlight some technical and non-technical challenges faced during its development and release. Questions on any aspects of the tool will be very welcome. Keywords: 3 tier web-app, React, Node, AWS, NetCDF, PostgreSQL, Python\n        \n      \n  \n    11:55\n    Lightning talks\n  \n    \n      \n        Git and GitHub Training for the Science Git Migration Project\n        Dimitrios Theodorakis, Met Office\n        \n          Abstract\n          The Met Office is migrating its codebases to Git and GitHub and such a large move requires training our staff in how to effectively work with Git and GitHub. Using Carpentries style lessons we have been trialling new Git and GitHub training for use by the Met Office and other organisations.\n        \n      \n  \n    \n      \n        The Transatlantic Data Science Academy\n        Damian Wilson, Met Office\n        \n          Abstract\n          The Transatlantic Data Science Academy is a collaboration between the Met Office and its US counterparts, the National Oceanic and Atmospheric Association (NOAA), looking at extending  career development advice and opportunities in the fields of research software engineering, data science, data engineering and data assimilation science. Over the last two years It has supported scientist visits, training and events (including this one!). In this presentation I will talk about its aims, some of its activities, and how we might take it into the future to support your careers.\n        \n      \n  \n    12:15\n    Lunch & networking\n  \n    13:15\n    \n      \n        The X-Cited programme for GW4 RTP career development\n        Nicole Whippey, University of Exeter\n        \n          Abstract\n          The X-Cited programme aims to improve RTP (research technical professional) career development through creating communities of practice, training opportunities, industry challenge projects, and introducing junior RTP roles into the career pathway. Creating GW4 communities of practice will facilitate knowledge sharing, expertise and networking; gaining visibility of skills and opportunities within GW4 and externally. The Digital Community of Practice will facilitate both understanding training needs and providing or sharing training opportunities for RSEs as well as all Digital RTPs. Industry challenge projects (ICPs) comprise a 3 day sandpit that result in project proposals for solving real world problems set by industry, and subsequent 2-month projects between GW4 RTPs and industry. ICPs will facilitate RTPs gaining experience of working with industry, and will showcase the capabilities, knowledge and skills, as well as facilities of GW4 institutions and their technicians to industry. This is hoped to build more industry and HE collaborations directly with RTPs instead of the traditional academic routes. Finally, 4 junior research technical professionals (1 RSE) will be recruited for two years to create new routes into becoming an RTP, and provide resources for projects whilst other RTPs are engaging on industry challenge projects.\n        \n      \n  \n    13:45\n    Group photo\n  \n    13:50\n    \n      \n        Tour of the Met Office\n        Andy Malcolm, Met Office\n      \n  \n    14:40\n    Refreshments\n  \n    14:55\n    \n      \n        Machine Learning (ML) Weather Forecasting and Experiment Tracking\n        Ben Fitzpatrick, Met Office\n        \n          Abstract\n          ML weather forecasting - current Met Office and Alan Turing Institute efforts to predict the weather with graph neural networks. Experiment tracking - current problems with tracking and discovering all our science work under Git/GitHub.\n        \n      \n  \n    15:35\n    \n      \n        Going fast: Isambard-AI\n        Richard Gilham, University of Bristol\n      \n  \n    15:55\n    \n      \n        Closing remarks\n        Emma Hogan, Met Office\n      \n  \n    16:00\n    End of day"
-  },
-  {
-    "objectID": "meetings/2025-02-10-met-office/index.html#code-of-conduct",
-    "href": "meetings/2025-02-10-met-office/index.html#code-of-conduct",
-    "title": "Meeting of South West RSE’s at the Met Office",
-    "section": "Code of conduct",
-    "text": "Code of conduct\nAll participants are expected to adhere to the Society of RSE code of conduct for events."
   },
   {
     "objectID": "meetings/2025-06-23-bristol/index.html",
@@ -215,5 +243,40 @@
     "title": "Meeting of South West RSE’s in Bristol",
     "section": "Contact the organisers and other attendees",
     "text": "Contact the organisers and other attendees\nThe easiest way to communicate with everyone is via the #rse-south-west channel on the UK RSE Slack instance.\nIf you would rather send us an email, please contact: rse-south-west-2025@bristol.ac.uk."
+  },
+  {
+    "objectID": "meetings/2025-02-10-met-office/index.html",
+    "href": "meetings/2025-02-10-met-office/index.html",
+    "title": "Meeting of South West RSE’s at the Met Office",
+    "section": "",
+    "text": "Monday 10 February 2025, 9:30am – 4:00pm (refreshments from 9:30am for a 10am start) Met Office Exeter HQ, Conference Room 1"
+  },
+  {
+    "objectID": "meetings/2025-02-10-met-office/index.html#organisers",
+    "href": "meetings/2025-02-10-met-office/index.html#organisers",
+    "title": "Meeting of South West RSE’s at the Met Office",
+    "section": "Organisers",
+    "text": "Organisers\n\nEmma Hogan"
+  },
+  {
+    "objectID": "meetings/2025-02-10-met-office/index.html#purpose",
+    "href": "meetings/2025-02-10-met-office/index.html#purpose",
+    "title": "Meeting of South West RSE’s at the Met Office",
+    "section": "Purpose",
+    "text": "Purpose\nRSEs in the South West are meeting in-person at Met Office Exeter HQ on Monday, February 10, 2025 to showcase interesting topics​, share knowledge and build networks. All are welcome if you are happy to travel! :)\nThere is value in holding in-person, one-day events for RSEs in the South West / GW4 (i.e. travel on the day / without staying overnight), as it enables all RSEs in the area, but especially those who are not part of a larger RSE group and / or are unable to attend the yearly national conference, to get together to share knowledge and build networks."
+  },
+  {
+    "objectID": "meetings/2025-02-10-met-office/index.html#agenda",
+    "href": "meetings/2025-02-10-met-office/index.html#agenda",
+    "title": "Meeting of South West RSE’s at the Met Office",
+    "section": "Agenda",
+    "text": "Agenda\n\n  \n    09:30\n    Arrive and refreshments\n  \n    10:00\n    \n      \n        Welcome\n        Emma Hogan, Met Office\n      \n  \n    10:10\n    \n      \n        Managing dependencies in a python data science project using uv\n        James Thomas, University of Bristol\n        \n          Slides and video\n        \n        \n          Abstract\n          A demonstration of new python tooling (uv) and how as an RSE or data scientist you might incorporate this into your project. Including the motivation for doing so, pros and cons, etc.\n        \n      \n  \n    10:40\n    \n      \n        Research Software Engineering at Plymouth Marine Laboratory (PML)\n        Jane Netting, Plymouth Marine Laboratory\n        \n          Abstract\n          Development of software for research has always been important at PML, particularly within the Earth Observation and Modelling groups. In recent years, with shifts to automated sensing, more advanced data processing and web-based tools we have seen an increased need for software development skills across all science areas in the organisation. The Digital Innovation and Marine Autonomy (DIMA) group at PML was established to work across science areas and the Research Software Engineering (RSE) team at PML sits within this. This talk will provide an introduction to Research Software Engineering at PML, how the group is structured and discuss some of the current projects we are working on.\n        \n      \n  \n    11:00\n    Refreshments\n  \n    11:15\n    \n      \n        LCAT - the Local Climate Adaptation Tool\n        Simon Kirby, University of Exeter\n        \n          Abstract\n          LCAT is a web tool that brings together climate, health and vulnerability research, supporting local policy makers as they address climate adaptation challenges. Developed by Simon in the Exeter RSE group, LCAT is the result of a co-design process with Cornwall County Council, and academic colleagues in Penryn. The tool is currently live, under continual development, and can be accessed at: https://lcat.uk. In this talk, I will give a demo of the tool, discuss its architecture and some technical details, and highlight some technical and non-technical challenges faced during its development and release. Questions on any aspects of the tool will be very welcome. Keywords: 3 tier web-app, React, Node, AWS, NetCDF, PostgreSQL, Python\n        \n      \n  \n    11:55\n    Lightning talks\n  \n    \n      \n        Git and GitHub Training for the Science Git Migration Project\n        Dimitrios Theodorakis, Met Office\n        \n          Abstract\n          The Met Office is migrating its codebases to Git and GitHub and such a large move requires training our staff in how to effectively work with Git and GitHub. Using Carpentries style lessons we have been trialling new Git and GitHub training for use by the Met Office and other organisations.\n        \n      \n  \n    \n      \n        The Transatlantic Data Science Academy\n        Damian Wilson, Met Office\n        \n          Abstract\n          The Transatlantic Data Science Academy is a collaboration between the Met Office and its US counterparts, the National Oceanic and Atmospheric Association (NOAA), looking at extending  career development advice and opportunities in the fields of research software engineering, data science, data engineering and data assimilation science. Over the last two years It has supported scientist visits, training and events (including this one!). In this presentation I will talk about its aims, some of its activities, and how we might take it into the future to support your careers.\n        \n      \n  \n    12:15\n    Lunch & networking\n  \n    13:15\n    \n      \n        The X-Cited programme for GW4 RTP career development\n        Nicole Whippey, University of Exeter\n        \n          Abstract\n          The X-Cited programme aims to improve RTP (research technical professional) career development through creating communities of practice, training opportunities, industry challenge projects, and introducing junior RTP roles into the career pathway. Creating GW4 communities of practice will facilitate knowledge sharing, expertise and networking; gaining visibility of skills and opportunities within GW4 and externally. The Digital Community of Practice will facilitate both understanding training needs and providing or sharing training opportunities for RSEs as well as all Digital RTPs. Industry challenge projects (ICPs) comprise a 3 day sandpit that result in project proposals for solving real world problems set by industry, and subsequent 2-month projects between GW4 RTPs and industry. ICPs will facilitate RTPs gaining experience of working with industry, and will showcase the capabilities, knowledge and skills, as well as facilities of GW4 institutions and their technicians to industry. This is hoped to build more industry and HE collaborations directly with RTPs instead of the traditional academic routes. Finally, 4 junior research technical professionals (1 RSE) will be recruited for two years to create new routes into becoming an RTP, and provide resources for projects whilst other RTPs are engaging on industry challenge projects.\n        \n      \n  \n    13:45\n    Group photo\n  \n    13:50\n    \n      \n        Tour of the Met Office\n        Andy Malcolm, Met Office\n      \n  \n    14:40\n    Refreshments\n  \n    14:55\n    \n      \n        Machine Learning (ML) Weather Forecasting and Experiment Tracking\n        Ben Fitzpatrick, Met Office\n        \n          Abstract\n          ML weather forecasting - current Met Office and Alan Turing Institute efforts to predict the weather with graph neural networks. Experiment tracking - current problems with tracking and discovering all our science work under Git/GitHub.\n        \n      \n  \n    15:35\n    \n      \n        Going fast: Isambard-AI\n        Richard Gilham, University of Bristol\n      \n  \n    15:55\n    \n      \n        Closing remarks\n        Emma Hogan, Met Office\n      \n  \n    16:00\n    End of day"
+  },
+  {
+    "objectID": "meetings/2025-02-10-met-office/index.html#code-of-conduct",
+    "href": "meetings/2025-02-10-met-office/index.html#code-of-conduct",
+    "title": "Meeting of South West RSE’s at the Met Office",
+    "section": "Code of conduct",
+    "text": "Code of conduct\nAll participants are expected to adhere to the Society of RSE code of conduct for events."
   }
 ]

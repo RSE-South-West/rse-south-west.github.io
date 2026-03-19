@@ -5,6 +5,10 @@ title: Meeting of South West RSE's at the University of Exeter
 **When**: Friday 20 February 2026, 10am – 3pm (refreshments from 9:30am for a 10am start)<br>
 **Where**: Peter Chalk Centre, Newman Red Lecture Theatre, Exeter, EX4 4QQ ([How to get here](https://maps.app.goo.gl/v7gFBEb4BCQSv3qz7){target="_blank"})<br>
 
+## Meeting Blog
+
+Read our [meeting blog](exeter-meeting-blog.qmd) for a full write-up of the day, including summaries of all the talks and the panel discussion.
+
 ## Organisers
 
 * Jeremy Pike (Lead)

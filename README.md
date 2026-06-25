@@ -1,10 +1,10 @@
 # Website for RSE events in the South West
 
-This repo is the [website for RSE events in the South West](https://rse-south-west.github.io), a place for RSEs in the South West / GW4 to showcase interesting topics, share knowledge and build networks. It aims to complement the annual RSE conference.
+This repo is the [website for RSE events in the South West](https://rse-south-west.society-rse.org), a place for RSEs in the South West / GW4 to showcase interesting topics, share knowledge and build networks. It aims to complement the annual RSE conference.
 
 ## How to get involved
 
-[See our website](https://rse-south-west.github.io) for more information.
+[See our website](https://rse-south-west.society-rse.org) for more information.
 
 ## Making changes to the website
 

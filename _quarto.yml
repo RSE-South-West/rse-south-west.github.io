@@ -10,6 +10,10 @@ website:
       href: index.qmd
     - text: "Meetings"
       href: meetings/index.qmd
+    - text: "Join"
+      href: join/index.qmd
+    - text: "Contact"
+      href: contact/index.qmd
   page-footer:
     center: © [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/)
   search: false

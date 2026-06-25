@@ -1,18 +1,13 @@
 ---
-title:  Welcome to RSE South West
+title: Welcome to RSE South West
 ---
 
 <!-- Add details of next meeting to meetings/next_meeting.qmd and uncomment next line -->
 {{< include meetings/next_meeting.qmd >}}
 
-
-
 We are a community of research software engineers mainly from the South West of the UK and GW4 Universities who are not affiliated with a larger regional RSE group. 
 
 Our aim is to be a regional community for **building networks, form collaborations and share knowledge**. We are doing this through several [meetings](meetings/index.qmd) aimed to take place at regular intervals.
-
-
-
 
 # Be part of our community!
 
@@ -21,6 +16,5 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
 The easiest way to communicate with everyone is via the `#rse-south-west` channel on the UK RSE Slack instance. Or join our mailing list to stay in touch with events!
 
 ::: {.text-center}
-[Join our Slack channel](https://ukrse.slack.com/signup?redir=/archives/C085EGAULJ3){.btn .btn-primary}
-<!-- [Join our mailing list](https://){.btn .btn-primary} -->
+[Join our community](./join/index.qmd){.btn .btn-primary}
 :::

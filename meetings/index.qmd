@@ -6,6 +6,10 @@ Our goal is to meet in-person a few times each year, rotating locations across t
 
 These meetings aim to complement the annual RSE conference and be useful to those in the South West / GW4 who are not part of a larger RSE group.
 
+# Upcoming meeting
+
+* [University of Bath, 31 July 2026](2026-07-31-bath/index.qmd)
+
 # Previous meetings
 
 * [University of Exeter, 20 February 2026](2026-02-20-exeter/index.qmd)

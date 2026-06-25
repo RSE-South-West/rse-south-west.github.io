@@ -1,43 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://RSE-South-West.github.io/rse-south-west.github.io/resources/index.html</loc>
-    <lastmod>2026-03-19T15:48:40.282Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RSE-South-West.github.io/rse-south-west.github.io/meetings/2025-06-23-bristol/discussion.html</loc>
-    <lastmod>2026-03-19T15:48:40.258Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RSE-South-West.github.io/rse-south-west.github.io/meetings/2026-02-20-exeter/exeter-meeting-blog.html</loc>
-    <lastmod>2026-03-19T15:48:40.281Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RSE-South-West.github.io/rse-south-west.github.io/meetings/next_meeting.html</loc>
-    <lastmod>2026-03-19T15:48:40.282Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RSE-South-West.github.io/rse-south-west.github.io/members/index.html</loc>
-    <lastmod>2026-03-19T15:48:40.282Z</lastmod>
-  </url>
-  <url>
     <loc>https://RSE-South-West.github.io/rse-south-west.github.io/index.html</loc>
-    <lastmod>2026-03-19T15:48:40.258Z</lastmod>
+    <lastmod>2026-06-25T14:03:32.337Z</lastmod>
   </url>
   <url>
     <loc>https://RSE-South-West.github.io/rse-south-west.github.io/meetings/index.html</loc>
-    <lastmod>2026-03-19T15:48:40.282Z</lastmod>
-  </url>
-  <url>
-    <loc>https://RSE-South-West.github.io/rse-south-west.github.io/meetings/2026-02-20-exeter/index.html</loc>
-    <lastmod>2026-03-19T15:48:40.282Z</lastmod>
+    <lastmod>2026-06-25T14:03:32.360Z</lastmod>
   </url>
   <url>
     <loc>https://RSE-South-West.github.io/rse-south-west.github.io/meetings/2025-06-23-bristol/index.html</loc>
-    <lastmod>2026-03-19T15:48:40.264Z</lastmod>
+    <lastmod>2026-06-25T14:03:32.343Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RSE-South-West.github.io/rse-south-west.github.io/meetings/2026-07-31-bath/index.html</loc>
+    <lastmod>2026-06-25T14:03:32.360Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RSE-South-West.github.io/rse-south-west.github.io/meetings/2026-02-20-exeter/exeter-meeting-blog.html</loc>
+    <lastmod>2026-06-25T14:03:32.359Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RSE-South-West.github.io/rse-south-west.github.io/resources/index.html</loc>
+    <lastmod>2026-06-25T14:03:32.360Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RSE-South-West.github.io/rse-south-west.github.io/meetings/next_meeting.html</loc>
+    <lastmod>2026-06-25T14:03:32.360Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RSE-South-West.github.io/rse-south-west.github.io/meetings/2026-02-20-exeter/index.html</loc>
+    <lastmod>2026-06-25T14:03:32.360Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RSE-South-West.github.io/rse-south-west.github.io/meetings/2025-06-23-bristol/discussion.html</loc>
+    <lastmod>2026-06-25T14:03:32.337Z</lastmod>
   </url>
   <url>
     <loc>https://RSE-South-West.github.io/rse-south-west.github.io/meetings/2025-02-10-met-office/index.html</loc>
-    <lastmod>2026-03-19T15:48:40.258Z</lastmod>
+    <lastmod>2026-06-25T14:03:32.337Z</lastmod>
+  </url>
+  <url>
+    <loc>https://RSE-South-West.github.io/rse-south-west.github.io/members/index.html</loc>
+    <lastmod>2026-06-25T14:03:32.360Z</lastmod>
   </url>
 </urlset>

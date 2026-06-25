@@ -1,0 +1,22 @@
+---
+title: Join our community
+---
+
+All are welcome to be part of our South West community, whether or not you are from the South West of the UK, and whether or not you [self-define as a Research Software Engineer (RSE)](https://society-rse.org/what-is-an-rse/).
+
+## How to get involved
+
+### Events
+
+You can [attend our meetings](/meetings/index.qmd). There are 2-3 each year and they are organised to complement the national RSE conference, RSECon.
+
+### Mailing list
+
+If you would like to get notifications about future events, you can join our mailing list:
+
+- If you have a Google Account, you can [subscribe via our Google Groups page](https://groups.google.com/a/society-rse.org/g/south-west).
+- If you don't have a Google Account, you can subscribe by sending a blank email to: <south-west+subscribe@society-rse.org>. Look out for an automated email and _reply to that email_ to subscribe.
+
+### Slack channel
+
+If you'd like to communicate with other members of the group, the easiest way is via [the `#rse-south-west` channel](https://ukrse.slack.com/signup?redir=/archives/C085EGAULJ3) on the UK RSE Slack instance.

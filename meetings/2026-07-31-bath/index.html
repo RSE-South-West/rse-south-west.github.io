@@ -82,14 +82,6 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../../meetings/index.html"> 
 <span class="menu-text">Meetings</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../join/index.html"> 
-<span class="menu-text">Join</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../contact/index.html"> 
-<span class="menu-text">Contact</span></a>
-  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -236,7 +228,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/RSE-South-West\.github\.io\/rse-south-west\.github\.io\/");
+        var filterRegex = new RegExp("https:\/\/rse-south-west\.society-rse\.org");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

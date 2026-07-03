@@ -1,1 +1,1 @@
-Sitemap: https://RSE-South-West.github.io/rse-south-west.github.io/sitemap.xml
+Sitemap: https://rse-south-west.society-rse.org/sitemap.xml

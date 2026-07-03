@@ -17,6 +17,8 @@ website:
   page-footer:
     center: © [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/)
   search: false
+  repo-url: https://github.com/rse-south-west/rse-south-west.github.io
+  repo-actions: [edit, source, issue]
 
 format:
   html:

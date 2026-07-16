@@ -1,5 +1,5 @@
 ---
-title: Meeting of South West RSE's at the University of Bath
+title: Meeting of South West RSEs at the University of Bath
 ---
 
 **When**: Friday 31st July 2026, 10am – 4:00pm (refreshments from 9:30am for a 10am start)<br>
@@ -7,29 +7,25 @@ title: Meeting of South West RSE's at the University of Bath
 
 ## Purpose
 
-It will be another day to showcase interesting topics, share knowledge and build networks. All are welcome, whether or not you are from the South West of the UK, and whether or not you self-define as a Research Software Engineer (RSE). [What is an RSE?](https://society-rse.org/what-is-an-rse/)
+It will be another day to showcase interesting topics, share knowledge and build networks.
+All are welcome, whether or not you are from the South West of the UK, and whether or not you self-define as a Research Software Engineer (RSE).
+[What is an RSE?](https://society-rse.org/what-is-an-rse/)
 
-## Registration and submission
+## Registration
 
-At the previous RSE South West events, attendees were appreciative of the variety of talks and the frequency of breaks. We will aim to repeat that and we would encourage you to contribute a talk or demo, which could be:
+[Register to attend](https://forms.office.com/Pages/ResponsePage.aspx?id=Ij1-N6FOLUKwrY_MiUBrnqJBc3HLK_dOiPrjjBCsFMlUNDdSRUlVTUMxVEgzVVhEUTNSS1c3Q0M5Ri4u){.btn .btn-primary}
 
-- an **introduction to your group**
-- a **talk about a project**
-- a **showcase of a tool**
-- a **live demo** or **live coding** session
-- a poster
-- or something different
-
-We would especially encourage the submission of 5-minute lightning talks, and we will aim to include more of those in a agenda.
-
-[Register to attend and/or submit a talk](https://forms.office.com/Pages/ResponsePage.aspx?id=Ij1-N6FOLUKwrY_MiUBrnqJBc3HLK_dOiPrjjBCsFMlUNDdSRUlVTUMxVEgzVVhEUTNSS1c3Q0M5Ri4u){.btn .btn-primary}
-
-**Deadline for registering for talks: Friday 10th July 2026**  
+**Deadline for registering for talks passed (~Friday 10th July 2026~)**  
 **Registration closes: Monday 20th July 2026**
 
 ## Code of conduct
 
 All participants are expected to adhere to the [Society of RSE code of conduct for events](https://society-rse.org/about/policies/code-of-conduct/).
+
+## Contact Organisers
+
+This event is being organised by the RSE Facility at Bath.
+To get in touch, find contact details on the [Facility Lead's Website](https://people.bath.ac.uk/spc67/).
 
 ## Acknowledgements
 

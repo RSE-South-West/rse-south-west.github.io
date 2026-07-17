@@ -34,6 +34,16 @@ Details of talks to follow.
 - 15:30-15:35 Close
 - Social
 
+In the interim before the full agenda is released, here is a flavour of contributed talks (titles paraphrased):
+- SSEs in space weather
+- COVID-19 impact assessed with OpenSAFELY platform
+- RSE to policy: GIS toolkit for local government
+- Advancing learning resources for iterative customer-focused research software
+- EESSI: the Initiative for Software Usage on HPCs
+- ML for visibility range forecasting
+- Lessons for DAFNI research platform
+- Centres for Mathematical Innovation at Bath and Bristol
+
 ## Code of conduct
 
 All participants are expected to adhere to the [Society of RSE code of conduct for events](https://society-rse.org/about/policies/code-of-conduct/).

@@ -3,7 +3,7 @@ title: Meeting of South West RSEs at the University of Bath
 ---
 
 **When**: Friday 31st July 2026, 10am – 4:00pm (refreshments from 9:30am for a 10am start)<br>
-**Where**: Claverton Down campus (BA2 7AY)
+**Where**: 10 West 2.47, University of Bath, Claverton Down, Bath, BA2 7AY (A3 on [campus map](https://www.bath.ac.uk/publications/claverton-down-campus-map/attachments/university-campus-map.pdf))
 
 ## Purpose
 
@@ -17,6 +17,32 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
 
 **Deadline for registering for talks passed (~Friday 10th July 2026~)**  
 **Registration closes: Monday 20th July 2026**
+
+## Outline Agenda
+
+Details of talks to follow.
+
+- 9:30-10:00 Welcome refreshments
+- 10:00-10:15 Introduction
+- 10:15-11:00 Keynote speaker
+- 11:00-11:20 Morning refreshments
+- 11:20-12:20 Contributed talks 1
+- 12:20-13:20 Lunch
+- 13:20-14:20 Contributed talks 2
+- 14:20-14:40 Afternoon refreshments
+- 14:40-15:30 Contributed talks 3 and discussion
+- 15:30-15:35 Close
+- Social
+
+In the interim before the full agenda is released, here is a flavour of contributed talks (titles paraphrased):
+- SSEs in space weather
+- COVID-19 impact assessed with OpenSAFELY platform
+- RSE to policy: GIS toolkit for local government
+- Advancing learning resources for iterative customer-focused research software
+- EESSI: the Initiative for Software Usage on HPCs
+- ML for visibility range forecasting
+- Lessons for DAFNI research platform
+- Centres for Mathematical Innovation at Bath and Bristol
 
 ## Code of conduct
 

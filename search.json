@@ -151,7 +151,7 @@
     "href": "meetings/2026-07-31-bath/index.html",
     "title": "Meeting of South West RSEs at the University of Bath",
     "section": "",
-    "text": "When: Friday 31st July 2026, 10am – 4:00pm (refreshments from 9:30am for a 10am start) Where: Claverton Down campus (BA2 7AY)"
+    "text": "When: Friday 31st July 2026, 10am – 4:00pm (refreshments from 9:30am for a 10am start) Where: 10 West 2.47, University of Bath, Claverton Down, Bath, BA2 7AY (A3 on campus map)"
   },
   {
     "objectID": "meetings/2026-07-31-bath/index.html#purpose",
@@ -166,6 +166,13 @@
     "title": "Meeting of South West RSEs at the University of Bath",
     "section": "Registration",
     "text": "Registration\nRegister to attend\nDeadline for registering for talks passed (~Friday 10th July 2026~)\nRegistration closes: Monday 20th July 2026"
+  },
+  {
+    "objectID": "meetings/2026-07-31-bath/index.html#outline-agenda",
+    "href": "meetings/2026-07-31-bath/index.html#outline-agenda",
+    "title": "Meeting of South West RSEs at the University of Bath",
+    "section": "Outline Agenda",
+    "text": "Outline Agenda\nDetails of talks to follow.\n\n9:30-10:00 Welcome refreshments\n10:00-10:15 Introduction\n10:15-11:00 Keynote speaker\n11:00-11:20 Morning refreshments\n11:20-12:20 Contributed talks 1\n12:20-13:20 Lunch\n13:20-14:20 Contributed talks 2\n14:20-14:40 Afternoon refreshments\n14:40-15:30 Contributed talks 3 and discussion\n15:30-15:35 Close\nSocial\n\nIn the interim before the full agenda is released, here is a flavour of contributed talks (titles paraphrased): - SSEs in space weather - COVID-19 impact assessed with OpenSAFELY platform - RSE to policy: GIS toolkit for local government - Advancing learning resources for iterative customer-focused research software - EESSI: the Initiative for Software Usage on HPCs - ML for visibility range forecasting - Lessons for DAFNI research platform - Centres for Mathematical Innovation at Bath and Bristol"
   },
   {
     "objectID": "meetings/2026-07-31-bath/index.html#code-of-conduct",

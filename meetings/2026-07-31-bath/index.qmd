@@ -2,7 +2,8 @@
 title: Meeting of South West RSEs at the University of Bath
 ---
 
-**When**: Friday 31st July 2026, 10am – 4:00pm (refreshments from 9:30am for a 10am start)<br>
+**When**: Friday 31st July 2026, 10am – 4:00pm (refreshments from 9:30am for a 10am start)
+
 **Where**: 10 West 2.47, University of Bath, Claverton Down, Bath, BA2 7AY (A3 on [campus map](https://www.bath.ac.uk/publications/claverton-down-campus-map/attachments/university-campus-map.pdf))
 
 ## Purpose
@@ -15,13 +16,11 @@ All are welcome, whether or not you are from the South West of the UK, and wheth
 
 [Register to attend](https://forms.office.com/Pages/ResponsePage.aspx?id=Ij1-N6FOLUKwrY_MiUBrnqJBc3HLK_dOiPrjjBCsFMlUNDdSRUlVTUMxVEgzVVhEUTNSS1c3Q0M5Ri4u){.btn .btn-primary}
 
-**Deadline for registering for talks passed (~Friday 10th July 2026~)**
+**Deadline for registering for talks passed (Friday 10th July 2026)**
 **Registration closed: Monday 20th July 2026**.
-It is too late to arrange lunch, but interested parties can still sign up to attend the talks.
+It is too late to arrange additional lunches, but interested parties can still sign up to attend the talks.
 
 ## Outline Agenda
-
-Details of talks to follow.
 
 ### 9:30-10:00 Welcome refreshments
 
@@ -41,11 +40,14 @@ Collect name badges and morning refreshments on level 2 of 10 West.
 ### 11:15-12:15 Contributed talks 1
 
 Lightening talks:
+
 - Tom Burnett (Bath) Intro to the Institute for Mathematical Innovation
 - Miquel Perellonieto (UoB) Starting an Innovation Centre in Mathematics at the University of Bristol
 - Wilf Wilson (MO) SSE in space weather at the Met Office
 - TBC (Bath) work experience experience
+
 Talks:
+
 - Elizabeth Mamchits (STFC/DAFNI) Five Lessons from Developing and Supporting the DAFNI Research Platform
 - Lewis Sampson (STFC/DAFNI) Through the lens of the DAFNI, maintaining a digital research infrastructure platform with industry standard tooling
 
@@ -56,27 +58,34 @@ Taking packed lunches either on the balcony or by the lake (5 minute walk).
 ### 13:00-14:00 Contributed talks 2
 
 Lightening talks:
+
 - Mateus Bernado-Harrigton (Cardiff) Pair Programming as Peer Mentorship: Building Research Software Communities One Session at a Time
 - Evie Grace (UoB) Plotting the route from research engineering to policy: a Quarto geospatial analytics toolkit built with and for local government
 - Emma Hogan (MO) What Happened Next? Advancing learning resources for iterative, customer-focused development of research software
+
 Talks:
+
 - Elvira Alier Retamar (Bath) Current hot topics coming to DDaT
 - Josh Tyler (UoB) Have I Learnt Python?
 
 ### 14:00-14:20 Afternoon refreshments
 
 ### 14:20-15:25 Contributed talks 3 and discussion
+
 Lightening Talks:
+
 - Francesco Devoto (MO) Machine Learning for Visibility Range Forecasting and Classification
 - Honey Chauhan (Bath) Thousand calculations - multiple options: Choosing an HPC submission strategy
 - Rita Rasterio (UoB) DEICAP: Measuring the Hidden Carbon Cost of Digital Research
 - Harry T Mason (UoB) Assessing the impact of COVID-19 on neurodegenerative diseases in vaccinated and unvaccinated people, using the secure OpenSAFELY platform
 
 Talks:
+
 - Roberto Scipioni (Red Oak) EESSI the Initiative for Software Usage on HPCs
 - Ashutosh Londhe (Bath) EuroHPC Access for UK Researchers: Opportunities Beyond Local HPC
 
 Discussion:
+
 - Ben Westhenry (UoB) How do you use GenAI for coding?
 
 ### 15:25-15:30 Close

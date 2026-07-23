@@ -76,7 +76,7 @@ Lightening Talks:
 
 - Francesco Devoto (MO) Machine Learning for Visibility Range Forecasting and Classification
 - Honey Chauhan (Bath) Thousand calculations - multiple options: Choosing an HPC submission strategy
-- Rita Rasterio (UoB) DEICAP: Measuring the Hidden Carbon Cost of Digital Research
+- Rita Rasteiro (UoB) DEICAP: Measuring the Hidden Carbon Cost of Digital Research
 - Harry T Mason (UoB) Assessing the impact of COVID-19 on neurodegenerative diseases in vaccinated and unvaccinated people, using the secure OpenSAFELY platform
 
 Talks:

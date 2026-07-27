@@ -39,7 +39,7 @@ Collect name badges and morning refreshments on level 2 of 10 West.
 
 ### 11:15-12:15 Contributed talks 1
 
-Lightening talks:
+Lightning talks:
 
 - Tom Burnett (Bath) Intro to the Institute for Mathematical Innovation
 - Miquel Perellonieto (UoB) Starting an Innovation Centre in Mathematics at the University of Bristol
@@ -57,7 +57,7 @@ Taking packed lunches either on the balcony or by the lake (5 minute walk).
 
 ### 13:00-14:00 Contributed talks 2
 
-Lightening talks:
+Lightning talks:
 
 - Mateus Bernado-Harrigton (Cardiff) Pair Programming as Peer Mentorship: Building Research Software Communities One Session at a Time
 - Evie James (UoB) Plotting the route from research engineering to policy: a Quarto geospatial analytics toolkit built with and for local government
@@ -72,7 +72,7 @@ Talks:
 
 ### 14:20-15:25 Contributed talks 3 and discussion
 
-Lightening Talks:
+Lightning Talks:
 
 - Francesco Devoto (MO) Machine Learning for Visibility Range Forecasting and Classification
 - Honey Chauhan (Bath) Thousand calculations - multiple options: Choosing an HPC submission strategy

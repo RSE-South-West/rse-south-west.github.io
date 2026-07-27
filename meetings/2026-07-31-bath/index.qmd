@@ -81,7 +81,7 @@ Lightning Talks:
 
 Talks:
 
-- Roberto Scipioni (Red Oak) EESSI the Initiative for Software Usage on HPCs
+- Roberto Scipioni (Red Oak) EasyBuild and EESSI the Initiative for Software Usage on HPCs
 - Ashutosh Londhe (Bath) EuroHPC Access for UK Researchers: Opportunities Beyond Local HPC
 
 Discussion:

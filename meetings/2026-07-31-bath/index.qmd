@@ -98,6 +98,22 @@ An informal pub trip to the beer garden at [The Bell Inn](https://thebellinnbath
 
 The Bell Inn, 103 Walcot Street, Bath BA1 5BW
 
+## Getting Here
+
+Please see the University's [travel advice](https://www.bath.ac.uk/topics/travel-advice/) for general information.
+Roadworks in Bath city centre are affecting routes ([Manvers Street, Bath - Road Closures](https://www.firstbus.co.uk/bristol-bath-and-west/news-and-service-updates/updates/manvers-street-bath-road-closures-various)), so please plan your journey accordingly and check the [roadworks and traffic map](https://one.network/uk/bathnes) before you travel.
+
+### By Bus
+
+If you're arriving at the Bath Spa train station, the nearest stop for campus is Grand Parade; walk north along Manvers Street, where you can catch the **U1** bus.
+
+### By Car
+
+Event parking is £6.00 per day, please use [JustPark](https://www.bath.ac.uk/announcements/pay-for-your-car-parking-using-justpark/) to make your payment using location code 860906.
+Please ensure that you follow the [parking regulations](https://www.bath.ac.uk/legal-information/parking-regulations/) when parking on site.
+
+Car park TBC.
+
 ## Code of conduct
 
 All participants are expected to adhere to the [Society of RSE code of conduct for events](https://society-rse.org/about/policies/code-of-conduct/).

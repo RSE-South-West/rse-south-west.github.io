@@ -42,7 +42,7 @@ Speaker details for talks in the Friday 31st July 2026 programme.
 
 **Summary**: The Institution for Mathematical Innovation (IMI) adds value and Impact to research, creating interdisciplinary connections through the power of modelling, data science, and machine learning. We achieve this via the inclusion of Mathematical Innovation Research Associates (MIRAs) on grant submissions, through industrial and academic partnerships, and by supporting research excellence through our small grant scheme and grant enhancements.
 
-### Miquel Perellonieto
+### Miquel Perello Nieto
 
 **Affiliation**: University of Bristol
 

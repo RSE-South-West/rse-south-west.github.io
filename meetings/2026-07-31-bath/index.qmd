@@ -37,7 +37,7 @@ Collect name badges and morning refreshments on level 2 of 10 West.
 
 ### 10:10-10:55 Keynote speaker
 
-- Ed Bennett (Swansea): TBC
+- Ed Bennett (Swansea): SHAREing
 
 ### 10:55-11:15 Morning refreshments
 
@@ -47,13 +47,16 @@ Lightning talks:
 
 - Tom Burnett (Bath) Intro to the Institute for Mathematical Innovation
 - Miquel Perellonieto (UoB) Launching our Mathematics Innovation Initiative​
+  [slides][MNieto]
 - Wilf Wilson (MO) SSE in space weather at the Met Office
-- TBC (Bath) work experience experience
+  [slides][WWilson]
 
 Talks:
 
 - Elizabeth Mamchits (STFC/DAFNI) Five Lessons from Developing and Supporting the DAFNI Research Platform
+  [slides][EMamchits]
 - Lewis Sampson (STFC/DAFNI) Through the lens of the DAFNI, maintaining a digital research infrastructure platform with industry standard tooling
+  [slides][LSampson]
 
 ### 12:15-13:00 Lunch
 
@@ -64,13 +67,16 @@ Taking packed lunches either on the balcony or by the lake (5 minute walk).
 Lightning talks:
 
 - Mateus Bernado-Harrigton (Cardiff) Pair Programming as Peer Mentorship: Building Research Software Communities One Session at a Time
+  [slides][MHarrington]
 - Evie Grace (UoB) Plotting the route from research engineering to policy: a Quarto geospatial analytics toolkit built with and for local government
+  [slides][EGrace]
 - Emma Hogan (MO) What Happened Next? Advancing learning resources for iterative, customer-focused development of research software
 
 Talks:
 
 - Elvira Alier Retamar (Bath) Current hot topics coming to DDaT
 - Josh Tyler (UoB) Have I Learnt Python?
+  [slides][JTyler]
 
 ### 14:00-14:20 Afternoon refreshments
 
@@ -79,18 +85,24 @@ Talks:
 Lightning Talks:
 
 - Francesco Devoto (MO) Machine Learning for Visibility Range Forecasting and Classification
+  [slides][FDevoto]
 - Honey Chauhan (Bath) Thousand calculations - multiple options: Choosing an HPC submission strategy
 - Rita Rasteiro (UoB) DEICAP: Measuring the Hidden Carbon Cost of Digital Research
+  [slides][RRasteiro]
 - Harry T Mason (UoB) Assessing the impact of COVID-19 on neurodegenerative diseases in vaccinated and unvaccinated people, using the secure OpenSAFELY platform
+  [slides][HMason]
 
 Talks:
 
 - Roberto Scipioni (Red Oak) EasyBuild and EESSI the Initiative for Software Usage on HPCs
+  [slides][RScipioni]
 - Ashutosh Londhe (Bath) EuroHPC Access for UK Researchers: Opportunities Beyond Local HPC
+  [slides][ALondhe]
 
 Discussion:
 
 - Ben Westhenry (UoB) How do you use GenAI for coding?
+  [slides][BWesthenry]
 
 ### 15:25-15:30 Close
 
@@ -130,3 +142,17 @@ To get in touch, find contact details on the [Facility Lead's Website](https://p
 We're grateful to the [Society of Research Software Engineering](https://society-rse.org/) for providing financial support for this meeting.
 
 ![Society of RSE logo (resized), used with permission. See [https://society-rse.org/trademark-and-logo-policy/](https://society-rse.org/trademark-and-logo-policy/) for terms of use.](https://society-rse.org/wp-content/uploads/2022/05/Soc_RSE_master_logo4-766x1024.png){width=10% fig-align="left" fig-alt="The Society for Research Software Engineering logo in colour."}
+
+[ALondhe]: talks/ALondhe_2026-07.pdf
+[BWesthenry]: talks/BWesthenry_2026-07.pdf
+[EGrace]: talks/EGrace_2026-07.pdf
+[EMamchits]: talks/EMamchits_2026-07.pdf
+[FDevoto]: talks/FDevoto_2026-07.pdf
+[HMason]: talks/HMason_2026-07.pdf
+[JTyler]: talks/JTyler_2026-07.pdf
+[LSampson]: talks/LSampson_2026-07.pdf
+[MHarrington]: talks/MHarrington_2026-07.pdf
+[MNieto]: talks/MNieto_2026-07.pdf
+[RRasteiro]: talks/RRasteiro_2026-07.pdf
+[RScipioni]: talks/RScipioni_2026-07.pdf
+[WWilson]: talks/WWilson_2026-07.pdf

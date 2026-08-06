@@ -112,6 +112,8 @@ Speaker details for talks in the Friday 31st July 2026 programme.
 
 **Summary**: Hot Topics Coming to Digital, Data and Technology Department at the University of Bath: Storage, HPC and Cyber Updates for Research Computing
 
+([slides][ERetamar])
+
 ### Josh Tyler
 
 **Affiliation**: Jean Golding Institute, University of Bristol
@@ -141,6 +143,8 @@ Speaker details for talks in the Friday 31st July 2026 programme.
 **Talk**: Thousand calculations - multiple options: Choosing an HPC submission strategy
 
 **Summary**: Researchers often need to run hundreds, sometimes thousands, of independent calculations. The obvious question is usually, "How many CPUs should each job use?" But there is another question that matters just as much: how should all those jobs be submitted? In this study, I used Gaussian workloads to compare several common approaches, including individual jobs, Slurm arrays, throttled arrays, bundled jobs. I looked beyond the runtime of a single calculation and focused on the whole campaign: completion time, throughput, scheduler pressure etc. The aim was to find a submission strategy that is not only fast, but also practical, resilient and considerate of a shared HPC system.
+
+([slides][HChauhan])
 
 ### Rita Rasteiro
 
@@ -198,7 +202,9 @@ Speaker details for talks in the Friday 31st July 2026 programme.
 [BWesthenry]: talks/BWesthenry_2026-07.pdf
 [EGrace]: talks/EGrace_2026-07.pdf
 [EMamchits]: talks/EMamchits_2026-07.pdf
+[ERetamar]: talks/ERetamar_2026-07.pdf
 [FDevoto]: talks/FDevoto_2026-07.pdf
+[HChauhan]: talks/HChauhan_2026-07.pdf
 [HMason]: talks/HMason_2026-07.pdf
 [JTyler]: talks/JTyler_2026-07.pdf
 [LSampson]: talks/LSampson_2026-07.pdf

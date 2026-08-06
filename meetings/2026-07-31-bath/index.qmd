@@ -75,6 +75,7 @@ Lightning talks:
 Talks:
 
 - Elvira Alier Retamar (Bath) Current hot topics coming to DDaT
+  ([slides][ERetamar])
 - Josh Tyler (UoB) Have I Learnt Python?
   ([slides][JTyler])
 
@@ -87,6 +88,7 @@ Lightning Talks:
 - Francesco Devoto (MO) Machine Learning for Visibility Range Forecasting and Classification
   ([slides][FDevoto])
 - Honey Chauhan (Bath) Thousand calculations - multiple options: Choosing an HPC submission strategy
+  ([slides][HChauhan])
 - Rita Rasteiro (UoB) DEICAP: Measuring the Hidden Carbon Cost of Digital Research
   ([slides][RRasteiro])
 - Harry T Mason (UoB) Assessing the impact of COVID-19 on neurodegenerative diseases in vaccinated and unvaccinated people, using the secure OpenSAFELY platform
@@ -147,7 +149,9 @@ We're grateful to the [Society of Research Software Engineering](https://society
 [BWesthenry]: talks/BWesthenry_2026-07.pdf
 [EGrace]: talks/EGrace_2026-07.pdf
 [EMamchits]: talks/EMamchits_2026-07.pdf
+[ERetamar]: talks/ERetamar_2026-07.pdf
 [FDevoto]: talks/FDevoto_2026-07.pdf
+[HChauhan]: talks/HChauhan_2026-07.pdf
 [HMason]: talks/HMason_2026-07.pdf
 [JTyler]: talks/JTyler_2026-07.pdf
 [LSampson]: talks/LSampson_2026-07.pdf

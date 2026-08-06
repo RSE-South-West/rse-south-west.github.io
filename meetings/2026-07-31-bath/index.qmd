@@ -47,16 +47,16 @@ Lightning talks:
 
 - Tom Burnett (Bath) Intro to the Institute for Mathematical Innovation
 - Miquel Perellonieto (UoB) Launching our Mathematics Innovation Initiative​
-  [slides][MNieto]
+  ([slides][MNieto])
 - Wilf Wilson (MO) SSE in space weather at the Met Office
-  [slides][WWilson]
+  ([slides][WWilson])
 
 Talks:
 
 - Elizabeth Mamchits (STFC/DAFNI) Five Lessons from Developing and Supporting the DAFNI Research Platform
-  [slides][EMamchits]
+  ([slides][EMamchits])
 - Lewis Sampson (STFC/DAFNI) Through the lens of the DAFNI, maintaining a digital research infrastructure platform with industry standard tooling
-  [slides][LSampson]
+  ([slides][LSampson])
 
 ### 12:15-13:00 Lunch
 
@@ -67,16 +67,16 @@ Taking packed lunches either on the balcony or by the lake (5 minute walk).
 Lightning talks:
 
 - Mateus Bernado-Harrigton (Cardiff) Pair Programming as Peer Mentorship: Building Research Software Communities One Session at a Time
-  [slides][MHarrington]
+  ([slides][MHarrington])
 - Evie Grace (UoB) Plotting the route from research engineering to policy: a Quarto geospatial analytics toolkit built with and for local government
-  [slides][EGrace]
+  ([slides][EGrace])
 - Emma Hogan (MO) What Happened Next? Advancing learning resources for iterative, customer-focused development of research software
 
 Talks:
 
 - Elvira Alier Retamar (Bath) Current hot topics coming to DDaT
 - Josh Tyler (UoB) Have I Learnt Python?
-  [slides][JTyler]
+  ([slides][JTyler])
 
 ### 14:00-14:20 Afternoon refreshments
 
@@ -85,24 +85,24 @@ Talks:
 Lightning Talks:
 
 - Francesco Devoto (MO) Machine Learning for Visibility Range Forecasting and Classification
-  [slides][FDevoto]
+  ([slides][FDevoto])
 - Honey Chauhan (Bath) Thousand calculations - multiple options: Choosing an HPC submission strategy
 - Rita Rasteiro (UoB) DEICAP: Measuring the Hidden Carbon Cost of Digital Research
-  [slides][RRasteiro]
+  ([slides][RRasteiro])
 - Harry T Mason (UoB) Assessing the impact of COVID-19 on neurodegenerative diseases in vaccinated and unvaccinated people, using the secure OpenSAFELY platform
-  [slides][HMason]
+  ([slides][HMason])
 
 Talks:
 
 - Roberto Scipioni (Red Oak) EasyBuild and EESSI the Initiative for Software Usage on HPCs
-  [slides][RScipioni]
+  ([slides][RScipioni])
 - Ashutosh Londhe (Bath) EuroHPC Access for UK Researchers: Opportunities Beyond Local HPC
-  [slides][ALondhe]
+  ([slides][ALondhe])
 
 Discussion:
 
 - Ben Westhenry (UoB) How do you use GenAI for coding?
-  [slides][BWesthenry]
+  ([slides][BWesthenry])
 
 ### 15:25-15:30 Close
 

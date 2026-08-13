@@ -104,6 +104,8 @@ Speaker details for talks in the Friday 31st July 2026 programme.
 
 **Summary**: At the last RSE SW meeting in February 2026, I explored the need for learning resources to support iterative, customer-focused development practices that help deliver high-quality research software that lasts. In this lightning talk, I will reflect on progress since then, share emerging insights from activities carried out over the past few months, and discuss potential next steps for developing and promoting learning resources in this space.
 
+([slides][EHogan])
+
 ### Elvira Alier Retamar
 
 **Affiliation**: University of Bath
@@ -201,6 +203,7 @@ Speaker details for talks in the Friday 31st July 2026 programme.
 [ALondhe]: talks/ALondhe_2026-07.pdf
 [BWesthenry]: talks/BWesthenry_2026-07.pdf
 [EGrace]: talks/EGrace_2026-07.pdf
+[EHogan]: talks/EHogan_2026-07.pdf
 [EMamchits]: talks/EMamchits_2026-07.pdf
 [ERetamar]: talks/ERetamar_2026-07.pdf
 [FDevoto]: talks/FDevoto_2026-07.pdf

@@ -71,6 +71,7 @@ Lightning talks:
 - Evie Grace (UoB) Plotting the route from research engineering to policy: a Quarto geospatial analytics toolkit built with and for local government
   ([slides][EGrace])
 - Emma Hogan (MO) What Happened Next? Advancing learning resources for iterative, customer-focused development of research software
+  ([slides][EHogan])
 
 Talks:
 
@@ -148,6 +149,7 @@ We're grateful to the [Society of Research Software Engineering](https://society
 [ALondhe]: talks/ALondhe_2026-07.pdf
 [BWesthenry]: talks/BWesthenry_2026-07.pdf
 [EGrace]: talks/EGrace_2026-07.pdf
+[EHogan]: talks/EHogan_2026-07.pdf
 [EMamchits]: talks/EMamchits_2026-07.pdf
 [ERetamar]: talks/ERetamar_2026-07.pdf
 [FDevoto]: talks/FDevoto_2026-07.pdf

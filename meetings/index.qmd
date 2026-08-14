@@ -8,15 +8,17 @@ These meetings aim to complement the annual RSE conference and be useful to thos
 
 # Upcoming meeting
 
-* [University of Bath, 31 July 2026](2026-07-31-bath/index.qmd)
+* TBC (Expected late 2026 or early 2027)
 
 # Previous meetings
 
-* [University of Exeter, 20 February 2026](2026-02-20-exeter/index.qmd)
+* [University of Bath, 31st July 2026](2026-07-31-bath/index.qmd)
 
-* [University of Bristol, 23 June 2025](2025-06-23-bristol/index.qmd)
+* [University of Exeter, 20th February 2026](2026-02-20-exeter/index.qmd)
 
-* [Met Office, Exeter, 10 February 2025](2025-02-10-met-office/index.qmd)
+* [University of Bristol, 23rd June 2025](2025-06-23-bristol/index.qmd)
+
+* [Met Office, Exeter, 10th February 2025](2025-02-10-met-office/index.qmd)
 
 ## Code of conduct
 

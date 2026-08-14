@@ -47,6 +47,7 @@ All participants are expected to adhere to the [Society of RSE code of conduct f
     <td>
       <h3>
         Delivering high-quality research software that lasts: Is there a need for learning resources to enable iterative, customer‑focused development practices?
+        (<a href="talks/EHogan_2026-02.pdf">slides</a>)
       </h3>
       <address>
         Emma Hogan (Met Office) 

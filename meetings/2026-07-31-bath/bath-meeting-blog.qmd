@@ -10,7 +10,7 @@ The event was funded by the [Society of Research Software Engineering](https://s
 
 ![Participants at the RSE South West meeting at the University of Bath](group_photo_2026-07.jpg){fig-alt="Attendees of the fourth RSE South West regional meeting pose on a staircase in the 10W building in the University of Bath." fig-align="center"}
 
-The day involved one keynote talk, 17 talks and one discussion session.
+The day involved one keynote talk, 16 talks and one discussion session.
 Attendees came from Universities (Bath, Bristol, Exeter, UWE and Swansea) as well as industry including the Met Office, Plymouth Marine Laboratory and DAFNI.
 
 ## Talks

@@ -15,7 +15,7 @@ Attendees came from Universities (Bath, Bristol, Exeter, UWE and Swansea) as wel
 
 ## Talks
 
-Following introductions from the host facility and one of the group organisers, Ed Bennett of Swansea University gave the keynote talk on the [SHAREing network](https://shareing-dri.github.io/).
+Following introductions from Stephen Cook representing the University of Bath and James Thomas representing RSE South West, Ed Bennett of Swansea University gave the keynote talk on the [SHAREing network](https://shareing-dri.github.io/).
 Swansea had not previously been represented in the regional group meetings, and his engaging talk was well received and followed by questions from the room.
 
 The other morning talks mostly had a "group introduction" theme, with presentations from Bath's [Institute for Mathematical Innovation](https://imibath.ac.uk/), Bristol's upcoming Mathematics Innovation Initiative, a [space weather group](https://weather.metoffice.gov.uk/specialist-forecasts/space-weather) at the Met Office, then ending with two talks from [DAFNI](https://www.sc.stfc.ac.uk/programmes/dafni/).

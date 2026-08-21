@@ -8,6 +8,14 @@ title: Meeting of South West RSEs at the University of Bath
 
 **Accessibility**: Please see the University's [Campus Accessibility Map](https://www.bath.ac.uk/publications/campus-accessibility-map/attachments/university-campus-accessibility-map.pdf) and the [AccessAble guide to 10 West](https://www.accessable.co.uk/university-of-bath/access-guides/10-west#692B0D75-B803-234C-B6B2-A6F821591494)
 
+## Meeting blog
+
+Read our [meeting blog](bath-meeting-blog.qmd) for a full write-up of the day, including summaries of all the talks and the panel discussion.
+
+## Organisers
+
+* Stephen Cook
+
 ## Purpose
 
 It will be another day to showcase interesting topics, share knowledge and build networks.

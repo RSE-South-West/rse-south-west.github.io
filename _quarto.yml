@@ -17,7 +17,10 @@ website:
       - text: "Contact"
         href: contact/index.qmd
   page-footer:
-    center: © [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+    center: |
+      <p>© <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a></p>
+      <p>This group is recognised and supported by the <a href="https://society-rse.org/">Society of Research Software Engineering</a></p>
+      <p><a href="https://society-rse.org/"><img src="/assets/Soc_RSE_logo_website.png" alt="Society of Research Software Engineering" height="150"><!-- Society of RSE logo (resized), used with permission. See https://society-rse.org/trademark-and-logo-policy/ for terms of use. --></a></p>
   search: false
   repo-url: https://github.com/rse-south-west/rse-south-west.github.io
   repo-actions: [edit, source, issue]

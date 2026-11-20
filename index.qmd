@@ -13,8 +13,8 @@ Our aim is to be a regional community for **building networks, form collaboratio
 
 All are welcome, whether or not you are from the South West of the UK, and whether or not you [self-define as a Research Software Engineer (RSE)](https://society-rse.org/what-is-an-rse/).
 
-The easiest way to communicate with everyone is via the `#rse-south-west` channel on the UK RSE Slack instance. Or join our mailing list to stay in touch with events!
+The [easiest way to communicate](join/index.qmd) with everyone is via the `#rse-south-west` channel on the UK RSE Slack. Or join our mailing list to stay in touch with events!
 
 ::: {.text-center}
-[Join our community](./join/index.qmd){.btn .btn-primary}
+[Join our community](join/index.qmd){.btn .btn-primary}
 :::

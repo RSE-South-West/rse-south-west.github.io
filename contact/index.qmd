@@ -2,6 +2,6 @@
 title: Contact us
 ---
 
-The easiest way to communicate with everyone is via the [#rse-south-west](https://ukrse.slack.com/archives/C085EGAULJ3) channel on the [UK RSE Slack instance](https://ukrse.slack.com/signup?redir=/archives/C085EGAULJ3).
+The easiest way to communicate with everyone is via the UK RSE Slack. First, [sign up to the Society's Slack](https://forms.gle/eU6536gnRtyCVGyh9), then when your account is approved, look for the [`#rse-south-west` channel](https://ukrse.slack.com/archives/C085EGAULJ3).
 
 If you would rather send us an email, you can contact our organisers from across the South West on: <south-west-organisers@society-rse.org>.

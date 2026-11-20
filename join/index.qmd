@@ -19,4 +19,4 @@ If you would like to get notifications about future events, you can join our mai
 
 ### Slack channel
 
-If you'd like to communicate with other members of the group, the easiest way is via [the `#rse-south-west` channel](https://ukrse.slack.com/signup?redir=/archives/C085EGAULJ3) on the UK RSE Slack instance.
+If you'd like to communicate with other members of the group, the easiest way is via the UK RSE Slack. First, [sign up to the Society's Slack](https://forms.gle/eU6536gnRtyCVGyh9), then when your account is approved, look for the [`#rse-south-west` channel](https://ukrse.slack.com/archives/C085EGAULJ3).

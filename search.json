@@ -1,57 +1,64 @@
 [
   {
-    "objectID": "meetings/2026-02-20-exeter/index.html",
-    "href": "meetings/2026-02-20-exeter/index.html",
-    "title": "Meeting of South West RSE’s at the University of Exeter",
+    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html",
+    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html",
+    "title": "Meeting report — University of Exeter (20 Feb 2026)",
     "section": "",
-    "text": "When: Friday 20 February 2026, 10am – 3pm (refreshments from 9:30am for a 10am start) Where: Peter Chalk Centre, Newman Red Lecture Theatre, Exeter, EX4 4QQ (How to get here)"
+    "text": "This report was jointly authored by Ruxandra Neatu, Tom Hawes, Kolen Cheung and Jeremy Pike.\nThe third RSE South West meeting took place at the University of Exeter, bringing together 52 participants from across the region. The programme featured two keynote talks and 12 short talks (5–10 minutes) organised around three themes: “Community and Recognition in RSE”, “Methods, Practices, and Tools” in Research Software, and “Beyond Academia”. The event was funded by the Society of Research Software Engineering through their Events & Initiatives Grant, and we would like to extend a big thank you for their support."
   },
   {
-    "objectID": "meetings/2026-02-20-exeter/index.html#meeting-blog",
-    "href": "meetings/2026-02-20-exeter/index.html#meeting-blog",
-    "title": "Meeting of South West RSE’s at the University of Exeter",
-    "section": "Meeting Blog",
-    "text": "Meeting Blog\nRead our meeting blog for a full write-up of the day, including summaries of all the talks and the panel discussion."
+    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#keynote-talks",
+    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#keynote-talks",
+    "title": "Meeting report — University of Exeter (20 Feb 2026)",
+    "section": "Keynote Talks",
+    "text": "Keynote Talks\nWe kicked off promptly at 10am with our first keynote speaker, Emma Hogan from the Met Office. Her interactive talk kept the audience engaged while also gathering live insights into people’s views on Scrum and collaboration with research teams.\nThe second keynote was delivered by Tom Green and Ana Price from Bristol Centre for Supercomputing (BriCS), home to the Isambard-AI and Isambard 3 systems. Their talk explored how modern HPC centres are reshaping roles to bridge systems administration and research software engineering, enabling researchers to work more effectively with increasingly complex software environments."
   },
   {
-    "objectID": "meetings/2026-02-20-exeter/index.html#organisers",
-    "href": "meetings/2026-02-20-exeter/index.html#organisers",
-    "title": "Meeting of South West RSE’s at the University of Exeter",
-    "section": "Organisers",
-    "text": "Organisers\n\nJeremy Pike (Lead)\nTom Hawes\nRuxandra Neatu\nPaul Wright"
+    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#community-and-recognition-in-rse",
+    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#community-and-recognition-in-rse",
+    "title": "Meeting report — University of Exeter (20 Feb 2026)",
+    "section": "Community and Recognition in RSE",
+    "text": "Community and Recognition in RSE\nWe then moved into our first session of short talks, themed “Community and Recognition in RSE”. The session highlighted the many ways RSEs build and sustain communities across institutions and disciplines. A presentation on JOSS from Warrick Ball emphasised opportunities for RSEs to take the lead on research software publications and gain recognition for their contributions.\nSpeakers also introduced several teams and initiatives that support researchers and strengthen the RSE community. We heard about the RSE group at the University of Bath from Stephen Cook, the NERC Earth Observation Data Analysis and AI Service at Plymouth Marine Laboratory from Dan Clewley, and climate services work at the Met Office from Daniel Cubbon.\nMichael Pei highlighted the RSE-supported server infrastructure at the Bristol Composites Institute. Nicole Whippey gave an update on the X-Cited and GW4 initiatives from the University of Exeter, both of which aim to foster collaboration and connections across institutions."
   },
   {
-    "objectID": "meetings/2026-02-20-exeter/index.html#purpose",
-    "href": "meetings/2026-02-20-exeter/index.html#purpose",
-    "title": "Meeting of South West RSE’s at the University of Exeter",
-    "section": "Purpose",
-    "text": "Purpose\nFollowing a successful event at the University of Bristol in June 2025, the University of Exeter hosted a third meeting on Friday 20 February 2026."
+    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#lunch-and-walk",
+    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#lunch-and-walk",
+    "title": "Meeting report — University of Exeter (20 Feb 2026)",
+    "section": "Lunch and Walk",
+    "text": "Lunch and Walk\nWe had a buffet lunch in the foyer and common area, which made for great socialising and networking with both new and familiar colleagues. Fortunately, the weather held out, and we were able to get some fresh air with a short walk around the Reed Hall gardens, which were showing the first signs of spring with banks of early spring flowers."
   },
   {
-    "objectID": "meetings/2026-02-20-exeter/index.html#code-of-conduct",
-    "href": "meetings/2026-02-20-exeter/index.html#code-of-conduct",
-    "title": "Meeting of South West RSE’s at the University of Exeter",
-    "section": "Code of conduct",
-    "text": "Code of conduct\nAll participants are expected to adhere to the Society of RSE code of conduct for events."
+    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#methods-practices-and-tools-in-research-software",
+    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#methods-practices-and-tools-in-research-software",
+    "title": "Meeting report — University of Exeter (20 Feb 2026)",
+    "section": "Methods, Practices, and Tools in Research Software",
+    "text": "Methods, Practices, and Tools in Research Software\nSession 2 featured four fantastic lighting talks focused on “Methods, Practices, and Tools” in Research Software in an action packed 30 minutes!\nJames Frost (Met Office) opened with a showcase on automatically testing web interfaces with Playwright, highlighting the growing need for reliable, automated UI validation in RSE projects.\nKieren Pitts (University of Bristol) then demonstrated a Telegram bot that delivers seasonal climate forecasts directly to users, illustrating how messaging platforms can simplify the process.\nTom Bending (University of Exeter) discussed efforts to accelerate astrophysical simulations on GPUs, focussing on the challenges of adapting decades‑old CPU‑optimised code and showing some fascinating videos of star cluster formation.\nFinally, Fred Wobus (University of Exeter) explored whether an MCP server could serve as a flexible alternative to traditional command‑line clients, which was motivated by a project with Defra."
   },
   {
-    "objectID": "meetings/2026-02-20-exeter/index.html#agenda",
-    "href": "meetings/2026-02-20-exeter/index.html#agenda",
-    "title": "Meeting of South West RSE’s at the University of Exeter",
-    "section": "Agenda",
-    "text": "Agenda\n\n\n\n09:30\n\n\n\nRegistration & refreshments\n\n\n\n\n\n10:00\n\n\n\nWelcome\n\n\nRuxandra Neatu\n\n\n\n\n\n10:05\n\n\n\nDelivering high-quality research software that lasts: Is there a need for learning resources to enable iterative, customer‑focused development practices? (slides)\n\n\nEmma Hogan (Met Office) keynote 20 min\n\n\n\n\n\n\n10:25\n\n\n\n Building for the Future with The Bristol Centre for Supercomputing \n\n\nAnna Price & Tom Green (University of Bristol) keynote 20 min\n\n\n\n\n\n10:45\n\n\n\nNetworking break and group photo 20 min\n\nRefreshments and informal discussion\n\n\n\n\n\n11:05\n\n\n\n\n Session 1: Community and Recognition in RSE  55 min\n\n\n\n JOSS×RSECon26: A brief introduction to Research Software Papers at RSECon26  remote\n\n\nWarrick Ball (University of Birmingham) 10 min\n\n\n\n\n Introduction to the Bath Research Software Engineering Group \n\n\nStephen Cook (University of Bath) 5 min\n\n\n\n\n Scaling Climate Services at the Met Office: An Introduction to the Work and the Team \n\n\nAlex Stanhope & Daniel Cubbon (Met Office) 10 min\n\n\n\n\n The NERC Earth Observation Data Analysis and AI Service (NEODAAS) and other projects the RSE team at Plymouth Marine Laboratory work on \n\n\nDan Clewley (Plymouth Marine Laboratory) 10 min\n\n\n\n\n X-CITED: Building RSE Careers Through Community & Development \n\n\nNicole Whippey (University of Exeter) 5 min\n\n\n\n\n RSE Adventures in Server Management \n\n\nMichael Pei (University of Bristol) 5 min\n\n\n\nDiscussion & Q&A 10 min\n\n\n\n\n\n\n12:00\n\n\n\nLunch60 min\n\nLunch and optional walk\n\n\n\n\n\n13:00\n\n\n\n\n Session 2: Methods, Practices, and Tools in Research Software  30 min\n\n\n\n Tool showcase: Automatically testing web interfaces \n\n\nJames Frost (Met Office) 5 min\n\n\n\n\n Developing a Telegram bot to deliver seasonal climate forecasts \n\n\nKieren Pitts (University of Bristol) 5 min\n\n\n\n\n Accelerating Astrophysical Smoothed Particle Hydrodynamics with GPUs \n\n\nTom Bending (University of Exeter) 5 min\n\n\n\n\nIs an MCP server a viable alternative to a command-line client?\n\n\nFred Wobus (University of Exeter) 5 min\n\n\n\nDiscussion & Q&A 10 min\n\n\n\n\n\n\n\n13:30\n\n\n\n\n Session 3: Beyond Academia  30 min\n\n\n\nRAPIDS/CUDA-X Data Science and how GPU Acceleration fits in the PyData ecosystem\n\n\nJacob Tomlinson (NVIDIA) 10 min\n\n\n\n\nWorking as a bioinformatician in the Life Sciences industry\n\n\nJack Feltham (Syngenta) 10 min\n\n\n\nDiscussion & Q&A 10 min\n\n\n\n\n\n\n14:00\n\n\n\nNetworking break20 min\n\nRefreshments and informal discussion\n\n\n\n\n14:20\n\n\n\nPanel Discussion: Quality and Reproducibility in Academia and Industry35 min\n\n\nChair: Kolen Cheung (University of Exeter)\n\n\n\nEmma Hogan (Met Office)\n\n\nNicole Whippey (University of Exeter)\n\n\nJack Feltham (Syngenta)\n\n\nDan Clewley (Plymouth Marine Laboratory)\n\n\n\n\n\n\n14:55\n\n\n\nClosing5 min\n\n\nTom Hawes, Fliss Guest\n\n\n\n\n\n15:00\n\n\n\nInformal pub trip\n\n\nPub trip to Exeter’s famous orangery ( The Imperial, EX4 4AH ), conveniently located next to Exeter St. Davids station"
+    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#beyond-academia",
+    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#beyond-academia",
+    "title": "Meeting report — University of Exeter (20 Feb 2026)",
+    "section": "Beyond Academia",
+    "text": "Beyond Academia\nThe afternoon saw a session focussing on research software engineering outside of academia.\nJack Feltham from Syngenta spoke about working as a bioinformatician in the life sciences industry. He compared industry and academia, noting that academia often focuses on deep, exploratory work in small groups, while industry work typically involves multiple projects with a stronger emphasis on collaboration.\nJacob Tomlinson from NVIDIA then introduced GPU-accelerated data science with the RAPIDS libraries from the CUDA-X ecosystem. He highlighted how RAPIDS allows Python developers to use GPUs alongside familiar tools such as Pandas and Scikit-Learn without writing CUDA kernels.\nThroughout the event, both speakers emphasised that industry is not one monolithic entity and that there is a lot of variety in the work being done, encouraging us to bear this in mind when talking about how things are done in industry vs academia."
   },
   {
-    "objectID": "meetings/2026-02-20-exeter/index.html#contact-the-organisers-and-other-attendees",
-    "href": "meetings/2026-02-20-exeter/index.html#contact-the-organisers-and-other-attendees",
-    "title": "Meeting of South West RSE’s at the University of Exeter",
-    "section": "Contact the organisers and other attendees",
-    "text": "Contact the organisers and other attendees\nThe easiest way to communicate with everyone is via the #rse-south-west channel on the UK RSE Slack instance.\nIf you would rather send us an email, please contact: rse-south-west-2026@exeter.ac.uk."
+    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#the-panel-discussion-quality-and-reproducibility-in-academia-and-industry",
+    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#the-panel-discussion-quality-and-reproducibility-in-academia-and-industry",
+    "title": "Meeting report — University of Exeter (20 Feb 2026)",
+    "section": "The Panel Discussion: Quality and Reproducibility in Academia and Industry",
+    "text": "The Panel Discussion: Quality and Reproducibility in Academia and Industry\nThe day concluded with a panel discussion on “Quality and Reproducibility in Academia and Industry”, featuring Emma Hogan (Met Office), Jacob Tomlinson (NVIDIA), Jack Feltham (Syngenta), and Dan Clewley (Plymouth Marine Laboratory), chaired by Kolen Cheung (University of Exeter).\nA clear consensus emerged: both academia and industry value quality and reproducibility, but the real challenge lies in balancing practices such as testing, documentation, and reproducibility with delivering results under time pressure. As Emma noted, drawing on Agile principles, the level of investment should ultimately be guided by stakeholder value. Ultimately reproducibility is a matter of degree, and that choosing the appropriate level for a given project is a skill every RSE must develop.\nThe discussion ended on a thought-provoking note when Jacob observed that much of industry’s open-source work, including GPU-accelerated software at NVIDIA, is developed in the open and subject to public scrutiny, whereas much academic work still happens behind closed doors."
   },
   {
-    "objectID": "meetings/2026-02-20-exeter/index.html#acknowledgement",
-    "href": "meetings/2026-02-20-exeter/index.html#acknowledgement",
-    "title": "Meeting of South West RSE’s at the University of Exeter",
+    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#pub-trip",
+    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#pub-trip",
+    "title": "Meeting report — University of Exeter (20 Feb 2026)",
+    "section": "Pub Trip!",
+    "text": "Pub Trip!\nOverall, it was a vibrant day, with the talks giving participants plenty to discuss as conversations continued into the pub at The Imperial, conveniently located on the way to Exeter St Davids station."
+  },
+  {
+    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#acknowledgement",
+    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#acknowledgement",
+    "title": "Meeting report — University of Exeter (20 Feb 2026)",
     "section": "Acknowledgement",
     "text": "Acknowledgement\nWe’re grateful to the Society of Research Software Engineering for providing financial support for this meeting.\n\n\n\nSociety of RSE logo (resized), used with permission. See https://society-rse.org/trademark-and-logo-policy/ for terms of use."
   },
@@ -228,7 +235,14 @@
     "href": "index.html",
     "title": "Welcome to RSE South West",
     "section": "",
-    "text": "We are a community of research software engineers mainly from the South West of the UK and GW4 Universities who are not affiliated with a larger regional RSE group.\nOur aim is to be a regional community for building networks, form collaborations and share knowledge. We are doing this through several meetings aimed to take place at regular intervals.\n\nBe part of our community!\nAll are welcome, whether or not you are from the South West of the UK, and whether or not you self-define as a Research Software Engineer (RSE).\nThe easiest way to communicate with everyone is via the #rse-south-west channel on the UK RSE Slack instance. Or join our mailing list to stay in touch with events!\n\nJoin our community"
+    "text": "We are a community of research software engineers mainly from the South West of the UK and GW4 Universities who are not affiliated with a larger regional RSE group.\nOur aim is to be a regional community for building networks, form collaborations and share knowledge. We are doing this through several meetings aimed to take place at regular intervals.\n\nBe part of our community!\nAll are welcome, whether or not you are from the South West of the UK, and whether or not you self-define as a Research Software Engineer (RSE).\nThe easiest way to communicate with everyone is via the #rse-south-west channel on the UK RSE Slack. Or join our mailing list to stay in touch with events!\n\nJoin our community"
+  },
+  {
+    "objectID": "contact/index.html",
+    "href": "contact/index.html",
+    "title": "Contact us",
+    "section": "",
+    "text": "The easiest way to communicate with everyone is via the UK RSE Slack. First, sign up to the Society’s Slack, then when your account is approved, look for the #rse-south-west channel.\nIf you would rather send us an email, you can contact our organisers from across the South West on: south-west-organisers@society-rse.org."
   },
   {
     "objectID": "join/index.html",
@@ -242,14 +256,7 @@
     "href": "join/index.html#how-to-get-involved",
     "title": "Join our community",
     "section": "How to get involved",
-    "text": "How to get involved\n\nEvents\nYou can attend our meetings. There are 2-3 each year and they are organised to complement the national RSE conference, RSECon.\n\n\nMailing list\nIf you would like to get notifications about future events, you can join our mailing list:\n\nIf you have a Google Account, you can subscribe via our Google Groups page.\nIf you don’t have a Google Account, you can subscribe by sending a blank email to: south-west+subscribe@society-rse.org. Look out for an automated email and reply to that email to subscribe.\n\n\n\nSlack channel\nIf you’d like to communicate with other members of the group, the easiest way is via the #rse-south-west channel on the UK RSE Slack instance."
-  },
-  {
-    "objectID": "contact/index.html",
-    "href": "contact/index.html",
-    "title": "Contact us",
-    "section": "",
-    "text": "The easiest way to communicate with everyone is via the #rse-south-west channel on the UK RSE Slack instance.\nIf you would rather send us an email, you can contact our organisers from across the South West on: south-west-organisers@society-rse.org."
+    "text": "How to get involved\n\nEvents\nYou can attend our meetings. There are 2-3 each year and they are organised to complement the national RSE conference, RSECon.\n\n\nMailing list\nIf you would like to get notifications about future events, you can join our mailing list:\n\nIf you have a Google Account, you can subscribe via our Google Groups page.\nIf you don’t have a Google Account, you can subscribe by sending a blank email to: south-west+subscribe@society-rse.org. Look out for an automated email and reply to that email to subscribe.\n\n\n\nSlack channel\nIf you’d like to communicate with other members of the group, the easiest way is via the UK RSE Slack. First, sign up to the Society’s Slack, then when your account is approved, look for the #rse-south-west channel."
   },
   {
     "objectID": "meetings/next_meeting.html",
@@ -257,20 +264,6 @@
     "title": "RSE South West",
     "section": "",
     "text": "NoteNews\n\n\n\nNext meeting: TBC (Expected late 2026 or early 2027)"
-  },
-  {
-    "objectID": "meetings/index.html",
-    "href": "meetings/index.html",
-    "title": "Meetings",
-    "section": "",
-    "text": "Our goal is to meet in-person a few times each year, rotating locations across the South West region. It is a day to showcase interesting topics, share knowledge and build networks.\nThese meetings aim to complement the annual RSE conference and be useful to those in the South West / GW4 who are not part of a larger RSE group."
-  },
-  {
-    "objectID": "meetings/index.html#code-of-conduct",
-    "href": "meetings/index.html#code-of-conduct",
-    "title": "Meetings",
-    "section": "Code of conduct",
-    "text": "Code of conduct\nAll participants are expected to adhere to the Society of RSE code of conduct for events."
   },
   {
     "objectID": "meetings/2025-06-23-bristol/discussion.html",
@@ -306,6 +299,20 @@
     "title": "Summary of discussion from the 23 June RSE South West meeting",
     "section": "Any other topics to discuss?",
     "text": "Any other topics to discuss?\n\nMeet at RSECon?​\n\nThere is a meeting event (possibly a regional RSE groups Birds of a Feather session) at RSECon25 which we should get involved in.\n\nUse of AI in coding​\n\nNo time to discuss but could be a good topic for the next meeting"
+  },
+  {
+    "objectID": "meetings/index.html",
+    "href": "meetings/index.html",
+    "title": "Meetings",
+    "section": "",
+    "text": "Our goal is to meet in-person a few times each year, rotating locations across the South West region. It is a day to showcase interesting topics, share knowledge and build networks.\nThese meetings aim to complement the annual RSE conference and be useful to those in the South West / GW4 who are not part of a larger RSE group."
+  },
+  {
+    "objectID": "meetings/index.html#code-of-conduct",
+    "href": "meetings/index.html#code-of-conduct",
+    "title": "Meetings",
+    "section": "Code of conduct",
+    "text": "Code of conduct\nAll participants are expected to adhere to the Society of RSE code of conduct for events."
   },
   {
     "objectID": "meetings/2026-07-31-bath/index.html",
@@ -378,65 +385,58 @@
     "text": "Acknowledgements\nWe’re grateful to the Society of Research Software Engineering for providing financial support for this meeting.\n\n\n\nSociety of RSE logo (resized), used with permission. See https://society-rse.org/trademark-and-logo-policy/ for terms of use."
   },
   {
-    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html",
-    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html",
-    "title": "Meeting report — University of Exeter (20 Feb 2026)",
+    "objectID": "meetings/2026-02-20-exeter/index.html",
+    "href": "meetings/2026-02-20-exeter/index.html",
+    "title": "Meeting of South West RSE’s at the University of Exeter",
     "section": "",
-    "text": "This report was jointly authored by Ruxandra Neatu, Tom Hawes, Kolen Cheung and Jeremy Pike.\nThe third RSE South West meeting took place at the University of Exeter, bringing together 52 participants from across the region. The programme featured two keynote talks and 12 short talks (5–10 minutes) organised around three themes: “Community and Recognition in RSE”, “Methods, Practices, and Tools” in Research Software, and “Beyond Academia”. The event was funded by the Society of Research Software Engineering through their Events & Initiatives Grant, and we would like to extend a big thank you for their support."
+    "text": "When: Friday 20 February 2026, 10am – 3pm (refreshments from 9:30am for a 10am start) Where: Peter Chalk Centre, Newman Red Lecture Theatre, Exeter, EX4 4QQ (How to get here)"
   },
   {
-    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#keynote-talks",
-    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#keynote-talks",
-    "title": "Meeting report — University of Exeter (20 Feb 2026)",
-    "section": "Keynote Talks",
-    "text": "Keynote Talks\nWe kicked off promptly at 10am with our first keynote speaker, Emma Hogan from the Met Office. Her interactive talk kept the audience engaged while also gathering live insights into people’s views on Scrum and collaboration with research teams.\nThe second keynote was delivered by Tom Green and Ana Price from Bristol Centre for Supercomputing (BriCS), home to the Isambard-AI and Isambard 3 systems. Their talk explored how modern HPC centres are reshaping roles to bridge systems administration and research software engineering, enabling researchers to work more effectively with increasingly complex software environments."
+    "objectID": "meetings/2026-02-20-exeter/index.html#meeting-blog",
+    "href": "meetings/2026-02-20-exeter/index.html#meeting-blog",
+    "title": "Meeting of South West RSE’s at the University of Exeter",
+    "section": "Meeting Blog",
+    "text": "Meeting Blog\nRead our meeting blog for a full write-up of the day, including summaries of all the talks and the panel discussion."
   },
   {
-    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#community-and-recognition-in-rse",
-    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#community-and-recognition-in-rse",
-    "title": "Meeting report — University of Exeter (20 Feb 2026)",
-    "section": "Community and Recognition in RSE",
-    "text": "Community and Recognition in RSE\nWe then moved into our first session of short talks, themed “Community and Recognition in RSE”. The session highlighted the many ways RSEs build and sustain communities across institutions and disciplines. A presentation on JOSS from Warrick Ball emphasised opportunities for RSEs to take the lead on research software publications and gain recognition for their contributions.\nSpeakers also introduced several teams and initiatives that support researchers and strengthen the RSE community. We heard about the RSE group at the University of Bath from Stephen Cook, the NERC Earth Observation Data Analysis and AI Service at Plymouth Marine Laboratory from Dan Clewley, and climate services work at the Met Office from Daniel Cubbon.\nMichael Pei highlighted the RSE-supported server infrastructure at the Bristol Composites Institute. Nicole Whippey gave an update on the X-Cited and GW4 initiatives from the University of Exeter, both of which aim to foster collaboration and connections across institutions."
+    "objectID": "meetings/2026-02-20-exeter/index.html#organisers",
+    "href": "meetings/2026-02-20-exeter/index.html#organisers",
+    "title": "Meeting of South West RSE’s at the University of Exeter",
+    "section": "Organisers",
+    "text": "Organisers\n\nJeremy Pike (Lead)\nTom Hawes\nRuxandra Neatu\nPaul Wright"
   },
   {
-    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#lunch-and-walk",
-    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#lunch-and-walk",
-    "title": "Meeting report — University of Exeter (20 Feb 2026)",
-    "section": "Lunch and Walk",
-    "text": "Lunch and Walk\nWe had a buffet lunch in the foyer and common area, which made for great socialising and networking with both new and familiar colleagues. Fortunately, the weather held out, and we were able to get some fresh air with a short walk around the Reed Hall gardens, which were showing the first signs of spring with banks of early spring flowers."
+    "objectID": "meetings/2026-02-20-exeter/index.html#purpose",
+    "href": "meetings/2026-02-20-exeter/index.html#purpose",
+    "title": "Meeting of South West RSE’s at the University of Exeter",
+    "section": "Purpose",
+    "text": "Purpose\nFollowing a successful event at the University of Bristol in June 2025, the University of Exeter hosted a third meeting on Friday 20 February 2026."
   },
   {
-    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#methods-practices-and-tools-in-research-software",
-    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#methods-practices-and-tools-in-research-software",
-    "title": "Meeting report — University of Exeter (20 Feb 2026)",
-    "section": "Methods, Practices, and Tools in Research Software",
-    "text": "Methods, Practices, and Tools in Research Software\nSession 2 featured four fantastic lighting talks focused on “Methods, Practices, and Tools” in Research Software in an action packed 30 minutes!\nJames Frost (Met Office) opened with a showcase on automatically testing web interfaces with Playwright, highlighting the growing need for reliable, automated UI validation in RSE projects.\nKieren Pitts (University of Bristol) then demonstrated a Telegram bot that delivers seasonal climate forecasts directly to users, illustrating how messaging platforms can simplify the process.\nTom Bending (University of Exeter) discussed efforts to accelerate astrophysical simulations on GPUs, focussing on the challenges of adapting decades‑old CPU‑optimised code and showing some fascinating videos of star cluster formation.\nFinally, Fred Wobus (University of Exeter) explored whether an MCP server could serve as a flexible alternative to traditional command‑line clients, which was motivated by a project with Defra."
+    "objectID": "meetings/2026-02-20-exeter/index.html#code-of-conduct",
+    "href": "meetings/2026-02-20-exeter/index.html#code-of-conduct",
+    "title": "Meeting of South West RSE’s at the University of Exeter",
+    "section": "Code of conduct",
+    "text": "Code of conduct\nAll participants are expected to adhere to the Society of RSE code of conduct for events."
   },
   {
-    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#beyond-academia",
-    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#beyond-academia",
-    "title": "Meeting report — University of Exeter (20 Feb 2026)",
-    "section": "Beyond Academia",
-    "text": "Beyond Academia\nThe afternoon saw a session focussing on research software engineering outside of academia.\nJack Feltham from Syngenta spoke about working as a bioinformatician in the life sciences industry. He compared industry and academia, noting that academia often focuses on deep, exploratory work in small groups, while industry work typically involves multiple projects with a stronger emphasis on collaboration.\nJacob Tomlinson from NVIDIA then introduced GPU-accelerated data science with the RAPIDS libraries from the CUDA-X ecosystem. He highlighted how RAPIDS allows Python developers to use GPUs alongside familiar tools such as Pandas and Scikit-Learn without writing CUDA kernels.\nThroughout the event, both speakers emphasised that industry is not one monolithic entity and that there is a lot of variety in the work being done, encouraging us to bear this in mind when talking about how things are done in industry vs academia."
+    "objectID": "meetings/2026-02-20-exeter/index.html#agenda",
+    "href": "meetings/2026-02-20-exeter/index.html#agenda",
+    "title": "Meeting of South West RSE’s at the University of Exeter",
+    "section": "Agenda",
+    "text": "Agenda\n\n\n\n09:30\n\n\n\nRegistration & refreshments\n\n\n\n\n\n10:00\n\n\n\nWelcome\n\n\nRuxandra Neatu\n\n\n\n\n\n10:05\n\n\n\nDelivering high-quality research software that lasts: Is there a need for learning resources to enable iterative, customer‑focused development practices? (slides)\n\n\nEmma Hogan (Met Office) keynote 20 min\n\n\n\n\n\n\n10:25\n\n\n\n Building for the Future with The Bristol Centre for Supercomputing \n\n\nAnna Price & Tom Green (University of Bristol) keynote 20 min\n\n\n\n\n\n10:45\n\n\n\nNetworking break and group photo 20 min\n\nRefreshments and informal discussion\n\n\n\n\n\n11:05\n\n\n\n\n Session 1: Community and Recognition in RSE  55 min\n\n\n\n JOSS×RSECon26: A brief introduction to Research Software Papers at RSECon26  remote\n\n\nWarrick Ball (University of Birmingham) 10 min\n\n\n\n\n Introduction to the Bath Research Software Engineering Group \n\n\nStephen Cook (University of Bath) 5 min\n\n\n\n\n Scaling Climate Services at the Met Office: An Introduction to the Work and the Team \n\n\nAlex Stanhope & Daniel Cubbon (Met Office) 10 min\n\n\n\n\n The NERC Earth Observation Data Analysis and AI Service (NEODAAS) and other projects the RSE team at Plymouth Marine Laboratory work on \n\n\nDan Clewley (Plymouth Marine Laboratory) 10 min\n\n\n\n\n X-CITED: Building RSE Careers Through Community & Development \n\n\nNicole Whippey (University of Exeter) 5 min\n\n\n\n\n RSE Adventures in Server Management \n\n\nMichael Pei (University of Bristol) 5 min\n\n\n\nDiscussion & Q&A 10 min\n\n\n\n\n\n\n12:00\n\n\n\nLunch60 min\n\nLunch and optional walk\n\n\n\n\n\n13:00\n\n\n\n\n Session 2: Methods, Practices, and Tools in Research Software  30 min\n\n\n\n Tool showcase: Automatically testing web interfaces \n\n\nJames Frost (Met Office) 5 min\n\n\n\n\n Developing a Telegram bot to deliver seasonal climate forecasts \n\n\nKieren Pitts (University of Bristol) 5 min\n\n\n\n\n Accelerating Astrophysical Smoothed Particle Hydrodynamics with GPUs \n\n\nTom Bending (University of Exeter) 5 min\n\n\n\n\nIs an MCP server a viable alternative to a command-line client?\n\n\nFred Wobus (University of Exeter) 5 min\n\n\n\nDiscussion & Q&A 10 min\n\n\n\n\n\n\n\n13:30\n\n\n\n\n Session 3: Beyond Academia  30 min\n\n\n\nRAPIDS/CUDA-X Data Science and how GPU Acceleration fits in the PyData ecosystem\n\n\nJacob Tomlinson (NVIDIA) 10 min\n\n\n\n\nWorking as a bioinformatician in the Life Sciences industry\n\n\nJack Feltham (Syngenta) 10 min\n\n\n\nDiscussion & Q&A 10 min\n\n\n\n\n\n\n14:00\n\n\n\nNetworking break20 min\n\nRefreshments and informal discussion\n\n\n\n\n14:20\n\n\n\nPanel Discussion: Quality and Reproducibility in Academia and Industry35 min\n\n\nChair: Kolen Cheung (University of Exeter)\n\n\n\nEmma Hogan (Met Office)\n\n\nNicole Whippey (University of Exeter)\n\n\nJack Feltham (Syngenta)\n\n\nDan Clewley (Plymouth Marine Laboratory)\n\n\n\n\n\n\n14:55\n\n\n\nClosing5 min\n\n\nTom Hawes, Fliss Guest\n\n\n\n\n\n15:00\n\n\n\nInformal pub trip\n\n\nPub trip to Exeter’s famous orangery ( The Imperial, EX4 4AH ), conveniently located next to Exeter St. Davids station"
   },
   {
-    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#the-panel-discussion-quality-and-reproducibility-in-academia-and-industry",
-    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#the-panel-discussion-quality-and-reproducibility-in-academia-and-industry",
-    "title": "Meeting report — University of Exeter (20 Feb 2026)",
-    "section": "The Panel Discussion: Quality and Reproducibility in Academia and Industry",
-    "text": "The Panel Discussion: Quality and Reproducibility in Academia and Industry\nThe day concluded with a panel discussion on “Quality and Reproducibility in Academia and Industry”, featuring Emma Hogan (Met Office), Jacob Tomlinson (NVIDIA), Jack Feltham (Syngenta), and Dan Clewley (Plymouth Marine Laboratory), chaired by Kolen Cheung (University of Exeter).\nA clear consensus emerged: both academia and industry value quality and reproducibility, but the real challenge lies in balancing practices such as testing, documentation, and reproducibility with delivering results under time pressure. As Emma noted, drawing on Agile principles, the level of investment should ultimately be guided by stakeholder value. Ultimately reproducibility is a matter of degree, and that choosing the appropriate level for a given project is a skill every RSE must develop.\nThe discussion ended on a thought-provoking note when Jacob observed that much of industry’s open-source work, including GPU-accelerated software at NVIDIA, is developed in the open and subject to public scrutiny, whereas much academic work still happens behind closed doors."
+    "objectID": "meetings/2026-02-20-exeter/index.html#contact-the-organisers-and-other-attendees",
+    "href": "meetings/2026-02-20-exeter/index.html#contact-the-organisers-and-other-attendees",
+    "title": "Meeting of South West RSE’s at the University of Exeter",
+    "section": "Contact the organisers and other attendees",
+    "text": "Contact the organisers and other attendees\nThe easiest way to communicate with everyone is via the #rse-south-west channel on the UK RSE Slack instance.\nIf you would rather send us an email, please contact: rse-south-west-2026@exeter.ac.uk."
   },
   {
-    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#pub-trip",
-    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#pub-trip",
-    "title": "Meeting report — University of Exeter (20 Feb 2026)",
-    "section": "Pub Trip!",
-    "text": "Pub Trip!\nOverall, it was a vibrant day, with the talks giving participants plenty to discuss as conversations continued into the pub at The Imperial, conveniently located on the way to Exeter St Davids station."
-  },
-  {
-    "objectID": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#acknowledgement",
-    "href": "meetings/2026-02-20-exeter/exeter-meeting-blog.html#acknowledgement",
-    "title": "Meeting report — University of Exeter (20 Feb 2026)",
+    "objectID": "meetings/2026-02-20-exeter/index.html#acknowledgement",
+    "href": "meetings/2026-02-20-exeter/index.html#acknowledgement",
+    "title": "Meeting of South West RSE’s at the University of Exeter",
     "section": "Acknowledgement",
     "text": "Acknowledgement\nWe’re grateful to the Society of Research Software Engineering for providing financial support for this meeting.\n\n\n\nSociety of RSE logo (resized), used with permission. See https://society-rse.org/trademark-and-logo-policy/ for terms of use."
   }
